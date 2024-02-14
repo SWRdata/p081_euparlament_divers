@@ -51,6 +51,8 @@ merged_df["degrees"] = merged_df["degrees"].apply(lambda x: x.replace(",,", ",")
 merged_df["occupation"] = merged_df["occupation"].apply(lambda x: x.replace(",,", ","))
 merged_df = merged_df.replace("", np.nan)
 
+# XXXX Add universities to degrees from educated_at
+
 # Drop all unwanted columns
 merged_df = merged_df.drop(columns = ["id", "type", "sortLabel", "officialFamilyName", "officialGivenName",
                                       "degrees_x", "degrees_y", "occupation_x", "occupation_y"])
