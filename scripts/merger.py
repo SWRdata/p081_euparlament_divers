@@ -33,7 +33,6 @@ wikidata_date_df = wikidata_date_df.loc[wikidata_date_df["name"].isin(date_missi
 date_filled_df = pd.concat([date_in_df, wikidata_date_df], ignore_index = True)
 
 wikidata_rest_df = wikidata_df[["name", "relatives", "degrees", "educated_at", "occupation"]]
-
 second_merge_df = second_merge_df.drop(columns = ["born_day", "born_month", "born_year", "born_place"])
 
 # Do the rest of the merges
@@ -42,10 +41,19 @@ fourth_merge_df = pd.merge(third_merge_df, date_filled_df, on = "name", how = "l
 fifth_merge_df = pd.merge(fourth_merge_df, disability_df, on = "identifier", how = "left")
 merged_df = pd.merge(fifth_merge_df, wikidata_rest_df, on = "name", how = "left")
 
+# Merge degrees and occupation columns
+merged_df = merged_df.fillna("")
+merged_df["degrees"] = merged_df.apply(lambda row: ",".join(set(row["degrees_x"].split(",") + row["degrees_y"].split(","))), axis = 1)
+merged_df["occupation"] = merged_df.apply(lambda row: ",".join(set(row["occupation_x"].split(",") + row["occupation_y"].split(","))), axis = 1)
+merged_df["degrees"] = merged_df["degrees"].apply(lambda x: x.strip(","))
+merged_df["occupation"] = merged_df["occupation"].apply(lambda x: x.strip(","))
+merged_df["degrees"] = merged_df["degrees"].apply(lambda x: x.replace(",,", ","))
+merged_df["occupation"] = merged_df["occupation"].apply(lambda x: x.replace(",,", ","))
+merged_df = merged_df.replace("", np.nan)
+
 # Drop all unwanted columns
-merged_df = merged_df.drop(columns = ["id", "type", "sortLabel", "officialFamilyName", "officialGivenName", 
-                                      "Vice-Chair", "Member", "Substitute", "Chair",
-                                      "Vice-President", "President"])
+merged_df = merged_df.drop(columns = ["id", "type", "sortLabel", "officialFamilyName", "officialGivenName",
+                                      "degrees_x", "degrees_y", "occupation_x", "occupation_y"])
 
 # Convert dates to int
 for column in ["born_day", "born_month", "born_year"]:
