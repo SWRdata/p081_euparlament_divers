@@ -1,57 +1,60 @@
+import requests
+import json
 import pandas as pd
+import numpy as np
 from os import path
 
 dir = path.dirname(__file__)
 
-meps_df = pd.read_csv(path.join(dir, "..", "data", "merged.csv"), sep = ";")
-geonames_df = pd.read_csv(path.join(dir, "..", "data", "geonames.csv"), sep = ";")
-geonames_df["Name"] = geonames_df["Name"].str.lower()
-geonames_df = geonames_df.sort_values("Population", ascending = False)
-geonames_df["Alternate Names"] = geonames_df["Alternate Names"].str.lower()
-alt_geonames_df = geonames_df.loc[geonames_df["Alternate Names"].notna()]
+def geocode(born_place):
+    born_place = str(born_place)
+    # If no data on birth place, return nan
+    if born_place == "nan":
+        return pd.Series([np.nan, np.nan, np.nan])
+    print(born_place)
+    key = open(path.join(dir, "..", "opencagekey.txt"), "r").read()
+    url = "https://api.opencagedata.com/geocode/v1/json?q=" + born_place + "&key=" + key + "&proximity=50.0594725,14.1538226"
+    response = requests.get(url)
+    geocoded_dict = json.loads(response.content)
+    geocoded_df = pd.json_normalize(geocoded_dict["results"])
+    if "confidence" in geocoded_df.columns:
+        geocoded_df = geocoded_df.sort_values(by = "confidence", ascending = False)
+    # Exclude establishments named after places
+    if "components.house_number" in geocoded_df.columns:
+        geocoded_df = geocoded_df.loc[geocoded_df["components.house_number"].isna()].reset_index()
+    # If there are no results left, return nan
+    print(born_place, geocoded_df.columns)
+    if len(geocoded_df.index) == 0:
+        return pd.Series([np.nan, np.nan, np.nan])
+    if "components.ISO_3166-1_alpha-2" in geocoded_df.columns:
+        born_country = geocoded_df["components.ISO_3166-1_alpha-2"][0]
+    else:
+        born_country = np.nan
+    if "annotations.DMS.lat" in geocoded_df.columns:
+        born_lat = geocoded_df["annotations.DMS.lat"][0]
+    else:
+        born_lat = np.nan
+    if "annotations.DMS.lng" in geocoded_df.columns:
+        born_lng = geocoded_df["annotations.DMS.lng"][0]
+    else:
+        born_lng = np.nan
+    return pd.Series([born_country, born_lat, born_lng])
 
-def born_classifier(place_raw, home_country_code):
+def geoclassify(born_country, country):
     eu_country_codes = ["AT", "BE", "BG", "CY", "CZ", "DE", "DK", "EE", "ES", "FI",
                        "FR", "GR", "HR", "HU", "IE", "IT", "LT", "LU", "LV", "MT", "NL", "PL",
                        "PT", "RO", "SE", "SI", "SK"]
-    other_country_codes = eu_country_codes
-    other_country_codes.remove(home_country_code)
-    # clean place name
-    place = str(place_raw).lower()
-    if place != "nan":
-        for sign in ["(", "/", "-", ","]:
-            place = place.split(sign)[0].strip()
-        country_codes = geonames_df.loc[geonames_df["Name"] == place]["Country Code"].values
-        if len(country_codes) > 0:
-            if country_codes[0] == home_country_code:
-                return "native"
-            elif country_codes[0] in other_country_codes:
-                return "eu"
-            elif geonames_df["Alternate Names"].str.contains(place, na = False).any():
-                alt_country_codes = alt_geonames_df.loc[alt_geonames_df["Alternate Names"].str.contains(place)]["Country Code"].values
-                if len(alt_country_codes) > 0:
-                    if alt_country_codes[0] == home_country_code:
-                        return "native"
-                    elif alt_country_codes[0] in other_country_codes:
-                        return "eu"
-                    else:
-                        return "other"
-        elif geonames_df["Alternate Names"].str.contains(place, na = False).any():
-            alt_country_codes = alt_geonames_df.loc[alt_geonames_df["Alternate Names"].str.contains(place)]["Country Code"].values
-            if len(alt_country_codes) > 0:
-                if alt_country_codes[0] == home_country_code:
-                    return "native"
-                elif alt_country_codes[0] in other_country_codes:
-                    return "eu"
-                else:
-                    return "other"
-            else:
-                print(place_raw, place)
-        # place names not being recognised
-        else:
-           return "not recognised"
-        
-meps_df["born_region"] = meps_df.apply(lambda x: born_classifier(x.born_place, x.country), axis = 1)
+    if born_country == np.nan:
+        return np.nan
+    if born_country == country:
+        return "native"
+    if born_country in eu_country_codes:
+        return "eu"
+    return "other"
+
+meps_df = pd.read_csv(path.join(dir, "..", "data", "merged.csv"), sep = ";")
+meps_df[["born_country", "born_lat", "born_lng"]] = meps_df.apply(lambda row: geocode(row.born_place), axis = 1)
+meps_df["born_region"] = meps_df.apply(lambda row: geoclassify(row.born_country, row.country), axis = 1)
 
 # Save
 meps_df.to_csv(path.join(dir, "..", "data", "output" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
