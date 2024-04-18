@@ -64,11 +64,12 @@ def keep_highest_degree(degree_string):
 merged_df["degrees"] = merged_df["degrees"].apply(lambda x: keep_highest_degree(x))
 merged_df = merged_df.rename(columns = {"degrees": "highest_degree"})
 
-# XXXX Add universities to degrees from educated_at
-
 # Drop all unwanted columns
 merged_df = merged_df.drop(columns = ["id", "type", "sortLabel", "officialFamilyName", "officialGivenName",
                                       "degrees_x", "degrees_y", "occupation_x", "occupation_y"])
+
+# Drop duplicate rows
+merged_df = merged_df[~merged_df["identifier"].duplicated()]
 
 # Convert dates to int
 for column in ["born_day", "born_month", "born_year"]:

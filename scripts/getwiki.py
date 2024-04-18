@@ -144,7 +144,8 @@ merged_meps_df["name"] = merged_meps_df["name"].replace({
     "Graça Carvalho": "Maria da Graça CARVALHO",
     "Diana Riba Giner": "Diana RIBA I GINER",
     "Eva-Maria Poptcheva": "Eva Maria Poptcheva",
-    "Yannis Lagos": "Ioannis Lagos"
+    "Yannis Lagos": "Ioannis Lagos",
+    "Cristian Terheș": "Cristian TERHEŞ"
 })
 
 # Save
