@@ -20,7 +20,7 @@ second_merge_df["name"] = second_merge_df["name"].str.lower().str.strip()
 wikidata_df["name"] = wikidata_df["name"].str.lower().str.strip()
 
 # Do the complicated fill-merges for birthplace & -date
-wikidata_place_df = wikidata_df[["name", "born_place"]]
+wikidata_place_df = wikidata_df[["name", "born_place", "lat", "lon"]]
 place_missing = second_merge_df.loc[second_merge_df["born_place"].isna()]["name"].tolist()
 place_in_df = second_merge_df.loc[second_merge_df["born_place"].notna()][["name", "born_place"]]
 wikidata_place_df = wikidata_place_df.loc[wikidata_place_df["name"].isin(place_missing)]

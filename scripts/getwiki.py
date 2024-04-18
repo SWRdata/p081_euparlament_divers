@@ -4,6 +4,7 @@ import json
 from os import path
 from wikidata.client import Client
 import numpy as np
+import time
 
 dir = path.dirname(__file__)
 
@@ -37,7 +38,7 @@ occupation_dict = {
 }
 
 # One big SPARQL query
-query = '''SELECT ?mep ?mepLabel ?fatherLabel ?motherLabel ?birthdateLabel ?birthplaceLabel ?relativeLabel ?degreeLabel ?educatedatLabel ?occupationLabel
+query = '''SELECT ?mep ?mepLabel ?fatherLabel ?motherLabel ?birthdateLabel ?birthplace ?birthplaceLabel ?relativeLabel ?degreeLabel ?educatedatLabel ?occupationLabel
 WHERE { 
   ?mep p:P39 ?position. 
   ?position (ps:P39/(wdt:P279*)) wd:Q27169. 
@@ -60,7 +61,7 @@ meps_df = pd.json_normalize(meps_dict["results"]["bindings"])
 meps_df = meps_df.fillna("")
 # Group the rows of MEPs who have several relatives, degrees, educations or occupations
 merged_meps_df = meps_df.groupby(["mep.value", "mepLabel.value", "fatherLabel.value", "motherLabel.value", 
-                                  "birthdateLabel.value", "birthplaceLabel.value"]).agg({
+                                  "birthdateLabel.value", "birthplaceLabel.value", "birthplace.value"]).agg({
     "relativeLabel.value": lambda x: ",".join(list(set(x.astype(str)))),
     "degreeLabel.value": lambda x: ",".join(list(set(x.astype(str)))),
     "educatedatLabel.value": lambda x: ",".join(list(set(x.astype(str)))),
@@ -77,8 +78,45 @@ merged_meps_df = merged_meps_df.rename(columns = {
     "relativeLabel.value": "relatives",
     "degreeLabel.value": "degrees",
     "educatedatLabel.value": "educated_at",
-    "occupationLabel.value": "occupation"
+    "occupationLabel.value": "occupation",
+    "birthplace.value": "birthplace_link"
 })
+
+# Get coordinates for birthplaces
+
+def get_coordinates(links):
+    # Construct query
+    query_one = '''SELECT ?birthplace ?coordinates
+    WHERE { 
+    VALUES ?birthplace { wd:'''
+    query_two = ''' }
+    ?birthplace wdt:P625 ?coordinates.
+    }'''
+    entity_string = ""
+    for link in links:
+        #print(link)
+        entity = link.split("entity/")[1]
+        entity = " wd:" + entity
+        entity_string += entity
+    query = query_one + entity_string + query_two
+
+    # Convert query result to dataframe
+    wikidata_url = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+    query_result = requests.get(wikidata_url, params = {"query": query, "format": "json"})
+    birthplace_dict = json.loads(query_result.content)
+    birthplace_df = pd.json_normalize(birthplace_dict["results"]["bindings"])
+    birthplace_df = birthplace_df.fillna("")
+    return birthplace_df
+
+#birthplace_links = merged_meps_df["birthplace_link"].tolist()
+#birthplace_links = list(set(birthplace_links))
+birthplace_links = ["https://www.wikidata.org/entity/Q731079", "https://www.wikidata.org/entity/Q669979"]
+birthplace_df = get_coordinates(birthplace_links)
+birthplace_df = birthplace_df.rename(columns = {"birthplace.value": "birthplace_link", "coordinates.value": "coordinates"})
+birthplace_df["lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
+birthplace_df["lon"] = birthplace_df["coordinates"].str.split(" ", expand = True)[1].str.strip(")")
+birthplace_df = birthplace_df.drop(["birthplace.type", "coordinates.datatype", "coordinates.type", "coordinates"], axis = 1)
+merged_meps_df = pd.merge(merged_meps_df, birthplace_df, on = "birthplace_link")
 
 # Split born_date column
 merged_meps_df["born_day"] = merged_meps_df["born_date"]
