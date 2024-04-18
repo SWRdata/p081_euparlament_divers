@@ -85,6 +85,7 @@ merged_meps_df = merged_meps_df.rename(columns = {
 # Get coordinates for birthplaces
 
 def get_coordinates(links):
+    links = links[1:]
     # Construct query
     query_one = '''SELECT ?birthplace ?coordinates
     WHERE { 
@@ -92,25 +93,29 @@ def get_coordinates(links):
     query_two = ''' }
     ?birthplace wdt:P625 ?coordinates.
     }'''
-    entity_string = ""
-    for link in links:
-        #print(link)
-        entity = link.split("entity/")[1]
-        entity = " wd:" + entity
-        entity_string += entity
-    query = query_one + entity_string + query_two
+    # Because Wikidata throws an error otherwise
+    birthplace_df = pd.DataFrame()
+    chunks = [links[x:x + 100] for x in range(0, len(links), 100)]
+    for chunk in chunks:
+        entity_string = ""
+        for link in chunk:
+            entity = link.split("entity/")[1]
+            entity = " wd:" + entity
+            entity_string += entity
+            query = query_one + entity_string + query_two
 
-    # Convert query result to dataframe
-    wikidata_url = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
-    query_result = requests.get(wikidata_url, params = {"query": query, "format": "json"})
-    birthplace_dict = json.loads(query_result.content)
-    birthplace_df = pd.json_normalize(birthplace_dict["results"]["bindings"])
+        # Convert query result to dataframe
+        wikidata_url = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+        query_result = requests.get(wikidata_url, params = {"query": query, "format": "json"})
+        query_dict = json.loads(query_result.content)
+        query_df = pd.json_normalize(query_dict["results"]["bindings"])
+        birthplace_df = pd.concat([birthplace_df, query_df])
+        time.sleep(1)
     birthplace_df = birthplace_df.fillna("")
     return birthplace_df
 
-#birthplace_links = merged_meps_df["birthplace_link"].tolist()
-#birthplace_links = list(set(birthplace_links))
-birthplace_links = ["https://www.wikidata.org/entity/Q731079", "https://www.wikidata.org/entity/Q669979"]
+birthplace_links = merged_meps_df["birthplace_link"].tolist()
+birthplace_links = list(set(birthplace_links))
 birthplace_df = get_coordinates(birthplace_links)
 birthplace_df = birthplace_df.rename(columns = {"birthplace.value": "birthplace_link", "coordinates.value": "coordinates"})
 birthplace_df["lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
