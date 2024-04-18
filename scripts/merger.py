@@ -51,6 +51,19 @@ merged_df["degrees"] = merged_df["degrees"].apply(lambda x: x.replace(",,", ",")
 merged_df["occupation"] = merged_df["occupation"].apply(lambda x: x.replace(",,", ","))
 merged_df = merged_df.replace("", np.nan)
 
+# Only keep the highest degree
+def keep_highest_degree(degree_string):
+    degree_string = str(degree_string)
+    if degree_string != "nan":
+        degree_hierarchy = ["phd", "university", "secondary", "vocational"]
+        degree_list = degree_string.split(",")
+        for degree in degree_hierarchy:
+            if degree in degree_list:
+                return degree
+    return np.nan
+merged_df["degrees"] = merged_df["degrees"].apply(lambda x: keep_highest_degree(x))
+merged_df = merged_df.rename(columns = {"degrees": "highest_degree"})
+
 # XXXX Add universities to degrees from educated_at
 
 # Drop all unwanted columns

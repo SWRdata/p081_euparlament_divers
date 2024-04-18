@@ -117,6 +117,23 @@ def categorise(entry, dict):
 merged_meps_df["degrees"] = merged_meps_df["degrees"].apply(lambda x: categorise(x, degree_dict))
 merged_meps_df["occupation"] = merged_meps_df["occupation"].apply(lambda x: categorise(x, occupation_dict))
 
+# Simplify university names
+#def simplify(universities_string):
+#    new_universities_list = []
+#    universities_list = universities_string.split(",")
+#    for university_string in universities_list:
+#        print(university_string)
+#        if "University of" in university_string:
+#            new_string = university_string.split("University of")[1]
+#            new_string = new_string.strip()
+#            print(new_string)
+#            new_universities_list.append(new_string)
+#        else:
+#            new_universities_list.append(university_string)
+#    new_universities_string = ",".join(new_universities_list)
+#    return new_universities_string
+#merged_meps_df["educated_at"] = merged_meps_df["educated_at"].apply(lambda x: simplify(x))
+
 # Manual name overrides if Wikidata name not identical to Parliament database
 merged_meps_df["name"] = merged_meps_df["name"].replace({
     "Rosa Estaràs": "Rosa ESTARÀS FERRAGUT",
