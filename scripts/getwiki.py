@@ -118,8 +118,8 @@ birthplace_links = merged_meps_df["birthplace_link"].tolist()
 birthplace_links = list(set(birthplace_links))
 birthplace_df = get_coordinates(birthplace_links)
 birthplace_df = birthplace_df.rename(columns = {"birthplace.value": "birthplace_link", "coordinates.value": "coordinates"})
-birthplace_df["lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
-birthplace_df["lon"] = birthplace_df["coordinates"].str.split(" ", expand = True)[1].str.strip(")")
+birthplace_df["born_lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[1].str.strip(")")
+birthplace_df["born_lon"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
 birthplace_df = birthplace_df.drop(["birthplace.type", "coordinates.datatype", "coordinates.type", "coordinates"], axis = 1)
 merged_meps_df = pd.merge(merged_meps_df, birthplace_df, on = "birthplace_link")
 
