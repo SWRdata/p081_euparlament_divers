@@ -34,7 +34,7 @@ date_filled_df = pd.concat([date_in_df, wikidata_date_df], ignore_index = True)
 
 # Rest
 
-wikidata_rest_df = wikidata_df[["name", "lat", "lon", "relatives", "degrees", "educated_at", "occupation"]]
+wikidata_rest_df = wikidata_df[["name", "born_lat", "born_lon", "relatives", "degrees", "educated_at", "occupation"]]
 second_merge_df = second_merge_df.drop(columns = ["born_day", "born_month", "born_year", "born_place"])
 
 third_merge_df = pd.merge(second_merge_df, place_filled_df, on = "name", how = "left")

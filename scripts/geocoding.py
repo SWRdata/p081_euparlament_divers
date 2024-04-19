@@ -37,7 +37,7 @@ def get_coordinates(place_raw):
 uncoded_df = meps_df.loc[~meps_df["born_lat"].notna()]
 uncoded_df["coordinates"] = uncoded_df["born_place"].apply(lambda x: get_coordinates(x))
 uncoded_df = uncoded_df.loc[uncoded_df["coordinates"].notna()]
-uncoded_df[["lat", "lon"]] = uncoded_df["coordinates"].str.split(", ", expand = True)
+uncoded_df[["born_lat", "born_lat"]] = uncoded_df["coordinates"].str.split(", ", expand = True)
 uncoded_df = uncoded_df.drop(["coordinates"], axis = 1)
 
 # Merge
@@ -46,10 +46,10 @@ meps_df = meps_df[~meps_df["identifier"].duplicated(keep = "last")]
 
 # Now get everything classified
 def get_classification(lat, lon, elected_country):
+    if str(lat) == "nan":
+        return np.nan
     coordinates = str(lat) + "," + str(lon)
     # If no data on birth place, return nan
-    if coordinates == "nan":
-        return pd.Series([np.nan, np.nan, np.nan])
     key = open(path.join(dir, "..", "opencagekey.txt"), "r").read()
     url = "https://api.opencagedata.com/geocode/v1/json?q=" + coordinates + "&key=" + key + "&proximity=50.0594725,14.1538226"
     response = requests.get(url)
@@ -62,9 +62,9 @@ def get_classification(lat, lon, elected_country):
                         "PT", "RO", "SE", "SI", "SK"]
         if born_country == np.nan:
             return np.nan
-        if born_country == elected_country:
+        elif born_country == elected_country:
             return "native"
-        if born_country in eu_country_codes:
+        elif born_country in eu_country_codes:
             return "eu"
         return "other"
     return np.nan

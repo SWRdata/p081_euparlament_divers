@@ -10,8 +10,7 @@ dir = path.dirname(__file__)
 
 # Degree & occupation dictionaries
 degree_dict = {
-    "secondary": ["secondary", "gymnasium"],
-    "vocational": ["vocat", "apprentice"],
+    "secondary": ["secondary", "gymnasium", "vocat", "apprentice"],
     "university": ["master", "bachelor", "diplom", "magister", "laurea", "degree", "law"],
     "phd": ["doctor", "habilitation", "professor", "candidat"]
 }
