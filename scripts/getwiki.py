@@ -10,7 +10,7 @@ dir = path.dirname(__file__)
 
 # Degree & occupation dictionaries
 degree_dict = {
-    "secondary": ["secondary", "gymnasium", "vocat", "apprentice"],
+    "secondary": ["secondary", "gymnasium", "vocat", "apprentice", "high school"],
     "university": ["master", "bachelor", "diplom", "magister", "laurea", "degree", "law"],
     "phd": ["doctor", "habilitation", "professor", "candidat"]
 }
@@ -24,7 +24,7 @@ occupation_dict = {
     "consultant": ["consultant"],
     "researcher": ["researcher", "scientist", "historian", "sociologist", "chemist", 
                    "physicist", "agronomist", "pharmacist", "philologist", "scientist", "mathematician",
-                   "psychiatrist", "psychologist", "pedagogue", "economist", "ecologist", "geographer", "philosopher"],
+                   "pedagogue", "economist", "ecologist", "geographer", "philosopher"],
     "journalist": ["presenter", "journalist", "press", "blogger", "correspondent"],
     "activist": ["environmentalist", "activist", "dissident", "humanitarian"],
     "athlete": ["athlete", "football", "hurler", "swimmer", "athletics", "badminton player"],
@@ -33,7 +33,7 @@ occupation_dict = {
     "actor": ["actor"],
     "manager": ["manager", "executive"],
     "businessperson": ["businessperson", "entrepeneur", "shopkeeper", "self-employment"],
-    "doctor": ["doctor", "nurse", "physician", "veterinarian", "pharmacist", "surgeon"],
+    "doctor": ["doctor", "nurse", "physician", "veterinarian", "pharmacist", "surgeon", "psychiatrist", "psychologist"],
 }
 
 # One big SPARQL query

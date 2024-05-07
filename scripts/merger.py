@@ -66,7 +66,7 @@ merged_df["degrees"] = merged_df["degrees"].apply(lambda x: keep_highest_degree(
 merged_df = merged_df.rename(columns = {"degrees": "highest_degree"})
 
 # Drop all unwanted columns
-merged_df = merged_df.drop(columns = ["id", "type", "sortLabel", "officialFamilyName", "officialGivenName",
+merged_df = merged_df.drop(columns = ["id", "type", "citizenship", "sortLabel", "officialFamilyName", "officialGivenName",
                                       "degrees_x", "degrees_y", "occupation_x", "occupation_y"])
 
 # Drop duplicate rows

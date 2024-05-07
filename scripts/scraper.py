@@ -8,7 +8,7 @@ dir = path.dirname(__file__)
 
 # Define dictionaries for degrees and careers
 degree_dict = {
-    "secondary": ["secondary", "gymnasium", "vocat", "apprentice"],
+    "secondary": ["secondary", "gymnasium", "vocat", "apprentice", "high school"],
     "university": ["university", "college", "degree", "diplom", "bachelor", "master", "graduate", "studied", "bsc", "msc", " ba ", " ma "],
     "phd": ["doctor", "postgraduate", "phd", "ph.d"]
 }
