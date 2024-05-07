@@ -9,5 +9,7 @@ query_result = requests.get("https://data.europarl.europa.eu/api/v1/meps/show-cu
 meps_dict = json.loads(query_result.content)
 meps_df = pd.json_normalize(meps_dict["data"])
 meps_df = meps_df.rename(columns = {"label": "name", "api:country-of-representation": "country", "api:political-group": "group"})
-# /data erstellen
+data_directory = path.join(dir, "..", "data")
+if not path.exists(data_directory):
+    makedirs(data_directory)
 meps_df.to_csv(path.join(dir, "..", "data", "start" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
