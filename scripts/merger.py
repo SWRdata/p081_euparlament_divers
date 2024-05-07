@@ -78,4 +78,5 @@ for column in ["born_day", "born_month", "born_year"]:
     merged_df[column] = merged_df[column].replace(0, np.nan)
 
 # Save
-merged_df.to_csv(path.join(dir, "..", "data", "merged" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
+#merged_df.to_csv(path.join(dir, "..", "data", "merged" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
+merged_df.to_csv(path.join(dir, "..", "data", "output" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
