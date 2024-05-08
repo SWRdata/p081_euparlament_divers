@@ -16,18 +16,18 @@ degree_dict = {
 career_dict = {
     "farmer": ["farmer"],
     "lawyer": ["lawyer", "legal", "judge", "associate"],
-    "journalist": ["journalist", "reporter", "editor", "newsroom"],
-    "politician": ["mep", "party", "parliament", "policy officer", "mayor"],
+    "journalist": ["journalist", "reporter", "editor", "newsroom", "newspaper"],
+    "politician": ["mep", "party", "parliament", "policy officer", "mayor", "minister", "councillor"],
     "official": ["official", "ministry", "public service"],
     "diplomat": ["diplomat"],
     "doctor": ["doctor"],
-    "teacher": ["teacher", "instructor"],
-    "professor": ["lecturer", "professor"],
+    "teacher": ["teacher", "instructor", "lecturer"],
     "engineer": ["engineer"],
-    "researcher": ["researcher", "expert"],
-    "manager": ["manager", "director", "head of", "member of the board", "chair of the"],
+    "researcher": ["researcher", "expert", "professor"],
+    "manager": ["manager", "director", "chairman", "chairwoman", "chairperson", "head of", "member of the board", "board member", "chair of the"],
     "consultant": ["consultant"],
-    "marketeer": ["press", "advertis"]
+    "marketeer": ["press", "advertis", "public relations"],
+    "labourer": ["welder"]
 }
 
 # Construct urls for MEP profile pages

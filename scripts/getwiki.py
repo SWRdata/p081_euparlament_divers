@@ -18,11 +18,11 @@ degree_dict = {
 occupation_dict = {
     "politician": ["politician", "member of the european parliament"],
     "lawyer": ["lawyer", "judge", "jurist", "justiciar", "legal", "barrister", "officer of the court"],
-    "professor": ["professor", "university teacher", "academic"],
+    "professor": ["professor", "academic"],
     "engineer": ["engineer"],
     "farmer": ["farmer", "farm operator", "rancher", "vigneron"],
     "consultant": ["consultant"],
-    "researcher": ["researcher", "scientist", "historian", "sociologist", "chemist", 
+    "researcher": ["researcher", "academic", "professor", "scientist", "historian", "sociologist", "chemist", 
                    "physicist", "agronomist", "pharmacist", "philologist", "scientist", "mathematician",
                    "pedagogue", "economist", "ecologist", "geographer", "philosopher"],
     "journalist": ["presenter", "journalist", "press", "blogger", "correspondent"],
@@ -83,52 +83,49 @@ merged_meps_df = merged_meps_df.rename(columns = {
 
 # Get coordinates for birthplaces
 
-def get_coordinates(links):
-    links = links[1:]
-    # Construct query
-    query_one = '''SELECT ?birthplace ?coordinates
-    WHERE { 
-    VALUES ?birthplace { wd:'''
-    query_two = ''' }
-    ?birthplace wdt:P625 ?coordinates.
-    }'''
-    # Because Wikidata throws an error otherwise
-    birthplace_df = pd.DataFrame()
-    chunks = [links[x:x + 100] for x in range(0, len(links), 100)]
-    for chunk in chunks:
-        entity_string = ""
-        for link in chunk:
-            entity = link.split("entity/")[1]
-            entity = " wd:" + entity
-            entity_string += entity
-            query = query_one + entity_string + query_two
+#def get_coordinates(links):
+#    links = links[1:]
+#    # Construct query
+#    query_one = '''SELECT ?birthplace ?coordinates
+#    WHERE { 
+#    VALUES ?birthplace { wd:'''
+#    query_two = ''' }
+#    ?birthplace wdt:P625 ?coordinates.
+#    }'''
+#    # Because Wikidata throws an error otherwise
+#    birthplace_df = pd.DataFrame()
+#    chunks = [links[x:x + 100] for x in range(0, len(links), 100)]
+#    for chunk in chunks:
+#        entity_string = ""
+#        for link in chunk:
+#            entity = link.split("entity/")[1]
+#            entity = " wd:" + entity
+#            entity_string += entity
+#            query = query_one + entity_string + query_two
+#
+#        # Convert query result to dataframe
+#        wikidata_url = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
+#        query_result = requests.get(wikidata_url, params = {"query": query, "format": "json"})
+#        query_dict = json.loads(query_result.content)
+#        query_df = pd.json_normalize(query_dict["results"]["bindings"])
+#        birthplace_df = pd.concat([birthplace_df, query_df])
+#        time.sleep(1)
+#    birthplace_df = birthplace_df.fillna("")
+#    return birthplace_df
 
-        # Convert query result to dataframe
-        wikidata_url = "https://query.wikidata.org/bigdata/namespace/wdq/sparql"
-        query_result = requests.get(wikidata_url, params = {"query": query, "format": "json"})
-        query_dict = json.loads(query_result.content)
-        query_df = pd.json_normalize(query_dict["results"]["bindings"])
-        birthplace_df = pd.concat([birthplace_df, query_df])
-        time.sleep(1)
-    birthplace_df = birthplace_df.fillna("")
-    return birthplace_df
-
-birthplace_links = merged_meps_df["birthplace_link"].tolist()
-birthplace_links = list(set(birthplace_links))
-birthplace_df = get_coordinates(birthplace_links)
-birthplace_df = birthplace_df.rename(columns = {"birthplace.value": "birthplace_link", "coordinates.value": "coordinates"})
-birthplace_df["born_lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[1].str.strip(")")
-birthplace_df["born_lon"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
-birthplace_df = birthplace_df.drop(["birthplace.type", "coordinates.datatype", "coordinates.type", "coordinates"], axis = 1)
-merged_meps_df = pd.merge(merged_meps_df, birthplace_df, on = "birthplace_link")
+#birthplace_links = merged_meps_df["birthplace_link"].tolist()
+#birthplace_links = list(set(birthplace_links))
+#birthplace_df = get_coordinates(birthplace_links)
+#birthplace_df = birthplace_df.rename(columns = {"birthplace.value": "birthplace_link", "coordinates.value": "coordinates"})
+#birthplace_df["born_lat"] = birthplace_df["coordinates"].str.split(" ", expand = True)[1].str.strip(")")
+#birthplace_df["born_lon"] = birthplace_df["coordinates"].str.split(" ", expand = True)[0].str.split("(", expand = True)[1]
+#birthplace_df = birthplace_df.drop(["birthplace.type", "coordinates.datatype", "coordinates.type", "coordinates"], axis = 1)
+#merged_meps_df = pd.merge(merged_meps_df, birthplace_df, on = "birthplace_link")
 
 # Split born_date column
-merged_meps_df["born_day"] = merged_meps_df["born_date"]
-merged_meps_df["born_day"] = merged_meps_df["born_day"].str.split("-").str.get(2).str[:2]
-merged_meps_df["born_month"] = merged_meps_df["born_date"]
-merged_meps_df["born_month"] = merged_meps_df["born_month"].str.split("-").str.get(1)
-merged_meps_df["born_year"] = merged_meps_df["born_date"]
-merged_meps_df["born_year"] = merged_meps_df["born_year"].str.split("-").str.get(0)
+merged_meps_df["born_day"] = merged_meps_df["born_date"].str.split("-").str.get(2).str[:2]
+merged_meps_df["born_month"] = merged_meps_df["born_date"].str.split("-").str.get(1)
+merged_meps_df["born_year"] = merged_meps_df["born_date"].str.split("-").str.get(0)
 merged_meps_df = merged_meps_df.drop(columns = ["mep.value", "born_date"])
 
 # Group father, mother and relative columns
@@ -158,23 +155,6 @@ def categorise(entry, dict):
 
 merged_meps_df["degrees"] = merged_meps_df["degrees"].apply(lambda x: categorise(x, degree_dict))
 merged_meps_df["occupation"] = merged_meps_df["occupation"].apply(lambda x: categorise(x, occupation_dict))
-
-# Simplify university names
-#def simplify(universities_string):
-#    new_universities_list = []
-#    universities_list = universities_string.split(",")
-#    for university_string in universities_list:
-#        print(university_string)
-#        if "University of" in university_string:
-#            new_string = university_string.split("University of")[1]
-#            new_string = new_string.strip()
-#            print(new_string)
-#            new_universities_list.append(new_string)
-#        else:
-#            new_universities_list.append(university_string)
-#    new_universities_string = ",".join(new_universities_list)
-#    return new_universities_string
-#merged_meps_df["educated_at"] = merged_meps_df["educated_at"].apply(lambda x: simplify(x))
 
 # Manual name overrides if Wikidata name not identical to Parliament database
 merged_meps_df["name"] = merged_meps_df["name"].replace({
