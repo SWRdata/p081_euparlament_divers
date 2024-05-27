@@ -1,0 +1,706 @@
+identifier;name;familyName;givenName;country;group;gender;memberships;born_place;born_day;born_month;born_year;disability;relatives;educated_at;highest_degree;occupation
+840;charles goerens;Goerens;Charles;LU;Renew;MALE;AFCO,DEVE,DROI,DCAR,DACP,DAFR,BUDG,AGRI,DARP;Ettelbruck;6;2;1952;;Gust Goerens;;;politician,official
+1892;carlos coelho;Coelho;Carlos;PT;PPE;MALE;CONT,DACP,DAFR,REGI,D-ZA;Lisboa;20;5;1960;;;;;politician
+1909;bernd lange;Lange;Bernd;DE;S&D;MALE;INTA,DASE,D-JP;Oldenburg;14;11;1955;;;University of Göttingen;university;manager,screenwriter,teacher,politician,trade unionist
+1917;markus ferber;Ferber;Markus;DE;PPE;MALE;FISC,ECON,DAND,DKOR,DLAT,TRAN,D-CL;Augsburg;15;1;1965;;;Technical University of Munich;university;politician,engineer
+1927;peter liese;Liese;Peter;DE;PPE;MALE;ENVI,DCAM,DLAT,BUDG,SANT,DAND;Meschede;20;5;1965;;;University of Bonn;phd;doctor,politician
+1992;josé manuel garcía-margallo y marfil;García-Margallo y Marfil;José Manuel;ES;PPE;MALE;DLAT,ECON,FISC,D-MX,DCAR,INTA,D-TR;Madrid;13;8;1944;;;;;
+2054;heidi hautala;Hautala;Heidi;FI;Verts/ALE;FEMALE;INTA,DROI,DASE,DEPA,JURI,D-RU,DSCA;Oulu;14;11;1955;;;University of Helsinki;;politician,media
+2323;rainer wieland;Wieland;Rainer;DE;PPE;MALE;BUDG,AFCO,DACP,DPAC,PETI,DSEE;Stuttgart - Bad Cannstatt;19;2;1957;;;University of Paris;;politician,lawyer
+2341;michael gahler;Gahler;Michael;DE;PPE;MALE;DACP,DAFR,AFET,D-ZA,TRAN,SEDE,DPAP;Frankfurt/Main;22;4;1960;;;Friedrich-Dessauer-Gymnasium, Frankfurt;university;politician,lawyer,official
+4246;othmar karas;Karas;Othmar;AT;PPE;MALE;FISC,ECON,ITRE,AFCO,DPAL,D-US,DASE,DMED,DACP,DCAB;Ybbs an der Donau;24;12;1957;;;University of Vienna,University of St. Gallen;phd;politician,lawyer,manager
+4253;frédérique ries;Ries;Frédérique;BE;Renew;FEMALE;ENVI,PETI,D-IL,AFET,SANT,DACP,DAFR;Balen-Wezel;14;5;1959;;;University of Liège;university;politician,media,manager
+4267;udo bullmann;Bullmann;Udo;DE;S&D;MALE;DROI,DEVE,DCAM,DLAT,DACP,DAFR,AFET,INTA,BUDG,DCAR,D-UK,D-BR;Gießen;8;6;1956;;;University of Giessen;;politician
+4289;angelika niebler;Niebler;Angelika;DE;PPE;FEMALE;ITRE,D-US,JURI,D-IN,DASE;München;18;2;1963;;;University of Geneva,Ludwig Maximilian University of Munich,Q1751503;phd;politician,lawyer
+4344;maría soraya rodríguez ramos;Rodríguez Ramos;María Soraya;ES;Renew;FEMALE;DPAP,ENVI,FEMM,DLAT,AFET,DEVE,DROI,DAND,DACP,DAFR;Valladolid;1;12;1963;;;University of Valladolid;;politician,lawyer
+4560;antonius manders;Manders;Antonius;NL;PPE;MALE;IMCO,DACP,DPAC,EMPL,JURI,D-CN;Stiphout;14;3;1956;;;;;
+4746;sergio berlato;Berlato;Sergio;IT;ECR;MALE;ENVI,DMAS,DARP,DMED,INTA,DMAG;Vicenza;27;7;1959;;;;university;politician,manager
+5392;lara wolters;Wolters;Lara;NL;S&D;FEMALE;JURI,CONT,D-CN,IMCO,D-US;Amsterdam;12;4;1986;;;University College London,Institut d'études politiques de Strasbourg,College of Europe;;politician
+5565;brice hortefeux;Hortefeux;Brice;FR;PPE;MALE;AFCO,DMAG,DMED,TRAN,LIBE;Neuilly-sur-Seine;11;5;1958;;;Paris Nanterre University,Sciences Po,Institut national des études territoriales,University of Paris;university;politician,manager
+5729;kathleen van brempt;Van Brempt;Kathleen;BE;S&D;FEMALE;INTA,DMAG,DMER,TRAN,D-BR;Wilrijk;18;11;1969;;;Katholieke Universiteit Leuven;university;researcher,politician
+22858;fabienne keller;Keller;Fabienne;FR;Renew;FEMALE;BUDG,LIBE,DMAS,DMED,DMAG;Sélestat;20;10;1959;;;Lycée Kléber,École polytechnique,French National School of Forestry,University of California, Berkeley;university;banker,politician,official,manager
+23699;kateřina konečná;Konečná;Kateřina;CZ;The Left;FEMALE;IMCO,TRAN,SANT,DSCA,DEPA,ENVI,D-RS;Nový Jičín;20;1;1981;;;Masaryk University Faculty of Law,Q12018667,Masaryk University Faculty of Economics and Administration,University of Finance and Administration;university;politician,official
+23712;jan zahradil;Zahradil;Jan;CZ;ECR;MALE;INTA,D-UK,DASE,DEVE;Praha;20;3;1963;;;University of Chemistry and Technology;university;researcher,politician,official
+23768;bogusław liberadzki;Liberadzki;Bogusław;PL;S&D;MALE;TRAN,D-US,CONT,D-IL;Sochaczew;12;9;1948;;;SGH Warsaw School of Economics;phd;teacher,researcher,politician,official
+23781;janusz lewandowski;Lewandowski;Janusz;PL;PPE;MALE;BUDG,DASE,ECON,ITRE,DAND,DLAT;Lublin;13;6;1951;;;University of Gdańsk;phd;politician,researcher,athlete,teacher
+23788;adam bielan;Bielan;Adam;PL;ECR;MALE;IMCO,DASE,AFET,DARP;Gdańsk;12;9;1974;;;SGH Warsaw School of Economics,Q9296487;;politician
+23816;andrás gyürk;Gyürk;András;HU;NI;MALE;ITRE,DACP,DAFR,BUDG,D-BR;Budapest;2;12;1972;;;Franciscan Gymnasium, Szentendre,Eötvös Loránd University,Budapest Business School Faculty of Finance and Accountancy;university;politician,manager
+23868;monika beňová;Beňová;Monika;SK;NI;FEMALE;CONT;Bratislava;15;8;1968;;;Faculty of Political Science and International Relations, Matej Bel University;university;politician,manager
+24505;emmanuel maurel;Maurel;Emmanuel;FR;The Left;MALE;DMAG,INTA,AFET,CULT,JURI,DMED;Epinay sur Seine;10;5;1973;;;Sciences Po,Paris-Sorbonne University - Paris IV;;politician
+24594;anne sander;Sander;Anne;FR;PPE;FEMALE;AGRI,DEEA,EMPL,D-IR;Haguenau;1;10;1973;;Jean-Marie Sander;;phd;researcher,politician
+24922;pascal arimont;Arimont;Pascal;BE;PPE;MALE;REGI,JURI,DANZ,ITRE,D-ZA;Malmedy;25;9;1974;;;Université catholique de Louvain;university;politician,lawyer
+24942;ana miranda;Miranda;Ana;ES;Verts/ALE;FEMALE;PETI,PECH,REGI,DROI,DPAL,D-BR,DAND,DMED,DLAT;Cuntis;2;5;1971;;;;;
+27714;edina tóth;Tóth;Edina;HU;NI;FEMALE;ENVI,SANT,DARP,ECON,IMCO,D-CA;Budapest;11;3;1975;;;Pázmány Péter Catholic University;university;politician,media,official
+28122;david casa;Casa;David;MT;PPE;MALE;EMPL,D-UK,DARP,ECON,D-TR,DMED;Valletta;16;11;1968;;;;;politician
+28141;lívia járóka;Járóka;Lívia;HU;NI;FEMALE;FEMM,D-ZA,EMPL,DKOR;Tata;6;10;1974;;;University College London,Central European University,University of Sopron;;politician
+28150;kinga gál;Gál;Kinga;HU;NI;FEMALE;AFET,D-CN,DACP,DPAC;Cluj-Napoca;6;9;1970;;;Eötvös Loránd University;phd;lawyer,politician,official
+28161;margrete auken;Auken;Margrete;DK;Verts/ALE;FEMALE;DPAL,ENVI,PETI,SANT,DMED;Aarhus;6;1;1945;;Gunnar Auken,Kirsten Auken;University of Copenhagen,Kildegård Privatskole;phd;politician,theologian,priest
+28219;daniel caspary;Caspary;Daniel;DE;PPE;MALE;DASE,INTA,AFET,D-UA,DACP,DAFR;Karlsruhe;4;4;1976;;;Karlsruhe Institute of Technology;university;politician
+28223;andreas schwab;Schwab;Andreas;DE;PPE;MALE;DEEA,IMCO,FISC,ECON,D-CL,DSAS,DLAT;Rottweil;9;4;1973;;;;university;politician,lawyer
+28224;markus pieper;Pieper;Markus;DE;PPE;MALE;CONT,ITRE,D-RU,TRAN,D-CN;Hamelin;15;5;1963;;;University of Göttingen,Leibniz University Hannover;phd;teacher,researcher,politician,manager
+28226;christian ehler;Ehler;Christian;DE;PPE;MALE;ITRE,D-US,CULT,D-UK,D-IL,DMED;München;17;8;1963;;;Humboldt University of Berlin;phd;politician,manager
+28229;manfred weber;Weber;Manfred;DE;PPE;MALE;;Niederhatzkofen;14;7;1972;;;Munich University of Applied Sciences;university;politician
+28266;sophia in 't veld;in 't Veld;Sophia;NL;Renew;FEMALE;LIBE,D-CN,AFCO,D-UK;Vollenhove;13;9;1963;;;;phd;politician,official
+28269;jerzy buzek;Buzek;Jerzy;PL;PPE;MALE;ITRE,DNAT,SEDE,D-UA,DEPA;Śmiłowice;3;7;1940;;;Silesian University of Technology;phd;teacher,engineer,researcher,politician,trade unionist
+28288;jan olbrycht;Olbrycht;Jan;PL;PPE;MALE;CONT,D-CA,BUDG,REGI,D-MK;Rybnik;21;9;1952;;;Jagiellonian University;university;teacher,researcher,politician,manager
+28294;ljudmila novak;Novak;Ljudmila;SI;PPE;FEMALE;ENVI,D-IL,TRAN,DMED,DACP,DAFR;Maribor;1;8;1959;;;University of Maribor;;esperantist,manager,slavist,teacher,politician
+28297;jacek saryusz-wolski;Saryusz-Wolski;Jacek;PL;ECR;MALE;AFET,AFCO,D-UA,DEPA,ITRE;Łódż;19;9;1948;;;I Liceum Ogólnokształcące in Łódź,University of Łódź;phd;researcher,politician,official
+28298;iratxe garcía pérez;García Pérez;Iratxe;ES;S&D;FEMALE;ENVI;Baracaldo;7;10;1974;;;;university;
+28340;patrizia toia;Toia;Patrizia;IT;S&D;FEMALE;ITRE,DEEA,DAND,DEVE,TRAN,DLAT;Pogliano Milanese;17;3;1950;;;University of Milan,Bocconi University;;politician
+28346;mercedes bresso;Bresso;Mercedes;IT;S&D;FEMALE;DEVE,D-TR,DMED,AFET,ENVI,AFCO,DROI;Sanremo (IM);12;7;1944;;;University of Turin;;researcher,politician
+28347;javier moreno sánchez;Moreno Sánchez;Javier;ES;S&D;MALE;D-CA,LIBE,INTA,DCAS,DLAT;Ginebra (Suiza);12;3;1965;;;;;politician
+28353;anna fotyga;Fotyga;Anna;PL;ECR;FEMALE;AFET,SEDE,D-UK,DSCA,DEPA,DNAT;Lębork;12;1;1957;;;Defenders of Westerplatte High School in Gdańsk,University of Gdańsk;university;politician,official,manager,trade unionist
+28372;ryszard czarnecki;Czarnecki;Ryszard;PL;ECR;MALE;D-RU,PETI,DEVE,CONT,DROI,DARP,DCAS,DACP,DAFR;Londyn (GB);25;1;1963;;;University of Wrocław;university;politician,media
+28390;pilar del castillo vera;del Castillo Vera;Pilar;ES;PPE;FEMALE;DAND,ITRE,DLAT,IMCO,D-UK,DSAS,DASE;Nador (Marruecos);31;7;1952;;;;phd;media,manager,teacher,researcher,official
+28399;antonio lópez-istúriz white;López-Istúriz White;Antonio;ES;PPE;MALE;D-IL,AFET,DARP,DMED,SEDE,D-US;Pamplona;1;4;1970;;;CEU San Pablo University;phd;politician,lawyer
+28400;francisco josé millán mon;Millán Mon;Francisco José;ES;PPE;MALE;PECH,AFET,D-UK,DCAS,D-CN;Pontevedra;8;3;1955;;;;university;teacher,politician,official,manager
+28429;alessandra mussolini;Mussolini;Alessandra;IT;PPE;FEMALE;INTA,DPAP,LIBE,DMAS;Roma;30;12;1962;;Romano Mussolini,Anna Maria Villani Scicolone,Anna Maria Mussolini,Edda Mussolini,Sophia Loren,Bruno Mussolini,Vittorio Mussolini;American Overseas School of Rome,Sapienza University of Rome;university;musician,actor,model,politician
+28586;dimitrios papadimoulis;Papadimoulis;Dimitrios;GR;The Left;MALE;BUDG,ECON,D-US,REGI;Athina;21;3;1955;;;;university;manager,engineer
+28615;roberts zīle;Zīle;Roberts;LV;ECR;MALE;ECON,TRAN,FISC,D-CN,BUDG,D-MX,D-UK,D-JP,DLAT;Rīga;20;6;1958;;;University of Latvia,Latvia University of Life Sciences and Technologies;phd;researcher,politician
+28617;inese vaidere;Vaidere;Inese;LV;PPE;FEMALE;DACP,DPAC,ECON,ENVI,DCAR,DASE;Jelgavā;3;9;1952;;;University of Latvia;phd;manager,teacher,researcher,official,politician
+28619;tatjana ždanoka;Ždanoka;Tatjana;LV;NI;FEMALE;PETI,D-AF,D-IN;Rīga;8;5;1950;;;University of Latvia;phd;teacher,researcher,politician,manager
+29579;marc tarabella;Tarabella;Marc;BE;NI;MALE;PECH,CULT,PETI;Ougrée;11;3;1963;;;University of Liège;university;researcher,politician
+30482;younous omarjee;Omarjee;Younous;FR;The Left;MALE;REGI,CONT,D-RU,BUDG,DARP,D-US;Saint-Denis (Réunion);30;9;1969;;;public international law;university;politician,official
+33982;marian-jean marinescu;Marinescu;Marian-Jean;RO;PPE;MALE;ENVI,DACP,DCAB,TRAN,CONT,ITRE,DASE;Râmnicu Vâlcea;11;8;1952;;;Politehnica University of Bucharest;university;politician,manager,engineer
+33997;corina crețu;Crețu;Corina;RO;S&D;FEMALE;ENVI,REGI,D-TR,AFET,CONT,D-ME,DCAS;Bucureşti;24;6;1967;;;Bucharest University of Economic Studies;;researcher,politician,media
+34578;robert hajšel;Hajšel;Robert;SK;S&D;MALE;ITRE,DSCA,DEPA,AFET,ENVI,D-ME;Banská Štiavnica;28;3;1967;;;;;politician,media,manager
+35016;marco campomenosi;Campomenosi;Marco;IT;ID;MALE;TRAN,D-UK,D-IQ,D-IR,DLAT,INTA,IMCO,D-MX,D-JP;GENOVA;2;9;1975;;;University of Genoa;university;consultant,politician,lawyer,manager
+36392;aldo patriciello;Patriciello;Aldo;IT;ID;MALE;IMCO,D-US,D-JP,ENVI,ITRE,SANT;Venafro;27;9;1957;;;;;politician
+37312;christel schaldemose;Schaldemose;Christel;DK;S&D;FEMALE;D-JP,IMCO,ENVI,DEEA;Odense;4;8;1967;;;University of Southern Denmark;;researcher,politician
+38420;cristian-silviu buşoi;Buşoi;Cristian-Silviu;RO;PPE;MALE;ITRE,SANT,DASE,ECON,ENVI,DARP;Drobeta Turnu-Severin;1;3;1978;;;;phd;politician
+38511;georg mayer;Mayer;Georg;AT;ID;MALE;ITRE,D-IR,DLAT,TRAN,D-CA,DCAM,DASE;Feldbach;12;10;1973;;;University of Graz;;politician
+38595;rovana plumb;Plumb;Rovana;RO;S&D;FEMALE;TRAN,D-CN,ENVI,REGI;Bucureşti;22;6;1960;;;Politehnica University of Bucharest,Bucharest University of Economic Studies;phd;politician,manager,engineer
+39725;iuliu winkler;Winkler;Iuliu;RO;PPE;MALE;INTA,D-CN,CULT,DANZ;Hunedoara;14;3;1964;;;Politehnica University of Timișoara;phd;politician,manager,engineer
+40599;sirpa pietikäinen;Pietikäinen;Sirpa;FI;PPE;FEMALE;ECON,FEMM,DPAL,DMED,ENVI,FISC,DPAP;Parikkala;19;4;1959;;;Aalto University School of Business;university;politician,teacher
+58766;nicolae ştefănuță;Ştefănuță;Nicolae;RO;Verts/ALE;MALE;BUDG,SANT,D-US,ENVI,TRAN,D-MD,DNAT;RASINARI;3;1;1982;;;;university;politician,official
+58789;jan huitema;Huitema;Jan;NL;Renew;MALE;ENVI,D-US,AGRI,D-BR;Makkinga;5;7;1984;;;Wageningen University & Research;university;politician,farmer
+72779;nadine morano;Morano;Nadine;FR;PPE;FEMALE;LIBE,DPAP,DEVE,DACP,DCAB;Nancy;6;11;1963;;;University of Lorraine;;politician
+86793;anna cavazzini;Cavazzini;Anna;DE;Verts/ALE;FEMALE;IMCO,D-BR,D-UK,DLAT,INTA,DCAM;Schlüchtern;12;12;1982;;;Humboldt University of Berlin,Free University Berlin;university;teacher,politician,official
+88715;josé gusmão;Gusmão;José;PT;The Left;MALE;ECON,FISC,D-US,EMPL,LIBE,D-CL,DLAT;Lisboa;20;7;1976;;;Lisbon School of Economics and Management;;researcher,politician
+88882;victor negrescu;Negrescu;Victor;RO;S&D;MALE;CULT,BUDG,AFCO,DANZ;Alba Iulia;17;8;1985;;;;phd;media,manager,teacher,consultant,researcher,lawyer,official,politician
+94649;catherine griset;Griset;Catherine;FR;ID;FEMALE;ENVI,CULT,DACP,DPAC,DMED;Boulogne-sur-Mer;20;8;1972;;;;;politician,lawyer
+95074;jeroen lenaers;Lenaers;Jeroen;NL;PPE;MALE;DMAS,LIBE,D-UK,DMED,BUDG,CONT,EMPL;Stramproy;29;4;1984;;;Maastricht University;university;politician
+96646;helmut scholz;Scholz;Helmut;DE;The Left;MALE;INTA,AFCO,D-MD,D-BY,D-US,DEPA,D-UK,D-CN;Berlin;21;6;1954;;Paul Scholz;Moscow State Institute of International Relations;;politician,trade unionist
+96648;philippe lamberts;Lamberts;Philippe;BE;Verts/ALE;MALE;ECON;Bruxelles;14;3;1963;;;Université catholique de Louvain;;politician
+96653;katarína roth neveďalová;Roth Neveďalová;Katarína;SK;NI;FEMALE;AGRI;Nitra;10;11;1982;;;;;politician
+96668;seán kelly;Kelly;Seán;IE;PPE;MALE;D-UK,ITRE,DASE,INTA,AFCO,D-ZA;Killarney;26;4;1952;;Fionnuala Kenny;St Patrick's College,University College Dublin,St. Brendan's College, Killarney;;athlete,politician
+96681;vilija blinkevičiūtė;Blinkevičiūtė;Vilija;LT;S&D;FEMALE;EMPL,FEMM,DEPA,CULT,DSCA;Linkuva;3;3;1960;;;Vilnius University Faculty of Law;;politician,lawyer
+96697;waldemar tomaszewski;Tomaszewski;Waldemar;LT;ECR;MALE;D-BY,REGI,DEPA,DEVE,DROI;Vilnius;3;3;1965;;;Vilnius Gediminas Technical University;university;politician,official,engineer
+96698;viktor uspaskich;Uspaskich;Viktor;LT;NI;MALE;ITRE,DEEA;Vilnius;24;7;1959;;;Kaunas University of Technology;phd;manager,labourer,businessperson,researcher,politician
+96709;morten løkkegaard;Løkkegaard;Morten;DK;Renew;MALE;D-IN,IMCO,DANZ,INTA,CULT,DMER,DLAT;Helsingør;20;12;1964;;;Danish School of Journalism;;politician,media,communications adviser
+96711;pascal canfin;Canfin;Pascal;FR;Renew;MALE;ENVI,D-MX,DLAT,ECON,DASE;Arras;22;8;1974;;;Institut d'études politiques de Bordeaux,Newcastle University;;teacher,politician,media
+96713;evžen tošenovský;Tošenovský;Evžen;CZ;ECR;MALE;ITRE,D-JP,TRAN,DKOR;Ostrava;26;2;1956;;;VSB – Technical University of Ostrava;university;politician,manager
+96725;bas eickhout;Eickhout;Bas;NL;Verts/ALE;MALE;ENVI,ECON,D-UK,D-CN,CONT,D-US;Groesbeek;8;10;1976;;;Radboud University Nijmegen;;researcher,politician
+96734;ska keller;Keller;Ska;DE;Verts/ALE;FEMALE;ENVI,PECH,D-MX;W.-P.-St. Guben;22;11;1981;;;Free University Berlin;university;politician,activist
+96739;reinhard bütikofer;Bütikofer;Reinhard;DE;Verts/ALE;MALE;D-CN,AFET,D-US,INTA,DASE;Mannheim;26;1;1953;;;Heidelberg University;university;politician,media
+96747;arnaud danjean;Danjean;Arnaud;FR;PPE;MALE;INTA,SEDE,DCAR,DANZ,AFET,CONT,DASE;Louhans;11;2;1971;;;Sciences Po;phd;teacher,politician,official
+96750;françois alfonsi;Alfonsi;François;FR;Verts/ALE;MALE;AFET,REGI,D-UK,DMED,DACP,DPAC,AFCO,DMAS;Ajaccio;14;9;1953;;;;;politician,french environment and energy management agency,teacher,engineer
+96752;martin häusling;Häusling;Martin;DE;Verts/ALE;MALE;AGRI,D-CL,ENVI,DMER,DLAT,DACP,DPAC;Bad Wildungen;26;3;1961;;;;university;politician,manager
+96756;sabine verheyen;Verheyen;Sabine;DE;PPE;FEMALE;CULT,DPAP,DEVE,D-ZA,DACP,DAFR;Aachen;24;10;1964;;;St. Ursula Gymnasium Aachen,FH Aachen;university;politician
+96761;axel voss;Voss;Axel;DE;PPE;MALE;DANZ,JURI,LIBE,DSAS;Hameln;7;4;1963;;;Trier University;;politician,teacher,lawyer
+96771;jarosław kalinowski;Kalinowski;Jarosław;PL;PPE;MALE;AGRI,D-RS,PECH,DSEE;Wyszków;12;4;1962;;;Warsaw University of Life Sciences;;politician,farmer
+96772;peter jahr;Jahr;Peter;DE;PPE;MALE;REGI,PETI,D-RU,AGRI,D-UA,DEPA;Burgstädt;24;4;1959;;;Leipzig University;;politician
+96775;lara comi;Comi;Lara;IT;PPE;FEMALE;IMCO,D-US,ITRE,AGRI,DMER,DLAT;Garbagnate Milanese;18;2;1983;;;Università Cattolica del Sacro Cuore,Bocconi University;;politician
+96776;róża thun und hohenstein;Thun und Hohenstein;Róża;PL;Renew;FEMALE;IMCO,DCAS,ENVI,LIBE;Kraków;13;4;1954;;;;university;politician,official,manager
+96779;danuta maria hübner;Hübner;Danuta Maria;PL;PPE;FEMALE;D-US,INTA,ECON,D-MX,D-UK,DLAT,AFCO,FISC;Nisko;8;4;1948;;;;phd;manager,researcher,official,politician
+96780;monika hohlmeier;Hohlmeier;Monika;DE;PPE;FEMALE;CONT,BUDG,D-CN,ECON,DPAL,D-CA;München;2;7;1962;;Franz Josef Strauß,Marianne Strauß;FernUniversität in Hagen,Dante-Gymnasium Munich;university;politician
+96787;herbert dorfmann;Dorfmann;Herbert;IT;PPE;MALE;DLAT,AGRI,FISC,DAND,DASE,BUDG,ECON,REGI;Brixen;4;3;1969;;;Università Cattolica del Sacro Cuore;;politician
+96791;elżbieta katarzyna łukacijewska;Łukacijewska;Elżbieta Katarzyna;PL;PPE;FEMALE;ENVI,TRAN,FEMM,DACP,DCAB,SANT,DARP;Jasło;25;11;1966;;;;university;politician,official
+96796;ryszard antoni legutko;Legutko;Ryszard Antoni;PL;ECR;MALE;D-CL,CULT,DANZ,DLAT;Kraków;24;12;1949;;;;phd;teacher
+96801;tomasz piotr poręba;Poręba;Tomasz Piotr;PL;ECR;MALE;DASE,TRAN,CULT,D-TR,D-CL,DLAT,DACP,DCAB;Grybów;31;3;1973;;;Pedagogical University of Kraków;phd;athlete,politician,official
+96808;pablo arias echeverría;Arias Echeverría;Pablo;ES;PPE;MALE;IMCO,D-US,TRAN,DAND,DLAT;Madrid;30;6;1970;;;;;politician
+96810;carlo fidanza;Fidanza;Carlo;IT;ECR;MALE;TRAN,D-RS,DCAM,DLAT,AFET,IMCO,D-BR,DMER;San Benedetto del Tronto;21;9;1976;;;;university;consultant,politician,official
+96811;rosa estaràs ferragut;Estaràs Ferragut;Rosa;ES;PPE;FEMALE;EMPL,FEMM,DACP,DCAB,DEVE,PETI,D-MX,D-CA,DLAT;Valldemossa;21;10;1965;;;University of the Balearic Islands;university;manager,politician,lawyer,official
+96812;juan fernando lópez aguilar;López Aguilar;Juan Fernando;ES;S&D;MALE;LIBE,DACP,DAFR,DEVE,AFCO,D-IR,D-CN,DLAT;Las Palmas de Gran Canaria;10;6;1961;;;University of Bologna,University of Granada,The Fletcher School of Law and Diplomacy,Complutense University of Madrid,Tufts University;phd;caricaturist,teacher,researcher,lawyer,politician
+96826;tamás deutsch;Deutsch;Tamás;HU;NI;MALE;PETI,D-IQ,ECON,DKOR;Budapest;27;7;1966;;László Lazsányi,Lajos Für;Eötvös Loránd University,Saint Margaret High School, Budapest;university;politician,lawyer
+96829;ádám kósa;Kósa;Ádám;HU;NI;MALE;EMPL,D-JP,DEVE,DPAP;Budapest;1;7;1975;True;;Pázmány Péter Catholic University,Semmelweis University;university;politician,lawyer
+96830;enikő győri;Győri;Enikő;HU;NI;FEMALE;ECON,DAND,INTA,DCAM,DLAT;Budapest;17;7;1968;;;Corvinus University of Budapest;phd;teacher,politician,manager
+96833;jens geier;Geier;Jens;DE;S&D;MALE;ITRE,D-JP,BUDG,D-US;Frankfurt;22;6;1961;;;Helmholtz-Gymnasium (Essen, Germany),Ruhr University Bochum;university;media,manager,consultant,researcher,official,politician
+96837;petra kammerevert;Kammerevert;Petra;DE;S&D;FEMALE;D-ME,CULT,IMCO,D-AL;Duisburg;1;6;1966;;;University of Duisburg-Essen;university;politician,official,manager
+96852;cornelia ernst;Ernst;Cornelia;DE;The Left;FEMALE;D-IR,LIBE,ITRE,D-UA;Bad Saarow;30;11;1956;;;;;politician
+96868;karima delli;Delli;Karima;FR;Verts/ALE;FEMALE;TRAN,D-CN,ECON;Roubaix;4;3;1979;;;Sciences Po Lille;;politician
+96880;andrea cozzolino;Cozzolino;Andrea;IT;NI;MALE;REGI;Napoli;3;8;1962;;;;;politician
+96885;dominique riquet;Riquet;Dominique;FR;Renew;MALE;TRAN,D-JP,ITRE,DANZ;Valenciennes;18;9;1946;;;Lille University of Health and Law;phd;doctor,politician,manager
+96891;paolo de castro;De Castro;Paolo;IT;S&D;MALE;INTA,AGRI,D-US,DMAS,DMED,DLAT;S. Pietro Vernotico;2;2;1958;;;University of Bologna;phd;researcher,politician
+96922;izaskun bilbao barandica;Bilbao Barandica;Izaskun;ES;Renew;FEMALE;DAND,TRAN,PECH,DLAT,ITRE,D-US;Bermeo;27;3;1961;;;University of the Basque Country,University of Deusto;university;politician,lawyer
+96932;birgit sippel;Sippel;Birgit;DE;S&D;FEMALE;LIBE,DMAS,EMPL,DMAG;Bochum;29;1;1960;;;;;politician
+96933;milan zver;Zver;Milan;SI;PPE;MALE;DSAS,CULT,AFET,DCAM,DLAT;Ljubljana;25;5;1962;;;University of Graz,University of Ljubljana;;researcher,politician
+96934;sandra kalniete;Kalniete;Sandra;LV;PPE;FEMALE;AFET,D-UA,DEPA,INTA,DEEA,DNAT;Togur;22;12;1952;;;Art Academy of Latvia;;politician,official
+96936;gabriel mato;Mato;Gabriel;ES;PPE;MALE;INTA,DLAT,DACP,DCAB,AFET,AGRI,PECH,D-MK,DSEE,DCAM,DAND;Madrid;29;4;1961;;;;university;lawyer,official
+96952;sylvie guillaume;Guillaume;Sylvie;FR;S&D;FEMALE;CULT,LIBE,PETI;Antony;11;6;1962;;;;university;politician
+96991;eider gardiazabal rubial;Gardiazabal Rubial;Eider;ES;S&D;FEMALE;BUDG,D-RU,CONT,ECON,DANZ;Bilbao;12;7;1975;;;;;
+96998;evelyn regner;Regner;Evelyn;AT;S&D;FEMALE;DSAS,ECON,FEMM,D-BR,DLAT,EMPL,FISC,D-MX;Wien;24;1;1966;;;University of Salzburg;university;politician,manager
+97058;guy verhofstadt;Verhofstadt;Guy;BE;Renew;MALE;AFCO,D-US,D-IL,DMED;Dendermonde;11;4;1953;;;Ghent University;university;politician
+97236;marie toussaint;Toussaint;Marie;FR;Verts/ALE;FEMALE;ITRE,JURI,D-US,DLAT,ENVI;LILLE;27;5;1987;;;Sciences Po;;activist,politician,lawyer
+97968;andrey kovatchev;Kovatchev;Andrey;BG;PPE;MALE;IMCO,DACP,DAFR,AFET,INTA,DROI,DASE;Sofia;13;12;1967;;;Saarland University;;politician
+98341;eva maydell;Maydell;Eva;BG;PPE;FEMALE;D-JP,ITRE,ECON,D-US;Sofia;26;1;1986;;;John Cabot University;;politician
+98582;loránt vincze;Vincze;Loránt;RO;PPE;MALE;AFCO,PETI,D-UK,D-IN,LIBE,D-US;Târgu Mureș / Marosvásárhely;3;11;1977;;;;university;politician,media,manager
+99283;alessandro panza;Panza;Alessandro;IT;ID;MALE;REGI,DEEA,DPAL,DMED,CULT,DEPA;Domodossola;15;5;1982;;;University of Milan;;politician
+99945;lena düpont;Düpont;Lena;DE;PPE;FEMALE;LIBE,D-ME,AGRI,FEMM,D-JP;Dortmund;30;4;1986;;;;university;politician,media,manager
+101039;paolo borchia;Borchia;Paolo;IT;ID;MALE;ITRE,TRAN,D-TR,D-RS,DLAT;NEGRAR;27;5;1980;;;University of Padua;university;politician
+101585;niels fuglsang;Fuglsang;Niels;DK;S&D;MALE;DARP,ITRE,D-CN,ECON,FISC,D-TR;Kobenhavn;29;6;1985;;;University of Copenhagen;phd;manager,teacher,researcher,consultant,official,politician
+103381;terry reintke;Reintke;Terry;DE;Verts/ALE;FEMALE;EMPL,LIBE,FEMM,D-UK;Gelsenkirchen;9;5;1987;;;Free University Berlin;university;politician
+106936;daniel freund;Freund;Daniel;DE;Verts/ALE;MALE;CONT,AFCO,LIBE,D-ME,DASE;Aachen;14;10;1984;;;Sciences Po,Leipzig University;university;politician,media,manager
+107212;andrey novakov;Novakov;Andrey;BG;PPE;MALE;BUDG,REGI,D-AL,CONT,TRAN,D-IL;PAZARDZHIK;7;7;1988;;;"South-West University ""Neofit Rilski""";;politician
+112611;petri sarvamaa;Sarvamaa;Petri;FI;PPE;MALE;CONT,AGRI,BUDG,D-RU,D-US;Joensuu;15;9;1960;;;University of Helsinki;university;politician,media,manager
+112744;tonino picula;Picula;Tonino;HR;S&D;MALE;AFET,DSEE,DEPA,ECON,AGRI,D-RS,D-US;Mali Lošinj;31;8;1961;;;Faculty of Humanities and Social Sciences, University of Zagreb;university;researcher,politician,official
+112747;romana jerković;Jerković;Romana;HR;S&D;FEMALE;ITRE,D-AL,ENVI,D-RU;Split;28;11;1964;;;University of Rijeka;;doctor,politician
+112748;biljana borzan;Borzan;Biljana;HR;S&D;FEMALE;IMCO,DSAS,ENVI,D-MK;Osijek;29;11;1971;;;School of Medicine, University of Zagreb;phd;doctor,politician,official
+114268;nils torvalds;Torvalds;Nils;FI;Renew;MALE;BUDG,ENVI,D-RU,ITRE,D-US;Ekenäs;7;8;1945;;Ole Torvalds,noble Märta Wendt;University of Helsinki;university;politician,media,manager
+118859;roberta metsola;Metsola;Roberta;MT;PPE;FEMALE;;St Julians;18;1;1979;;;St Aloysius' College,University of Malta;university;politician,lawyer,official
+118949;ondřej kovařík;Kovařík;Ondřej;CZ;Renew;MALE;ECON,D-CA,TRAN,LIBE,FISC,D-UK,DEEA;KYJOV;21;8;1980;;;École nationale d'administration,Prague University of Economics and Business;;politician,chinovnik
+120478;martina michels;Michels;Martina;DE;The Left;FEMALE;REGI,CULT,D-IL,DMED,DEPA,DSCA;Berlin;1;12;1955;;;Humboldt University of Berlin;university;politician,official
+122978;alicia homs ginel;Homs Ginel;Alicia;ES;S&D;FEMALE;EMPL,DCAM,DLAT,ITRE,DMAG;Palma;15;10;1993;;;Autonomous University of Barcelona;university;politician,official
+123562;charlie weimers;Weimers;Charlie;SE;ECR;MALE;AFET,D-IQ,LIBE,D-US;HAMMARÖ;12;11;1982;;;;;politician
+124586;balázs hidvéghi;Hidvéghi;Balázs;HU;NI;MALE;AFET,D-UK,LIBE,D-CN,DASE;Budapest;28;11;1970;;;Petőfi Sándor Gimnázium,Eötvös Loránd University;;politician
+124691;costas mavrides;Mavrides;Costas;CY;S&D;MALE;ECON,D-TR,DMED,INTA,SEDE,D-IL;Kato Dhikomo;27;5;1962;;;;phd;official
+124692;demetris papadakis;Papadakis;Demetris;CY;S&D;MALE;AFET,D-ME,DACP,DAFR,ENVI,PETI,DLAT;Ammochostos;22;8;1966;;;;university;media
+124693;pascal durand;Durand;Pascal;FR;S&D;MALE;BUDG,JURI,AFCO;Montreuil-Sous-Bois;3;10;1960;;;Paris 12 University;phd;politician,lawyer
+124696;andrus ansip;Ansip;Andrus;EE;Renew;MALE;IMCO,DPAP,ITRE,D-IL,DMED;Tartu;1;10;1956;;;University of Tartu,York University,Estonian University of Life Sciences;university;entrepreneur,businessperson,engineer,researcher,politician
+124700;yana toom;Toom;Yana;EE;Renew;FEMALE;PETI,LIBE,D-RU,REGI,JURI,D-IQ;Tallinn;15;10;1966;;Margarita Tšernogorova;University of Tartu;university;politician,media
+124701;luděk niedermayer;Niedermayer;Luděk;CZ;PPE;MALE;ECON,FISC,D-US,ITRE,TRAN,D-BY,DKOR;Brno;13;3;1966;;;Masaryk University;university;manager,bank officer,researcher,official,politician
+124704;stanislav polčák;Polčák;Stanislav;CZ;PPE;MALE;ENVI,DMAG,DMED,BUDG,REGI,DCAM,DLAT;Slavičín;21;2;1980;;;Faculty of Law, Charles University in Prague;;politician,teacher,lawyer
+124705;istván ujhelyi;Ujhelyi;István;HU;S&D;MALE;TRAN,ENVI,SANT,D-CN;Berettyóújfalu;28;2;1975;;;University of Szeged;university;politician
+124708;dita charanzová;Charanzová;Dita;CZ;Renew;FEMALE;IMCO,D-US,INTA,DMER,DLAT;Prague;30;4;1975;;;Prague University of Economics and Business;phd;researcher,politician,official,manager
+124709;martina dlabajová;Dlabajová;Martina;CZ;Renew;FEMALE;ITRE,DACP,DAFR,BUDG,D-ZA;Zlín;26;7;1976;;;University of Padua;phd;politician,official,manager
+124710;michaela šojdrová;Šojdrová;Michaela;CZ;PPE;FEMALE;CULT,DSCA,DEPA,AGRI,D-TR;Zlín;28;10;1963;;Eva Nováková;Mendel University in Brno;university;teacher,politician
+124712;andrea bocskor;Bocskor;Andrea;HU;NI;FEMALE;CULT,D-MD,AFET,DEPA;Berehove;11;8;1978;;;Eötvös Loránd University,Ferenc Rákóczi II Transcarpathian Hungarian College of Higher Education;phd;politician,researcher,teacher,manager
+124713;tomáš zdechovský;Zdechovský;Tomáš;CZ;PPE;MALE;DCAS,AFET,EMPL,D-JP,DSAS,LIBE,DACP,DAFR;Havlíčkův Brod;2;11;1979;;;Salesian Pontifical University,University of South Bohemia in České Budějovice,Masaryk University;university;poet,media,manager,writer,politician
+124714;andor deli;Deli;Andor;HU;NI;MALE;BUDG,D-RS,TRAN,D-ME;Óbecse (Szerbia);2;5;1977;;;University of Novi Sad;university;politician,lawyer,manager
+124715;györgy hölvényi;Hölvényi;György;HU;PPE;MALE;DEVE,DROI,DACP,DAFR,DARP,D-IR;Budapest;13;6;1962;;;Eötvös Loránd University;;politician
+124722;csaba molnár;Molnár;Csaba;HU;S&D;MALE;ECON,DASE,ITRE,D-US;Csorna;4;12;1975;;;Eötvös Loránd University;university;researcher,politician,lawyer
+124726;henna virkkunen;Virkkunen;Henna;FI;PPE;FEMALE;ITRE,TRAN,DARP,DACP,DAFR;Joutsa;4;6;1972;;;University of Jyväskylä;university;politician,teacher,media
+124735;miapetra kumpula-natri;Kumpula-Natri;Miapetra;FI;S&D;FEMALE;D-US,INTA,ITRE,AFCO,D-JP;Vaasa;19;5;1972;;;;;politician
+124738;gilles lebreton;Lebreton;Gilles;FR;ID;MALE;AGRI,JURI,DMAG,DMED,AFCO;Brest;11;10;1958;;;Panthéon-Assas University,Paris-Sorbonne University - Paris IV;phd;politician,lawyer,teacher,official
+124739;carlos zorrinho;Zorrinho;Carlos;PT;S&D;MALE;DACP,ITRE,DAFR,DEVE,DMAS;Óbidos;28;5;1959;;;University of Évora;phd;researcher,politician,official
+124747;pedro silva pereira;Silva Pereira;Pedro;PT;S&D;MALE;ECON,AFCO,D-UK,D-JP,INTA,DLAT,DACP,DCAB;Lisbon;15;8;1962;;;University of Lisbon;university;politician,teacher,lawyer
+124760;nicolas bay;Bay;Nicolas;FR;ECR;MALE;EMPL,REGI;Saint-Germain-en-Laye;21;12;1977;;;Paris Nanterre University;;politician
+124766;petras auštrevičius;Auštrevičius;Petras;LT;Renew;MALE;D-AF,AFET,SEDE,D-UA,DEPA,DNAT,DEVE,DROI,D-BY;Vilnius;16;5;1963;;;Vilnius University,Hoover Institution,Lithuanian Academy of Sciences;phd;manager,teacher,researcher,official,politician
+124770;jean-françois jalkh;Jalkh;Jean-François;FR;ID;MALE;D-CN,CONT;Tournan-en-Brie;23;5;1957;;;Panthéon-Assas University;university;politician,media
+124771;dominique bilde;Bilde;Dominique;FR;ID;FEMALE;DEVE,CONT,EMPL,D-AL,D-ME,DACP,DAFR,D-MK,D-RS,DSEE;Nancy;1;8;1953;;;;secondary;politician,businessperson
+124777;tiziana beghin;Beghin;Tiziana;IT;NI;FEMALE;INTA,D-US,DMED,BUDG,ITRE,DMAG;Genoa;4;2;1971;;;;university;politician,teacher
+124780;marco zanni;Zanni;Marco;IT;ID;MALE;ECON,D-RS,AFET,BUDG;Lovere;11;7;1986;;;Bocconi University;university;politician
+124781;alfred sant;Sant;Alfred;MT;S&D;MALE;ECON,PETI,D-US,BUDG,FISC,D-UK,D-JP;Sliema;28;2;1948;;;Harvard University,Harvard Business School,École nationale d'administration,Questrom School of Business,Boston University;university;writer,politician,media,official
+124784;dan nica;Nica;Dan;RO;S&D;MALE;DPAC,D-JP,DACP,ITRE,D-US,ENVI,IMCO,D-UK;Panciu;2;7;1960;;;Gheorghe Asachi Technical University of Iași;phd;manager,engineer,researcher,official,politician
+124785;maria grapini;Grapini;Maria;RO;S&D;FEMALE;IMCO,CONT,LIBE,DEPA,TRAN,D-MD,D-JP;Berești - Galați;7;11;1954;;;Gheorghe Asachi Technical University of Iași;secondary;consultant,politician,manager,engineer
+124799;alessandra moretti;Moretti;Alessandra;IT;S&D;FEMALE;D-RS,AFET,ENVI,SANT,FEMM,DCAS;Vicenza;24;6;1973;;;University of Urbino;;politician
+124802;siegfried mureşan;Mureşan;Siegfried;RO;PPE;MALE;D-MD,BUDG,ECON,DEPA,D-US;Hunedoara;20;9;1981;;;;;
+124806;david mcallister;McAllister;David;DE;PPE;MALE;AFET,DCAR,D-UK,DNAT,INTA,SEDE,D-US,DLAT;Berlin;12;1;1971;;;Leibniz University Hannover;secondary;politician,lawyer
+124807;jens gieseke;Gieseke;Jens;DE;PPE;MALE;TRAN,DCAM,D-CL,DLAT,ENVI,ITRE,D-IN;Lingen;18;5;1971;;;;;researcher,politician,lawyer,manager
+124808;norbert lins;Lins;Norbert;DE;PPE;MALE;AGRI,DEEA,ENVI,D-MX,DLAT;Ravensburg;22;12;1977;;;;university;teacher,politician,official,manager
+124812;fabio massimo castaldo;Castaldo;Fabio Massimo;IT;Renew;MALE;AFET,SEDE,ECON,D-CL,DSCA,DLAT,DEPA;Rome;18;9;1985;;;Tor Vergata University of Rome;university;politician,lawyer
+124821;nicola danti;Danti;Nicola;IT;Renew;MALE;ITRE,DMER,DLAT,TRAN,D-CN,DASE;Pelago (FI);6;9;1966;;;University of Florence;university;politician,official
+124822;dietmar köster;Köster;Dietmar;DE;S&D;MALE;AFET,DROI,D-IR,D-US,LIBE,D-IL;Schwerte;6;1;1957;;;Ruhr University Bochum;phd;manager,teacher,researcher,official,politician
+124828;fulvio martusciello;Martusciello;Fulvio;IT;PPE;MALE;ITRE,ECON,ENVI,FISC,D-ME,DARP,DSAS,DMED,DACP,DAFR;Napoli;25;5;1968;;;University of Naples Federico II;;politician,lawyer,official
+124831;isabella adinolfi;Adinolfi;Isabella;IT;PPE;FEMALE;FEMM,D-US,CULT,DANZ;Nocera Inferiore;27;3;1978;;;Suor Orsola Benincasa University of Naples;university;teacher,politician
+124833;laura ferrara;Ferrara;Laura;IT;NI;FEMALE;LIBE,DACP,DAFR,ENVI,DANZ;Napoli;11;9;1983;;;University of Calabria;phd;lawyer,politician,official
+124834;martin sonneborn;Sonneborn;Martin;DE;NI;MALE;LIBE,DSCA,DKOR,DEPA,AFCO;Göttingen;15;5;1965;;Engelbert Sonneborn;;phd;media,manager,official,writer,politician
+124835;rosa d'amato;D'Amato;Rosa;IT;Verts/ALE;FEMALE;REGI,PECH,DPAL,DMED,EMPL;Taranto;30;3;1969;;;University of Florence;university;politician,teacher
+124836;maria noichl;Noichl;Maria;DE;S&D;FEMALE;AGRI,FEMM,DMED,DACP,DAFR,DEVE,DROI,D-ZA;Rosenheim;9;1;1967;;;;university;politician,teacher
+124837;joachim schuster;Schuster;Joachim;DE;S&D;MALE;D-ZA,INTA,ECON,SEDE,FISC,D-RU;Rastatt;28;10;1962;;;University of Marburg,University of Bremen;phd;politician,official
+124844;piernicola pedicini;Pedicini;Piernicola;IT;Verts/ALE;MALE;ECON,D-MD,DEPA,ENVI,DACP,DCAB;Benevento;22;5;1969;;;University of Naples Federico II;university;researcher,politician,official,manager
+124846;pina picierno;Picierno;Pina;IT;S&D;FEMALE;LIBE,FEMM,D-IL,AFET,AGRI,CULT,PETI,D-MK;S. Maria Capua Vetere (CE);10;5;1981;;;;;
+124850;emil radev;Radev;Emil;BG;PPE;MALE;LIBE,PETI,DACP,DAFR,JURI,DKOR,DEPA;Varna;26;5;1971;;;Varna Free University,University of Economics - Varna;;politician,lawyer
+124852;sergei stanishev;Stanishev;Sergei;BG;S&D;MALE;AFET,D-MK,ECON,D-AL;Kherson;5;5;1966;;Dimitar Stanishev;Goodenough College,MSU Faculty of History;;politician
+124856;ignazio corrao;Corrao;Ignazio;IT;Verts/ALE;MALE;ITRE,DACP,DPAC,TRAN,DLAT;Roma;14;1;1984;;;University of Palermo;university;manager,politician,lawyer,official
+124861;caterina chinnici;Chinnici;Caterina;IT;PPE;FEMALE;CONT,D-CL,D-IN,JURI,DSAS;Palermo;5;11;1954;;Rocco Chinnici;University of Palermo;university;manager,politician,lawyer,official
+124862;ulrike müller;Müller;Ulrike;DE;Renew;FEMALE;DANZ,AGRI,PETI,DSAS,ENVI,D-UK,DACP,DPAC;Augsburg;7;12;1962;;;;university;politician,farmer
+124866;ilhan kyuchyuk;Kyuchyuk;Ilhan;BG;Renew;MALE;D-TR,AFET,TRAN,JURI,DARP;Sevlievo;16;9;1985;;;;university;politician
+124867;brando benifei;Benifei;Brando;IT;S&D;MALE;IMCO,DMAS,D-BR,DLAT,EMPL,JURI,AFCO,D-UK,DMAG,D-US,DMER,DMED;La Spezia;1;1;1986;;;University of Bologna;;politician
+124872;morten petersen;Petersen;Morten;DK;Renew;MALE;ITRE,D-TR,LIBE,D-US;Kobenhavn;14;9;1966;;;;university;consultant,politician,manager
+124873;angel dzhambazki;Dzhambazki;Angel;BG;ECR;MALE;JURI,D-MK,AFET,TRAN,AFCO,PETI,DSEE,D-US;Sofia;21;3;1979;;;Sofia University;;politician
+124875;anders primdahl vistisen;Vistisen;Anders Primdahl;DK;ID;MALE;AFET,ENVI,LIBE,D-US,EMPL,DANZ;Viborg;12;11;1987;;;Aarhus University;university;lobbyist,politician,manager
+124877;jadwiga wiśniewska;Wiśniewska;Jadwiga;PL;ECR;FEMALE;DCAB,DACP,LIBE,ENVI,FEMM,D-CA;Myszków;2;7;1963;;;Jan Długosz University;;politician
+124884;kosma złotowski;Złotowski;Kosma;PL;ECR;MALE;DSCA,TRAN,PETI,DEPA,IMCO,JURI,DANZ,DACP,DAFR;Bydgoszcz;14;1;1964;;;University of Warsaw;university;manager,politician,media,official
+124887;karol karski;Karski;Karol;PL;ECR;MALE;DACP,DPAC,AFET,DROI,SANT,ENVI,D-UA,DEPA;Warszawa;13;5;1966;;;Faculty of Law and Administration, University of Warsaw;phd;politician
+124891;zdzisław krasnodębski;Krasnodębski;Zdzisław;PL;ECR;MALE;ITRE,AFCO,DEEA,AFET,SEDE,D-CN,DSAS,D-ZA;Choszczno;11;4;1953;;;Faculty of Philosophy and Sociology, University of Warsaw,Ruhr University Bochum;phd;politician,researcher,teacher,manager
+124929;ivan štefanec;Štefanec;Ivan;SK;PPE;MALE;IMCO,D-JP,ITRE,DROI,D-UA,DEPA,DACP,DAFR;Považská Bystrica;30;9;1961;;;Comenius University,Rochester Institute of Technology;phd;manager,engineer,researcher,official,politician
+124934;monika vana;Vana;Monika;AT;Verts/ALE;FEMALE;REGI,BUDG,FEMM,D-US,DANZ;Vienna;14;9;1969;;;TU Wien,University of Vienna;phd;teacher,politician,official,manager
+124936;maria arena;Arena;Maria;BE;S&D;FEMALE;AFET,ENVI,DROI,DPAP,DACP,DAFR;Mons;17;12;1966;;;;;researcher
+124973;gerolf annemans;Annemans;Gerolf;BE;ID;MALE;ECON,AFCO,D-US;Antwerpen;8;11;1958;;;University of Antwerp;university;politician,lawyer
+124985;luke ming flanagan;Flanagan;Luke Ming;IE;The Left;MALE;CONT,AGRI,PECH,D-UK;Roscommon;22;1;1972;;;;;
+124988;deirdre clune;Clune;Deirdre;IE;PPE;FEMALE;IMCO,DCAM,DLAT,ENVI,DROI,SANT,DACP,DAFR;Cork;1;6;1959;;Peter Barry;University College Cork,Trinity College Dublin;;politician
+124992;malin björk;Björk;Malin;SE;The Left;FEMALE;ENVI,LIBE,D-BR,DLAT,AFET,DMER,D-ZA;Göteborg;22;5;1972;;;;;politician
+124996;peter lundgren;Lundgren;Peter;SE;ECR;MALE;TRAN,EMPL,D-UK,DARP;Bjuv parish;2;2;1963;;;;secondary;politician
+125001;harald vilimsky;Vilimsky;Harald;AT;ID;MALE;AFET,D-US,LIBE;Vienna;22;7;1966;;;University of Vienna;;politician,media
+125004;franc bogovič;Bogovič;Franc;SI;PPE;MALE;D-RS,AGRI,ITRE,REGI,D-CN,DACP,DAFR;Senovo;2;2;1963;;;University of Maribor;university;manager,entrepreneur,researcher,official,politician
+125005;javier nart;Nart;Javier;ES;Renew;MALE;DCAM,AFET,SEDE,DLAT,DACP,DPAC,D-RU,DMAG;Laredo;19;8;1947;;;University of Barcelona;;media,lawyer,writer,politician
+125012;daniel buda;Buda;Daniel;RO;PPE;MALE;AGRI,DMER,DLAT,REGI,JURI;Com. Românași;11;1;1970;;;;;politician,lawyer
+125020;paul tang;Tang;Paul;NL;S&D;MALE;FISC,ECON,D-US,LIBE;Haarlem;23;4;1967;;;University of Amsterdam;phd;manager,consultant,researcher,official,politician
+125021;agnes jongerius;Jongerius;Agnes;NL;S&D;FEMALE;EMPL,DASE,INTA,DPAP;Vleuten-De-Meern;4;11;1960;;;Utrecht University;university;researcher,politician,trade unionist
+125023;anja hazekamp;Hazekamp;Anja;NL;The Left;FEMALE;ENVI,PECH,AGRI,SANT,D-JP,DSAS;Vlagtwedde;21;1;1968;;;University of Groningen;phd;researcher,politician,official
+125025;marcel de graaff;de Graaff;Marcel;NL;NI;MALE;PETI;Rotterdam;7;4;1962;;;Radboud University Nijmegen;;teacher,politician,conspiracy theorist
+125030;annie schreijer-pierik;Schreijer-Pierik;Annie;NL;PPE;FEMALE;AGRI,PECH,DACP,DPAC,INTA,D-RU;Diepenheim;17;2;1953;;;;university;politician,farmer
+125038;maite pagazaurtundúa;Pagazaurtundúa;Maite;ES;Renew;FEMALE;LIBE,DPAL,DMED,AFCO,PETI,DACP,DAFR;Donostia San Sebastián;11;2;1965;;;University of Deusto;university;politician,writer
+125042;javi lópez;López;Javi;ES;S&D;MALE;DLAT,ENVI,SEDE,D-MX,AFET,DPAP;Madrid;11;11;1985;;;;university;teacher,politician,manager
+125043;inma rodríguez-piñero;Rodríguez-Piñero;Inma;ES;S&D;FEMALE;D-CL,DCAR,INTA,D-UK,TRAN,D-JP,DLAT;Madrid;7;1;1958;;;;university;official,manager
+125045;clara aguilera;Aguilera;Clara;ES;S&D;FEMALE;D-MX,AGRI,PECH,DLAT,IMCO,D-BR;Granada;3;1;1964;;;;university;farmer
+125046;jonás fernández;Fernández;Jonás;ES;S&D;MALE;ECON,FISC,D-ME,BUDG,D-CN;Oviedo;8;1;1979;;;;university;researcher,politician,manager
+125063;georgios kyrtsos;Kyrtsos;Georgios;GR;Renew;MALE;ECON,AFET,D-UK,D-RU,DLAT;Athina;4;6;1952;;;;phd;media,manager
+125064;maria spyraki;Spyraki;Maria;GR;PPE;FEMALE;ENVI,ITRE,REGI,D-MK;Larisa;11;9;1965;;;Aristotle University of Thessaloniki;university;politician,media
+125065;elissavet vozemberg-vrionidi;Vozemberg-Vrionidi;Elissavet;GR;PPE;FEMALE;FEMM,TRAN,LIBE,D-TR;Athina;14;9;1956;;;;;
+125067;theodoros zagorakis;Zagorakis;Theodoros;GR;S&D;MALE;;Kavala;27;10;1971;;;;;athlete,politician
+125068;manolis kefalogiannis;Kefalogiannis;Manolis;GR;PPE;MALE;D-AL,REGI,D-TR,DARP,AFET,AGRI,D-UK;Heraklion;25;5;1959;;;University of Reading,National and Kapodistrian University of Athens,London School of Economics and Political Science;;politician
+125093;kostas papadakis;Papadakis;Kostas;GR;NI;MALE;AFET,DROI,D-TR,LIBE,D-AL;Athina;18;4;1975;;;;university;
+125104;romana tomc;Tomc;Romana;SI;PPE;FEMALE;EMPL,DEEA,IMCO,LIBE,DCAS;Ljubljana;2;11;1965;;;University of Ljubljana;;researcher,politician
+125106;johan van overtveldt;Van Overtveldt;Johan;BE;ECR;MALE;BUDG,ECON,D-CA,TRAN,FISC;Mortsel;24;8;1955;;;University of Antwerp;phd;media,manager,teacher,researcher,politician
+125109;eva kaili;Kaili;Eva;GR;NI;FEMALE;ITRE;Thessaloniki;26;10;1978;;Alexander Kaïlí;Aristotle University of Thessaloniki;phd;media,manager,architect,consultant,official,politician
+125128;iskra mihaylova;Mihaylova;Iskra;BG;Renew;FEMALE;ITRE,DSCA,DEPA,DEVE,D-RS;Sofia;7;9;1957;;;Saint Petersburg State University of Culture and Arts;phd;researcher,librarian,politician,official
+125214;bronis ropė;Ropė;Bronis;LT;Verts/ALE;MALE;D-MD,AGRI,DEPA,ITRE,REGI,D-UA,D-BY;Ignalina;14;4;1955;;;Kaunas University of Technology;university;politician,engineer
+125237;marco zullo;Zullo;Marco;IT;Renew;MALE;FEMM,D-AL,IMCO;Verona;29;10;1978;;;University of Padua,Bocconi University;university;politician,teacher,manager
+125670;massimiliano salini;Salini;Massimiliano;IT;PPE;MALE;D-IR,TRAN,ECON,ENVI,ITRE,D-TR;Soresina (CR);11;3;1973;;;University of Milan;;politician
+125706;jiří pospíšil;Pospíšil;Jiří;CZ;PPE;MALE;JURI,D-IR,IMCO,DROI,D-RS;Chomutov;24;11;1975;;;Grammar School at Mikulasske Namesti,University of West Bohemia;;teacher,researcher,collector,lawyer,politician
+126644;jordi cañas;Cañas;Jordi;ES;Renew;MALE;DMER,DLAT,INTA,EMPL,D-MX,D-UK,IMCO,PETI;Barcelona;12;12;1969;;;;;
+127096;domènec ruiz devesa;Ruiz Devesa;Domènec;ES;S&D;MALE;D-IQ,AFCO,CULT,LIBE,PETI,DPAL,DMAS,DLAT;ALICANTE;3;3;1978;;;National University of Distance Education,Johns Hopkins University,Universidad Carlos III de Madrid;university;media,consultant,researcher,lawyer,official,politician
+128483;markus buchheit;Buchheit;Markus;DE;ID;MALE;;Zweibrücken;11;8;1983;;;;;politician,lawyer
+129073;urmas paet;Paet;Urmas;EE;Renew;MALE;AFET,SEDE,D-CL,DASE,DLAT,INTA,D-JP;Tallinn;20;4;1974;;;University of Tartu,University of Oslo;university;politician,media,official
+129164;tom vandenkendelaere;Vandenkendelaere;Tom;BE;PPE;MALE;DNAT,IMCO,SEDE,D-UK,D-IR,AFET,AGRI,LIBE,D-CN,D-AF;Roeselare;2;9;1984;;;Institut libre Marie Haps;;politician
+130100;hilde vautmans;Vautmans;Hilde;BE;Renew;FEMALE;AFET,D-UK,AGRI,LIBE,FEMM,D-JP;Sint-Truiden;2;5;1972;;;;university;politician
+130256;dace melb?rde;Melb?rde;Dace;LV;PPE;FEMALE;ENVI,ITRE,SEDE;Riga;3;4;1971;;;University of Latvia,Latvian Academy of Culture;phd;manager,professor,official,researcher,politician
+130833;stelios kouloglou;Kouloglou;Stelios;GR;The Left;MALE;DMER,AFET,DANZ,IMCO,CULT,DROI,DLAT;Athens;27;2;1953;;;National and Kapodistrian University of Athens;;politician,media,writer
+131507;miguel urbán crespo;Urbán Crespo;Miguel;ES;The Left;MALE;DEVE,DROI,DMER,DLAT,LIBE,D-BR;Madrid;26;3;1980;;;;;politician,activist
+131580;jordan bardella;Bardella;Jordan;FR;ID;MALE;PETI,DACP,DAFR;Drancy;13;9;1995;;;Paris-Sorbonne University - Paris IV;;politician,student
+132191;gunnar beck;Beck;Gunnar;DE;ID;MALE;;Düsseldorf;1;5;1965;;;Nuffield College;;researcher,politician,lawyer
+132366;pirkko ruohonen-lerner;Ruohonen-Lerner;Pirkko;FI;ECR;FEMALE;EMPL,DKOR,CONT;Hyvinkää;6;2;1957;;;University of Helsinki;;politician,media
+134605;ramona strugariu;Strugariu;Ramona;RO;Renew;FEMALE;D-MD,LIBE,DEPA,AFET,CONT,PETI,D-TR;BIRLAD;6;8;1979;;;Alexandru Ioan Cuza University;university;researcher,politician,lawyer,manager
+135511;valérie hayer;Hayer;Valérie;FR;Renew;FEMALE;DASE,BUDG,ITRE,D-CL,DLAT,DACP,DPAC;Château-Gontier;6;4;1986;;;;;politician
+136236;joão pimenta lopes;Pimenta Lopes;João;PT;The Left;MALE;TRAN,PECH,DPAL,DCAS,DACP,DCAB,ENVI,AFCO,SANT;Campo Grande;12;4;1980;;;University of Lisbon;;politician,biologist
+182995;annika bruna;Bruna;Annika;FR;ID;FEMALE;LIBE,FEMM,D-BY,D-US,D-CA;Versailles;26;11;1956;;;;;politician
+183338;jakop g. dalunde;Dalunde;Jakop G.;SE;Verts/ALE;MALE;TRAN,AFET,ITRE,DPAL;;2;2;1984;;;;secondary;manager,engineer
+183793;angelo ciocca;Ciocca;Angelo;IT;ID;MALE;AGRI,D-TR,ITRE,DMAG;Pavia;28;6;1975;;;Università degli Studi Niccolò Cusano;;politician
+183916;alexandra geese;Geese;Alexandra;DE;Verts/ALE;FEMALE;BUDG,IMCO,D-IQ,D-CN,REGI;Bonn;1;7;1968;;;;;politician,translator
+185341;željana zovko;Zovko;Željana;HR;PPE;FEMALE;AFET,DSEE,CULT,SEDE,D-US,DLAT;Mostar;25;3;1970;;;University of North London;university;official,politician,media,manager
+185619;tiemo wölken;Wölken;Tiemo;DE;S&D;MALE;ENVI,JURI,SANT,D-CA,D-AL;Otterndorf;5;12;1985;;;Halepaghen-Schule,University of Hull;university;politician,researcher,teacher,lawyer
+185771;tom vandendriessche;Vandendriessche;Tom;BE;ID;MALE;LIBE,DASE,IMCO,DCAR,D-JP,D-ZA;Leuven;27;10;1978;;;Ghent University;;politician
+185974;jordi solé;Solé;Jordi;ES;Verts/ALE;MALE;DAND,AFET,DROI,D-IL,DMAG,DMED,DLAT,ITRE,D-CN;Caldes de Montbui;26;10;1976;;;;university;
+187917;marc botenga;Botenga;Marc;BE;The Left;MALE;ITRE,DACP,DAFR,AFET,EMPL,DPAL;Bruxelles;29;12;1980;;;IMT School for Advanced Studies Lucca;;politician
+188945;dennis radtke;Radtke;Dennis;DE;PPE;MALE;EMPL,DKOR,ITRE,D-JP;Bochum;29;4;1979;;;;university;politician,trade unionist
+189065;france jamet;Jamet;France;FR;ID;FEMALE;ECON,PECH,D-UK,D-IN,DMED,INTA,D-ME,DMAG,D-JP,DEPA;Paris;5;2;1961;;Alain Jamet,Dominique Jamet,Marc-Antoine Jamet;;;politician
+189525;asim ademov;Ademov;Asim;BG;PPE;MALE;CULT,DMAG,DMED,AGRI,PETI,D-RS;Dubnitsa;3;12;1968;;;;;politician
+190464;thomas waitz;Waitz;Thomas;AT;Verts/ALE;MALE;AFET,D-AL,D-ME,AGRI,SEDE,DSEE;Vienna;16;5;1973;;;;;politician,farmer
+190517;martin schirdewan;Schirdewan;Martin;DE;The Left;MALE;D-CA,ECON;Berlin;12;7;1975;;;Free University Berlin;phd;researcher,politician,media,manager
+190518;jörg meuthen;Meuthen;Jörg;DE;NI;MALE;EMPL;Essen;29;6;1961;;;University of Cologne,Johannes Gutenberg University Mainz;phd;teacher,researcher,politician,official
+190519;caroline nagtegaal;Nagtegaal;Caroline;NL;Renew;FEMALE;DARP,ECON,TRAN,D-BR,D-CN;Utrecht;1;6;1980;;;;;
+190713;lukas mandl;Mandl;Lukas;AT;PPE;MALE;DKOR,SEDE,AFET,LIBE,DCAR,DSEE,EMPL,D-UK;Wien;12;7;1979;;;University of Vienna;university;teacher,consultant,politician
+190774;geoffroy didier;Didier;Geoffroy;FR;PPE;MALE;JURI,D-US,IMCO,DPAP;Boulogne-Billancourt;12;4;1976;;;Sciences Po,Harvard University,ESSEC Business School,Columbia University,Établissement La Rochefoucauld;university;politician,lawyer
+191693;elsi katainen;Katainen;Elsi;FI;Renew;FEMALE;AGRI,D-RU,TRAN,D-CA;Haapajärvi;17;12;1966;;;University of Jyväskylä;;politician
+192634;giuseppe ferrandino;Ferrandino;Giuseppe;IT;Renew;MALE;ECON,ENVI,TRAN,PECH,DLAT;Ischia (NA);21;3;1963;;;University of Naples Federico II;;politician
+192635;danilo oscar lancini;Lancini;Danilo Oscar;IT;ID;MALE;INTA,DMER,ENVI,DASE;Rovato (BS);15;10;1965;;;;;politician
+193273;romeo franz;Franz;Romeo;DE;Verts/ALE;MALE;DSEE,CULT,EMPL,LIBE,D-AL;Kaiserslautern;28;10;1966;;;;;politician,pianist,jazz musician
+193292;tilly metz;Metz;Tilly;LU;Verts/ALE;FEMALE;DCAM,SANT,ENVI,TRAN,DLAT,AGRI;Luxembourg;26;5;1967;;;Université catholique de Louvain;university;politician,teacher,official,manager
+197390;sara skyttedal;Skyttedal;Sara;SE;PPE;FEMALE;D-IQ,ITRE,LIBE,EMPL,SANT,DMAG;Tyresö;6;8;1986;;;Södertörn University,Stockholm University;;politician
+197391;heléne fritzon;Fritzon;Heléne;SE;S&D;FEMALE;ENVI,SANT,CULT,FEMM,D-ZA;Kristianstad;29;9;1960;;;;;politician,official
+197392;evin incir;Incir;Evin;SE;S&D;FEMALE;DPAL,LIBE,D-TR,D-IR,AFET;Diyarbakir;15;6;1984;;;;;politician
+197393;david lega;Lega;David;SE;PPE;MALE;AFET,DROI,D-RU,CONT,D-UA,DEPA,DACP,DPAC;Gothenburg;12;10;1973;True;;;;athlete,politician,businessperson
+197394;josianne cutajar;Cutajar;Josianne;MT;S&D;FEMALE;DANZ,ITRE,TRAN,REGI,D-CN,DMED;Victoria;27;12;1989;;;University of Malta;;politician
+197395;alice kuhnke;Kuhnke;Alice;SE;Verts/ALE;FEMALE;LIBE,FEMM,D-TR,D-IR;Malmö;21;12;1971;;;;university;manager,media,official
+197398;pär holmgren;Holmgren;Pär;SE;Verts/ALE;MALE;ENVI,D-RU,TRAN,AGRI,D-US,D-CN;Gävle;24;10;1964;;;Uppsala University;phd;doctor,teacher,meteorologist,writer,politician
+197400;abir al-sahlani;Al-Sahlani;Abir;SE;Renew;FEMALE;D-IQ,LIBE,EMPL,FEMM,DSEE;Basra;18;5;1976;;;Mid Sweden University;university;politician,manager
+197401;karin karlsbro;Karlsbro;Karin;SE;Renew;FEMALE;D-BY,INTA,ENVI,DEPA,D-UA;Roslags-Bro;23;9;1970;;;Stockholm University,London School of Economics and Political Science;university;politician,manager
+197402;tomas tobé;Tobé;Tomas;SE;PPE;MALE;DEVE,LIBE,D-IL,DMED,ITRE,D-TR;Gavle;16;2;1978;;;;university;politician,manager
+197403;alex agius saliba;Agius Saliba;Alex;MT;S&D;MALE;PETI,IMCO,DMED,DACP,DCAB,EMPL,ITRE,DPAL;Pieta;31;1;1988;;;University of Malta;;politician
+197404;jessica polfjärd;Polfjärd;Jessica;SE;PPE;FEMALE;D-MX,ENVI,DLAT,ECON,EMPL,DEEA;Västerås;27;5;1971;;;;;politician
+197405;jörgen warborn;Warborn;Jörgen;SE;PPE;MALE;INTA,DMER,DLAT,BUDG,TRAN,D-UK,D-CN;Varberg;23;1;1969;;;;university;politician,businessperson,manager
+197406;arba kokalari;Kokalari;Arba;SE;PPE;FEMALE;IMCO,FEMM,D-US,AFET,D-BY,DEPA,DACP,DCAB;Stockholm;27;11;1986;;Musine Kokalari;Kungsholmens gymnasium,Stockholm University;;politician
+197408;hildegard bentele;Bentele;Hildegard;DE;PPE;FEMALE;DEVE,ENVI,ITRE,D-ME,D-CA,D-TR;Ludwigsburg;22;5;1976;;;Free University Berlin;university;politician,official
+197410;stefan berger;Berger;Stefan;DE;PPE;MALE;ECON,D-JP,EMPL,ENVI,FISC,D-IL;Mönchengladbach;15;9;1969;;;Johannes Gutenberg University Mainz;;politician
+197412;niclas herbst;Herbst;Niclas;DE;PPE;MALE;BUDG,PECH,DACP,DAFR,CONT,D-IL,D-IR;Ratzeburg;28;2;1973;;;University of Kiel;university;consultant,politician,manager
+197413;karlo ressler;Ressler;Karlo;HR;PPE;MALE;BUDG,LIBE,D-CN,D-AL;Zagreb;26;12;1989;;;Faculty of Law of the University of Zagreb;;politician
+197414;loucas fourlas;Fourlas;Loucas;CY;PPE;MALE;EMPL,D-TR,AFET,CULT,LIBE,DCAM,DLAT;Lemesos;21;8;1969;;;;university;media
+197415;niyazi kizilyürek;Kizilyürek;Niyazi;CY;The Left;MALE;CULT,D-CL,DPAL,REGI,D-CA,DLAT;Nicosia;7;12;1959;;;;phd;manager,teacher,researcher,consultant,politician
+197416;giorgos georgiou;Georgiou;Giorgos;CY;The Left;MALE;AFET,D-TR,ITRE,AGRI,D-RU,DCAS;Nicosia;9;4;1963;;;National and Kapodistrian University of Athens;university;researcher,politician,teacher
+197417;tomislav sokol;Sokol;Tomislav;HR;PPE;MALE;IMCO,SANT,D-TR,ENVI,REGI,D-ME,DMED;Zagreb;20;9;1982;;;University of Zagreb;;politician
+197418;monica semedo;Semedo;Monica;LU;Renew;FEMALE;EMPL,CULT,DACP,DAFR,ECON,FISC;Grevenmacher;15;6;1984;True;;Trier University;;media,singer,researcher,politician
+197419;valter flego;Flego;Valter;HR;Renew;MALE;D-ME,ITRE,TRAN,D-RS;Koper;15;8;1972;;;University of Rijeka;;politician
+197421;isabel wiseler-lima;Wiseler-Lima;Isabel;LU;PPE;FEMALE;AFET,DROI,D-TR,ITRE,LIBE,D-CN;Odivelas-Loures;29;12;1961;;;;university;teacher
+197422;christine schneider;Schneider;Christine;DE;PPE;FEMALE;ENVI,FEMM,D-ZA,AGRI,DPAP;Landau;5;6;1972;;;Berufsakademie Mosbach;secondary;politician
+197423;nico semsrott;Semsrott;Nico;DE;Verts/ALE;MALE;CONT,D-IN,D-JP;Hamburg;11;3;1986;;;;;politician
+197425;ralf seekatz;Seekatz;Ralf;DE;PPE;MALE;ECON,D-IN,DCAS,INTA,EMPL,D-RU;DERNBACH;10;11;1972;;;;phd;politician
+197426;sven simon;Simon;Sven;DE;PPE;MALE;INTA,AFCO,DARP,AFET,ECON,DCAR,D-ZA,DACP,DPAC;Lahn-Wetzlar;9;10;1978;;;University of Giessen;phd;teacher,researcher,politician,lawyer
+197427;marlene mortler;Mortler;Marlene;DE;PPE;FEMALE;D-ZA,AGRI,DEVE,ENVI,D-AL;Lauf;16;10;1955;;;;;politician,farmer
+197429;marion walsmann;Walsmann;Marion;DE;PPE;FEMALE;JURI,D-MK,IMCO,ITRE,DSCA,DEPA;Erfurt;17;3;1963;;;Leipzig University;university;manager,politician,lawyer,official
+197430;engin eroglu;Eroglu;Engin;DE;Renew;MALE;ECON,D-TR,DCAS,AFET,D-AF;Schwalmstadt;12;2;1982;;;;;politician,manager
+197431;patrick breyer;Breyer;Patrick;DE;Verts/ALE;MALE;LIBE,DEEA,JURI;Frankfurt;1;1;1977;;;Goethe University Frankfurt;phd;politician,lawyer
+197432;jan-christoph oetjen;Oetjen;Jan-Christoph;DE;Renew;MALE;TRAN,DACP,DAFR,DEVE,LIBE,DROI,DMAS;Rotenburg an der Wümme;21;2;1978;;;Leibniz University Hannover;university;politician
+197433;katarina barley;Barley;Katarina;DE;S&D;FEMALE;LIBE,D-CL,D-UK,D-IN,AFET;Köln;19;11;1968;;;University of Marburg,University of Paris-Sud,University of Münster;phd;politician,lawyer
+197434;martin buschmann;Buschmann;Martin;DE;NI;MALE;ITRE,DASE,ENVI;Hamburg;17;4;1970;;;;;politician
+197435;gabriele bischoff;Bischoff;Gabriele;DE;S&D;FEMALE;AFCO,EMPL,DMER,DANZ;Bad Wildungen;4;1;1961;;;;;politician,official,manager,trade unionist
+197438;mislav kolakušić;Kolakušić;Mislav;HR;NI;MALE;CONT,D-US,D-CA,JURI,D-JP;Zagreb;15;9;1969;;;Faculty of Law of the University of Zagreb;university;politician,lawyer
+197439;damian boeselager;Boeselager;Damian;DE;Verts/ALE;MALE;AFCO,D-CA,BUDG,ECON,ITRE,LIBE,D-US;Frankfurt am Main;8;3;1988;;Georg Freiherr von Boeselager,Huberta Thiel,Albrecht Freiherr von Boeselager;Columbia University,University of Bayreuth,Hertie School,Aloisiuskolleg;university;consultant,politician,media
+197440;delara burkhardt;Burkhardt;Delara;DE;S&D;FEMALE;DSEE,ENVI,LIBE;Hamburg;3;11;1992;;;University of Kiel;university;politician,manager
+197441;predrag fred matić;Matić;Predrag Fred;HR;S&D;MALE;PECH,CULT,DARP,FEMM,D-ME;Pozega;2;6;1962;;;;;
+197443;andreas glück;Glück;Andreas;DE;Renew;MALE;ENVI,SANT,D-ZA,ITRE,D-CA;Münsingen (Württemberg);8;3;1975;;;University of Tübingen;university;doctor,politician
+197444;svenja hahn;Hahn;Svenja;DE;Renew;FEMALE;IMCO,DASE,INTA,DANZ;Hamburg;25;7;1989;;;University of Giessen,Humboldt University of Berlin;university;politician,media,manager
+197445;moritz körner;Körner;Moritz;DE;Renew;MALE;BUDG,LIBE,D-CN,D-IN;Wiesbaden;3;8;1990;;;;university;politician
+197446;milan brglez;Brglez;Milan;SI;S&D;MALE;EMPL,D-RU,ENVI,SANT,D-CN;Ljubljana;1;9;1967;;;University of Ljubljana;phd;manager,researcher,lawyer,official,politician
+197447;irena joveva;Joveva;Irena;SI;Renew;FEMALE;SANT,D-MK,CULT,EMPL,ENVI,DPAL,DCAS,DACP,DAFR;Kranj;26;2;1989;;;University of Ljubljana;university;politician,media
+197448;rasmus andresen;Andresen;Rasmus;DE;Verts/ALE;MALE;BUDG,ECON,FISC,D-CA,ITRE,D-US;Essen;20;2;1986;;;FernUniversität in Hagen;;politician
+197449;michael bloss;Bloss;Michael;DE;Verts/ALE;MALE;ENVI,ITRE;Stuttgart;6;11;1986;;;;;politician
+197451;viola von cramon-taubadel;von Cramon-Taubadel;Viola;DE;Verts/ALE;FEMALE;D-UA,AFET,D-RS,D-RU,DEPA,CONT,ITRE,CULT,D-JP,D-CN;Halle/Westfalen;23;3;1970;;;FernUniversität in Hagen;university;politician
+197452;klemen grošelj;Grošelj;Klemen;SI;Renew;MALE;AFET,D-RS,ITRE,SEDE,D-ME,DNAT;Kranj;8;3;1976;;;University of Ljubljana;;researcher,politician
+197453;anna deparnay-grunenberg;Deparnay-Grunenberg;Anna;DE;Verts/ALE;FEMALE;DEEA,TRAN,DMER,ENVI,REGI,AGRI,DLAT;Berlin;5;6;1976;;;;university;politician
+197455;cindy franssen;Franssen;Cindy;BE;PPE;FEMALE;D-IN,EMPL,SANT,ENVI,FEMM,D-CA;Oudenaarde;30;1;1976;;;Ghent University;university;politician
+197457;henrike hahn;Hahn;Henrike;DE;Verts/ALE;FEMALE;ITRE,D-US,D-CN,BUDG,ECON;Munchen;4;9;1970;;;Wayne State University,Ludwig Maximilian University of Munich,University of Paris,University of Michigan;;politician
+197458;benoît lutgen;Lutgen;Benoît;BE;PPE;MALE;TRAN,D-US,AGRI,DMAS,DMED;Bastogne;10;3;1970;;Guy Lutgen;;;politician
+197459;pierrette herzberger-fofana;Herzberger-Fofana;Pierrette;DE;Verts/ALE;FEMALE;DEVE,DPAP,DACP,DAFR,DCAR,AFET,FEMM;Bamako;20;3;1949;;;Trier University,University of Erlangen–Nuremberg;;politician
+197460;sergey lagodinsky;Lagodinsky;Sergey;DE;Verts/ALE;MALE;D-TR,JURI,DEPA,AFET,LIBE,DSCA,D-US;Astrakhan;1;12;1975;;;John F. Kennedy School of Government;phd;politician,lawyer
+197461;katrin langensiepen;Langensiepen;Katrin;DE;Verts/ALE;FEMALE;EMPL,DMAS,AFET,IMCO;Langenhagen;10;10;1979;True;;;;politician
+197462;erik marquardt;Marquardt;Erik;DE;Verts/ALE;MALE;DEVE,DMAS,LIBE,D-AF,AFET,DMED,DACP,DAFR;Neubrandenburg;20;10;1987;;;;;politician,photographer
+197463;olivier chastel;Chastel;Olivier;BE;Renew;MALE;BUDG,CONT,DMAG,ECON,LIBE,FISC,DMED;Liège;22;11;1964;;;Free University of Brussels;university;doctor,politician,manager
+197464;hannah neumann;Neumann;Hannah;DE;Verts/ALE;FEMALE;DARP,DROI,SEDE,D-IR,AFET,D-IQ;Speyer;3;4;1984;;;Free University Berlin;phd;politician,consultant,teacher,manager
+197465;niklas nienass;Nienaß;Niklas;DE;Verts/ALE;MALE;ITRE,REGI,CULT,DCAS,AFCO,D-AF;Marl;14;4;1992;;;;;
+197466;jutta paulus;Paulus;Jutta;DE;Verts/ALE;FEMALE;ENVI,D-JP,ITRE,TRAN,D-AL,D-CA;Giessen;9;5;1967;;;University of Marburg,Herderschule Gießen;;politician
+197467;geert bourgeois;Bourgeois;Geert;BE;ECR;MALE;INTA,D-UK,D-IN,IMCO;Roeselare;6;7;1951;;;Ghent University;;politician,lawyer
+197468;özlem demirel;Demirel;Özlem;DE;The Left;FEMALE;SEDE,D-TR,EMPL,AFET;Malatya;10;3;1984;;;University of Bonn;;politician
+197469;assita kanko;Kanko;Assita;BE;ECR;FEMALE;LIBE,DROI,D-US,AFET,SEDE;Godyr;14;7;1980;;;Solvay Brussels School of Economics and Management,University Joseph Ki-Zerbo;;politician
+197470;saskia bricmont;Bricmont;Saskia;BE;Verts/ALE;FEMALE;INTA,LIBE,DMAG,D-CA,DMED;Tournai;16;3;1985;;;Institut d'études européennes,Free University of Brussels,Université Libre de Bruxelles;;politician
+197472;filip de man;De Man;Filip;BE;ID;MALE;DROI,D-RU,AFET,SEDE;Roeselare;11;11;1955;;Jos De Man;;;politician,media
+197473;christian doleschal;Doleschal;Christian;DE;PPE;MALE;ENVI,REGI,DCAS,IMCO,LIBE,AFCO,D-BR,DMER,DLAT;Kemnath;27;4;1988;;;;;politician,lawyer
+197475;christine anderson;Anderson;Christine;DE;ID;FEMALE;;Eschwege;29;7;1968;;;;;politician
+197478;lars patrick berg;Berg;Lars Patrick;DE;ECR;MALE;IMCO,D-IN,AFET,D-AF;Frankfurt/Main;22;1;1966;;;;university;politician
+197480;nicolaus fest;Fest;Nicolaus;DE;ID;MALE;;Berlin;1;7;1962;;Joachim Fest;;phd;media,politician,lawyer
+197481;maximilian krah;Krah;Maximilian;DE;ID;MALE;;Dresden;28;1;1977;;;TU Dresden;phd;politician,lawyer,manager
+197482;joachim kuhs;Kuhs;Joachim;DE;ID;MALE;;Schonach;25;6;1956;;;;;politician,lawyer
+197483;sylvia limmer;Limmer;Sylvia;DE;ID;FEMALE;;Bayreuth;8;2;1966;;;;;doctor,politician
+197488;guido reil;Reil;Guido;DE;ID;MALE;;GELSENKIRCHEN;19;1;1970;;;;;politician,trade unionist
+197489;bernhard zimniok;Zimniok;Bernhard;DE;ID;MALE;;Schnaittenbach;21;6;1953;;;;;military personnel,politician,businessperson
+197490;magdalena adamowicz;Adamowicz;Magdalena;PL;PPE;FEMALE;D-ZA,TRAN,LIBE,JURI,DACP,DAFR;Słupsk;10;4;1973;;;Faculty of Law and Administration, University of Gdańsk;phd;teacher,politician
+197491;marina kaljurand;Kaljurand;Marina;EE;S&D;FEMALE;DSCA,LIBE,DEPA,ITRE,FEMM,D-US;Tallinn;6;9;1962;;;University of Tartu,The Fletcher School of Law and Diplomacy,Tufts University;university;athlete,media,manager,teacher,lawyer,official,politician
+197493;jaak madison;Madison;Jaak;EE;ID;MALE;AFET,AFCO,D-US,DCAM,DLAT,LIBE,DROI,SEDE,DACP,DAFR;Paide;22;4;1991;;;Q16410081,University of Tartu,Noarootsi Secondary School,Tallinn Old Town Adult Gymnasium,Tallinn School of Service,Tallinn School of Economics;university;politician,manager
+197494;nathalie loiseau;Loiseau;Nathalie;FR;Renew;FEMALE;SEDE,D-UK,DNAT,AFET,DMAG,LIBE,D-CN;Neuilly-sur-Seine;1;6;1964;;;Sciences Po,Institut national des langues et civilisations orientales,Lycée Carnot;;politician,official,manager
+197495;marek paweł balt;Balt;Marek Paweł;PL;S&D;MALE;ENVI,DASE,ITRE;Czestochowa;8;4;1973;;;;;
+197496;marek belka;Belka;Marek;PL;S&D;MALE;ECON,FISC,D-US,INTA,DCAM;Łódź;9;1;1952;;;Columbia University,IV Liceum Ogólnokształcące in Łódź,London School of Economics and Political Science,University of Łódź;phd;banker,researcher,politician
+197497;sven mikser;Mikser;Sven;EE;S&D;MALE;DNAT,AFET,SEDE,DEPA,IMCO,PETI,D-UK,D-UA;Tartu;8;11;1973;;;University of Tartu;;politician
+197498;robert biedroń;Biedroń;Robert;PL;S&D;MALE;FEMM,AFET,BUDG,EMPL,D-BY,D-CA;Rymanów;13;4;1976;;;University of Warmia and Mazury in Olsztyn;;activist,politician,media
+197500;mounir satouri;Satouri;Mounir;FR;Verts/ALE;MALE;AFET,EMPL,SEDE,DMED,DNAT,DROI,DMAG;Casablanca;25;5;1975;;;;;politician,official
+197501;joachim stanisław brudziński;Brudziński;Joachim Stanisław;PL;ECR;MALE;CONT,LIBE,D-TR,D-BR,DMER,DLAT;Świerklaniec;4;2;1968;;;;;
+197502;marie-pierre vedrenne;Vedrenne;Marie-Pierre;FR;Renew;FEMALE;INTA,DACP,DCAB,EMPL,PETI,DCAR;Limoges;13;12;1982;;;University of Rennes 1,University of Limoges;;politician,lawyer
+197503;david cormand;Cormand;David;FR;Verts/ALE;MALE;BUDG,IMCO,DKOR,CULT,PETI,DACP,DAFR;Mont-Saint-Aignan;30;11;1974;;;University of Rouen;university;politician
+197504;jérémy decerle;Decerle;Jérémy;FR;Renew;MALE;AGRI,D-BR,INTA,DPAP;Saint-Remy;1;7;1984;;Daniel Decerle;;secondary;trade unionist,politician,farmer
+197505;catherine chabaud;Chabaud;Catherine;FR;Renew;FEMALE;DEVE,DPAL,DMED,ENVI,PECH,DACP,DAFR;Bron;29;11;1962;;;Institut Pratique du Journalisme;;seafarer,politician,media
+197506;caroline roose;Roose;Caroline;FR;Verts/ALE;FEMALE;REGI,PECH,DACP,DCAB,DEVE,D-UK;Oostende;10;11;1968;;;;;politician
+197507;włodzimierz cimoszewicz;Cimoszewicz;Włodzimierz;PL;S&D;MALE;AFET,AFCO,DCAS,D-US;Warszawa;13;9;1950;;;Columbia University,Q20033130,Faculty of Law and Administration, University of Warsaw;phd;teacher,farmer,lawyer,official,politician
+197510;jarosław duda;Duda;Jarosław;PL;PPE;MALE;EMPL,D-UA,DEPA,PETI,D-ME;Wroclaw;29;4;1964;;;John Paul II Catholic University of Lublin;;politician
+197511;salima yenbou;Yenbou;Salima;FR;Renew;FEMALE;AFET,DROI,DMED,CULT,DPAL;Aubervilliers;14;3;1971;;;;;politician
+197512;benoît biteau;Biteau;Benoît;FR;Verts/ALE;MALE;AGRI,DACP,DAFR,DEVE,PECH;Royan;7;4;1967;;;;;researcher,politician,farmer
+197513;tomasz frankowski;Frankowski;Tomasz;PL;PPE;MALE;CULT,D-BY,DEPA,TRAN;Białystok;16;8;1974;;;;university;athlete,politician
+197514;andrzej halicki;Halicki;Andrzej;PL;PPE;MALE;LIBE,DEPA,BUDG,D-MD,AFET,DLAT,DACP,DPAC;Warszawa;26;11;1961;;;SGH Warsaw School of Economics;;politician
+197515;pernille weiss;Weiss;Pernille;DK;PPE;FEMALE;D-CN,ENVI,ITRE,DACP,DAFR,FEMM,SANT,DMAG,DMED;Middelfart;12;3;1968;;;University of Southern Denmark,Copenhagen Business School;;doctor,politician,businessperson
+197516;patryk jaki;Jaki;Patryk;PL;ECR;MALE;DEPA,LIBE,D-MD,ECON,FISC,D-JP;Opole;11;5;1985;;;Faculty of Social Sciences of University of Wrocław;phd;politician,researcher,teacher,manager
+197517;adam jarubas;Jarubas;Adam;PL;PPE;MALE;SANT,ENVI,D-JP,ITRE,DSCA,DEPA;Busko-Zdroj;17;12;1974;;;Q9296668,Jan Kochanowski University;;politician
+197518;krzysztof jurgiel;Jurgiel;Krzysztof;PL;ECR;MALE;AGRI,D-TR,REGI,D-IQ;Ogrodniki;18;11;1953;;;Warsaw University of Technology;;surveyor,politician
+197519;beata kempa;Kempa;Beata;PL;ECR;FEMALE;DEVE,DACP,DAFR,LIBE,DMAS,DMED;Syców;11;2;1966;;;University of Wrocław;;politician
+197520;izabela-helena kloc;Kloc;Izabela-Helena;PL;ECR;FEMALE;ITRE,DACP,DAFR,REGI,DASE;Mikołów;8;5;1963;;;;;
+197522;radka maxová;Maxová;Radka;CZ;S&D;FEMALE;FEMM,SANT,D-MD,ENVI,D-CL,DEPA;Pardubice;2;12;1968;;;University of Chemistry and Technology;;politician
+197523;łukasz kohut;Kohut;Łukasz;PL;S&D;MALE;ITRE,LIBE,D-RS,DEEA,CULT,DASE;Katowice;10;9;1982;;;University of Silesia in Katowice;;politician,photographer
+197525;ewa kopacz;Kopacz;Ewa;PL;PPE;FEMALE;ENVI,DCAM,DLAT,DEVE,FEMM,D-CN;Skaryszew;3;12;1956;;;Medical University of Lublin,Q9295992;;pediatrician,doctor,politician
+197526;martin hlaváček;Hlaváček;Martin;CZ;Renew;MALE;FISC,AGRI,D-TR,ECON,PECH,D-US;Prague;14;1;1980;;;Czech University of Life Sciences Prague;;researcher,politician,manager
+197527;anne-sophie pelletier;Pelletier;Anne-Sophie;FR;The Left;FEMALE;IMCO,D-JP,DASE,TRAN,LIBE,PETI,DANZ;Besançon;5;2;1976;;;;;politician,q2827803
+197528;ondřej knotek;Knotek;Ondřej;CZ;Renew;MALE;REGI,D-ME,ENVI,SANT,D-AL;Sušice;31;8;1984;;;University of Chemistry and Technology;;politician,manager
+197529;leila chaibi;Chaibi;Leila;FR;The Left;FEMALE;EMPL,AFCO,DLAT,TRAN,D-MX;Dijon;5;10;1982;;;;;politician,manager
+197530;joanna kopcińska;Kopcińska;Joanna;PL;ECR;FEMALE;SANT,ENVI,D-JP,EMPL,DAND,DLAT;Lodz;2;1;1967;;;Medical Academy of Łódź;;doctor,politician
+197531;gwendoline delbos-corfield;Delbos-Corfield;Gwendoline;FR;Verts/ALE;FEMALE;AFCO,FEMM,D-UK,LIBE,D-MK,D-TR,D-RS,DEEA;Solihull;8;3;1977;;;Grenoble Institute of Political Studies;;politician
+197532;elżbieta kruk;Kruk;Elżbieta;PL;ECR;FEMALE;REGI,CULT,DACP,DAFR,ITRE,DASE;Lublin;19;11;1959;;;Faculty of Law and Administration, University of Warsaw,John Paul II Catholic University of Lublin,University of Wisconsin–La Crosse;;politician
+197533;manon aubry;Aubry;Manon;FR;The Left;FEMALE;ECON,JURI,FISC,DCAR,DEVE;Frejus;22;12;1989;;;Columbia University,Sciences Po,University of Sydney;university;politician,athlete,teacher,activist
+197534;françois-xavier bellamy;Bellamy;François-Xavier;FR;PPE;MALE;ITRE,PECH,D-UK,DMAS,DMED,CULT,D-IQ;Paris;11;10;1985;;;Lycée Henri-IV,École Normale Supérieure,Paris-Sorbonne University - Paris IV;;politician,essayist
+197536;nathalie colin-oesterlé;Colin-Oesterlé;Nathalie;FR;PPE;FEMALE;ENVI,SANT,D-IL,DMED,LIBE,AFCO;Ollioules;5;5;1965;;;Panthéon-Assas University;;politician,lawyer
+197537;alexandr vondra;Vondra;Alexandr;CZ;ECR;MALE;ENVI,SEDE,D-US,DMED,LIBE,D-IL;Praha;17;8;1961;;;Faculty of Science, Charles University;;media,researcher,official,politician
+197538;beata mazurek;Mazurek;Beata;PL;ECR;FEMALE;DLAT,IMCO,D-BR,DMER,TRAN,DACP,DCAB;Ostrów Mazowiecka;19;10;1967;;;John Paul II Catholic University of Lublin;;politician
+197539;mikuláš peksa;Peksa;Mikuláš;CZ;Verts/ALE;MALE;ITRE,D-UA,CONT,ECON,FISC;Praha;18;6;1986;;;Gymnázium Christiana Dopplera,Faculty of Mathematics and Physics, Charles University;;researcher,politician
+197540;leszek miller;Miller;Leszek;PL;S&D;MALE;IMCO,D-UA,EMPL,D-BY;Żyrardów;3;7;1946;;Monika Miller;Wyższa Szkoła Nauk Społecznych;;researcher,worker,politician
+197541;andżelika anna możdżanowska;Możdżanowska;Andżelika Anna;PL;ECR;FEMALE;REGI,FEMM,FISC,DKOR,ECON,D-US;Kępno;20;3;1975;;;;;
+197542;janina ochojska;Ochojska;Janina;PL;PPE;FEMALE;DEVE,DROI,D-BY,DEPA,DACP,DAFR,LIBE,DMAG,DMED;Gdánsk;12;3;1955;True;;Nicolaus Copernicus University in Toruń;university;astronomer,politician,activist
+197543;bernard guetta;Guetta;Bernard;FR;Renew;MALE;DROI,AFET,D-RU,DMAS,DMED;Boulogne-Billancourt;28;1;1951;;David Guetta;Centre de formation des journalistes;;politician,media,writer
+197544;elżbieta rafalska;Rafalska;Elżbieta;PL;ECR;FEMALE;EMPL,D-BR,DMER,DLAT,CONT,PECH,D-MD,DEPA;Wschowa;22;6;1955;;;University of Szczecin;;politician
+197545;bogdan rzońca;Rzońca;Bogdan;PL;ECR;MALE;BUDG,DSEE,ECON,D-MK;Zarzecze;1;2;1961;;;Pedagogical University of Kraków;;politician
+197546;marcel kolaja;Kolaja;Marcel;CZ;Verts/ALE;MALE;IMCO,D-US,CULT,D-IN;Moravská Třebová;29;6;1980;;;Masaryk University;;politician,engineer
+197547;irène tolleret;Tolleret;Irène;FR;Renew;FEMALE;REGI,D-JP,AGRI,FEMM,DMED;Béziers;17;8;1967;;;ESSEC Business School;;politician,farmer
+197549;markéta gregorová;Gregorová;Markéta;CZ;Verts/ALE;FEMALE;DEPA,INTA,SEDE,DSCA,AFET,AFCO;Most;14;1;1993;;;Masaryk University;university;politician
+197550;sylwia spurek;Spurek;Sylwia;PL;Verts/ALE;FEMALE;FEMM,LIBE;Skarzysko Kamienna;29;1;1976;;;University of Łódź – Faculty of Law and Administration;phd;politician,lawyer
+197551;stéphane bijoux;Bijoux;Stéphane;FR;Renew;MALE;DCAR,DEVE,REGI,DACP,DPAC;Saint-Denis (Reunion);8;10;1970;;;Bordeaux Montaigne University;;politician,media
+197552;veronika vrecionová;Vrecionová;Veronika;CZ;ECR;FEMALE;AGRI,DAND,DLAT,EMPL,D-US;České Budějovice;8;9;1965;;;Prague University of Economics and Business;;politician
+197553;beata szydło;Szydło;Beata;PL;ECR;FEMALE;EMPL,ITRE,D-US,DSCA,DEPA;Oswiecim;15;4;1963;;;Krakow University of Economics,SGH Warsaw School of Economics,Jagiellonian University;;politician,ethnologist
+197556;ivan david;David;Ivan;CZ;ID;MALE;AGRI,D-CN,DCAS,ENVI,ITRE,D-RU;Prague;24;9;1952;;;Charles University;;doctor,politician
+197557;christophe grudler;Grudler;Christophe;FR;Renew;MALE;ITRE,DEEA,AFET,SEDE,D-TR,DCAS;BELFORT;9;4;1965;;;University of Strasbourg;;politician,media
+197558;asger christensen;Christensen;Asger;DK;Renew;MALE;PECH,AGRI,ENVI,D-IL;Denmark;8;1;1958;;;;;politician,farmer
+197559;grzegorz tobiszowski;Tobiszowski;Grzegorz;PL;ECR;MALE;ITRE,D-CN,BUDG,ENVI,D-IN;Ruda Slaska;1;11;1965;;;John Paul II Catholic University of Lublin;;politician
+197563;mauri pekkarinen;Pekkarinen;Mauri;FI;Renew;MALE;ITRE,D-JP,BUDG,REGI,DEEA,DCAS;Kinnula;6;10;1947;;;University of Jyväskylä;university;researcher,politician,manager
+197564;hynek blaško;Blaško;Hynek;CZ;NI;MALE;;Prague;15;7;1955;;;Führungsakademie der Bundeswehr;;military officer,politician,soldier
+197566;witold jan waszczykowski;Waszczykowski;Witold Jan;PL;ECR;MALE;D-UA,AFET,SEDE,DEPA,INTA;Piotrkow Trybunalski;5;5;1957;;;;;
+197567;karen melchior;Melchior;Karen;DK;Renew;FEMALE;JURI,FEMM,DSCA,DEPA,IMCO,DASE;Gentofte;15;10;1980;;;University of Copenhagen;;politician,official
+197571;nikolaj villumsen;Villumsen;Nikolaj;DK;The Left;MALE;EMPL,ENVI,D-UA,AFCO,D-TR,DPAL,DMAS,DMED;Aarhus;28;2;1983;;;University of Copenhagen,Risskov Gymnasium;;politician
+197572;anna zalewska;Zalewska;Anna;PL;ECR;FEMALE;ENVI,D-US,EMPL;Świebodzice;6;7;1965;;;University of Wrocław;;politician
+197573;kira marie peter-hansen;Peter-Hansen;Kira Marie;DK;Verts/ALE;FEMALE;FISC,ECON,EMPL,DEEA,D-IN,ITRE,FEMM,D-ZA;Frederiksberg C;23;2;1998;;;University of Copenhagen;;politician
+197574;damien carême;Carême;Damien;FR;Verts/ALE;MALE;LIBE,D-ZA,ECON,ITRE,FISC;Joeuf;16;11;1960;;;;;politician
+197576;sylvie brunet;Brunet;Sylvie;FR;Renew;FEMALE;EMPL,DPAL,DMED,FEMM,DCAM,DLAT;Versailles;12;3;1959;;;;phd;manager,consultant,researcher,official,lawyer,politician
+197577;gilles boyer;Boyer;Gilles;FR;Renew;MALE;CONT,ECON,FISC,DSEE,AFCO,DEEA;Paris;4;7;1971;;;Paris Nanterre University;;politician,writer
+197578;silvia sardone;Sardone;Silvia;IT;ID;FEMALE;ENVI,DACP,DCAB,LIBE,DROI,SANT,D-IN,DAFR;Milan;25;12;1982;;;Bocconi University;;politician
+197579;klára dobrev;Dobrev;Klára;HU;S&D;FEMALE;EMPL,D-UA,LIBE,D-RS,DEPA;Sofia;2;2;1972;;Piroska Apró,Antal Apró;ELTE Faculty of Law,Eötvös Loránd University,Corvinus University of Budapest,Eötvös József Gimnázium;;researcher,politician,lawyer
+197580;isabella tovaglieri;Tovaglieri;Isabella;IT;ID;FEMALE;ITRE,FEMM,D-ZA,IMCO,DMAS;Busto Arsizio;25;6;1987;;;University Carlo Cattaneo;university;politician,lawyer
+197581;stéphanie yon-courtin;Yon-Courtin;Stéphanie;FR;Renew;FEMALE;D-CA,ECON,IMCO,PECH,FISC,D-UK,D-US;Coutances;28;3;1974;;;University of Bristol;university;manager,consultant,researcher,lawyer,politician
+197582;gianna gancia;Gancia;Gianna;IT;ID;FEMALE;ENVI,DSCA,ECON,ITRE,PETI,FISC,D-US,DACP,DAFR;Bra;31;12;1972;;;;;politician,businessperson
+197584;sándor rónai;Rónai;Sándor;HU;S&D;MALE;CONT,ENVI,DNAT,D-TR;Budapest;22;11;1988;;;Eötvös Loránd University;;politician
+197585;pierre karleskind;Karleskind;Pierre;FR;Renew;MALE;PECH,JURI,DAND,DLAT,TRAN,D-MX,D-BR;Melun;19;10;1979;;;École polytechnique;;politician,engineer
+197586;stefania zambelli;Zambelli;Stefania;IT;PPE;FEMALE;ENVI,DCAS;Salò;6;4;1971;;;;;politician
+197587;attila ara-kovács;Ara-Kovács;Attila;HU;S&D;MALE;AGRI,SEDE,D-RU,AFET,DEEA;Oradea;14;1;1953;;;Babeș-Bolyai University;;politician,media
+197588;katalin cseh;Cseh;Katalin;HU;Renew;FEMALE;AFET,BUDG,DROI,D-US,CONT,REGI,D-MK;Montréal;29;6;1988;;;Eötvös Loránd University,Toldy Ferenc Gimnázium,Erasmus University Rotterdam,Semmelweis University;;researcher,doctor,politician
+197589;laurence farreng;Farreng;Laurence;FR;Renew;FEMALE;CULT,D-IN,REGI,DKOR,DEPA;Nimes;6;9;1966;;;;;consultant,politician,manager
+197590;giuliano pisapia;Pisapia;Giuliano;IT;S&D;MALE;AFCO,DPAL,AFET,LIBE,DROI,DASE,DMED;Milano;20;5;1949;;Gian Domenico Pisapia;University of Milan;university;media,manager,teacher,lawyer,writer,politician
+197591;irene tinagli;Tinagli;Irene;IT;S&D;FEMALE;ECON,FISC,D-US,D-CA;Empoli;16;4;1974;;;Carnegie Mellon University,Bocconi University;;researcher,politician
+197595;anna júlia donáth;Donáth;Anna Júlia;HU;Renew;FEMALE;LIBE,D-AL,EMPL,D-TR,D-RU;Magyarország;6;4;1987;;;;;
+197596;teuvo hakkarainen;Hakkarainen;Teuvo;FI;ECR;MALE;ENVI,DCAM,DLAT;Viitasaari;12;4;1960;;;;;politician
+197606;javier zarzalejos;Zarzalejos;Javier;ES;PPE;MALE;JURI,LIBE,D-CA,AFET,D-IN,DLAT;Bilbao;6;6;1960;;José Antonio Zarzalejos Altares;University of Deusto;university;media,manager,lawyer,official,politician
+197607;pietro fiocchi;Fiocchi;Pietro;IT;ECR;MALE;ENVI,SANT,D-US,ITRE,DACP,DAFR;Milano;22;5;1964;;;University of Missouri;;politician
+197608;gianantonio da re;Da Re;Gianantonio;IT;ID;MALE;CULT,D-RU,ENVI,DEPA;Cappella Maggiore;6;9;1953;;;;;politician
+197610;alessandra basso;Basso;Alessandra;IT;ID;FEMALE;DEVE,IMCO,D-CN,DACP,DAFR,JURI;Treviso;14;3;1967;;;University of Bologna;university;politician,lawyer
+197611;elena lizzi;Lizzi;Elena;IT;ID;FEMALE;EMPL,AGRI,DMAS,ITRE,REGI,DEEA;San Daniele del Friuli;30;10;1967;;;;;politician
+197615;jérôme rivière;Rivière;Jérôme;FR;NI;MALE;PETI,FEMM;SURESNES;8;7;1964;;;ISG Business School;;politician,lawyer
+197616;rosanna conte;Conte;Rosanna;IT;ID;FEMALE;PECH,DLAT,DEPA,ENVI,REGI,AGRI,D-RU,DAND;Portogruaro;17;4;1968;;;University of Bologna;;politician
+197618;elisabetta gualmini;Gualmini;Elisabetta;IT;S&D;FEMALE;EMPL,D-RU,BUDG,ECON,D-ZA;Modena;17;5;1968;;;University of Bologna,University of Florence;phd;researcher,politician,media,manager
+197619;sabrina pignedoli;Pignedoli;Sabrina;IT;NI;FEMALE;JURI,DCAM,DLAT,CONT,REGI;Castelnovo ne' Monti;24;10;1983;;;University of Modena and Reggio Emilia;phd;politician,media
+197621;juan ignacio zoido álvarez;Zoido Álvarez;Juan Ignacio;ES;PPE;MALE;INTA,AGRI,JURI,DPAL,DMAG,DCAM,DMED,DLAT,CONT,LIBE,DARP;Montellano - Sevilla;21;1;1957;;;;university;
+197623;thierry mariani;Mariani;Thierry;FR;ID;MALE;AFET,INTA,ITRE,DROI,DCAR,D-IN,DCAS,DEPA,DACP,DAFR,D-BY,DSCA,D-IR,DKOR,DMED;Orange;8;8;1958;;;Q3152348;;politician
+197624;ivars ijabs;Ijabs;Ivars;LV;Renew;MALE;ITRE,D-US,ECON,IMCO,DAND,DASE,DLAT;Riga;17;11;1972;;;University of Latvia;;researcher,politician,horn player
+197626;herve juvin;Juvin;Herve;FR;NI;MALE;BUDG;MALESTROIT;29;1;1956;;;;;
+197627;virginie joron;Joron;Virginie;FR;ID;FEMALE;IMCO,JURI,D-TR,D-AF,DEPA,FEMM,PETI,D-RU,D-US;Troyes;11;12;1973;;;University of Nice Sophia Antipolis;phd;politician,lawyer,cadre
+197628;jean-paul garraud;Garraud;Jean-Paul;FR;ID;MALE;LIBE,DEEA,D-UA,DEVE,JURI;Toulouse;27;2;1956;;;French National School for the Judiciary;phd;official,politician,lawyer,manager
+197629;maxette pirbakas;Pirbakas;Maxette;FR;NI;FEMALE;REGI,EMPL,D-IN;Pointe-à-Pitre;14;4;1975;;;;;politician,farmer
+197631;dacian cioloş;Cioloş;Dacian;RO;Renew;MALE;AGRI,DEPA,AFET,ENVI,D-MD,D-ZA;Zalău;27;7;1969;;;;university;consultant,manager
+197632;claudia gamon;Gamon;Claudia;AT;Renew;FEMALE;DEEA,ITRE,ENVI,D-MK;Feldkirch;23;12;1988;;;Gymnasium Bludenz,Vienna University of Economics and Business;university;politician
+197634;pedro marques;Marques;Pedro;PT;S&D;MALE;AFET,ECON,FISC,DMAG,D-IN,DMED;Alcochete;1;8;1976;;;;university;researcher,politician
+197635;maria-manuel leitão-marques;Leitão-Marques;Maria-Manuel;PT;S&D;FEMALE;IMCO,JURI,DLAT,DACP,DAFR,FEMM,D-MX;Moçambique;23;8;1952;;;;phd;researcher
+197636;ioan-rareş bogdan;Bogdan;Ioan-Rareş;RO;PPE;MALE;LIBE,D-US,AFET,ITRE,PETI,DLAT;Ocna Mures;17;9;1974;;;;;
+197637;vasile blaga;Blaga;Vasile;RO;PPE;MALE;ITRE,LIBE,DASE;Petrileni;26;7;1956;;;Politehnica University of Timișoara;university;politician,official,manager,engineer
+197638;margarida marques;Marques;Margarida;PT;S&D;FEMALE;BUDG,INTA,D-CN,DMED,ECON,DMAG;Bombarral;3;2;1954;;;University of Lisbon,NOVA University Lisbon;university;politician,teacher,official,manager
+197641;sara cerdas;Cerdas;Sara;PT;S&D;FEMALE;ENVI,SANT,D-ZA,DLAT,TRAN,DCAM;Funchal;23;3;1989;;;University of Lisbon,Umeå University,Stockholm University;phd;doctor,politician,manager
+197645;francisco guerreiro;Guerreiro;Francisco;PT;Verts/ALE;MALE;AGRI,PECH,D-JP,BUDG,IMCO,DKOR;Santiago do Cacém;12;9;1984;;;Escola Superior de Educação de Coimbra;;politician
+197646;mircea-gheorghe hava;Hava;Mircea-Gheorghe;RO;PPE;MALE;D-CA,REGI,BUDG,D-CL;Oradea;26;12;1956;;;;;
+197647;dan-ştefan motreanu;Motreanu;Dan-Ştefan;RO;PPE;MALE;REGI,D-CL,DLAT,ENVI,AGRI,D-JP;Orastie;11;9;1970;;;;university;media,manager,teacher,politician
+197648;alexander bernhuber;Bernhuber;Alexander;AT;PPE;MALE;ENVI,PETI,DSCA,DEPA,AGRI,D-MD;St. Pölten;18;5;1992;;;University of Natural Resources and Life Sciences, Vienna;university;politician,manager,farmer
+197649;gheorghe falcă;Falcă;Gheorghe;RO;PPE;MALE;TRAN,PETI,DACP,DAFR,EMPL,ITRE,D-RS,DSEE;Brad;22;1;1967;;;Politehnica University of Timișoara;;teacher,politician,manager,engineer
+197650;isabel santos;Santos;Isabel;PT;S&D;FEMALE;DMAS,AFET,LIBE,DROI,DLAT,DAND,DMED;Gondomar;12;2;1968;;;;;politician
+197651;carmen avram;Avram;Carmen;RO;S&D;FEMALE;DEPA,AGRI,DSCA,D-IL,EMPL,PECH;Viseu de Sus;8;5;1966;;;National School of Political and Administrative Studies,Gheorghe Asachi Technical University of Iași;;politician,media,engineer
+197652;angelika winzig;Winzig;Angelika;AT;PPE;FEMALE;BUDG,CONT,D-TR,INTA,ITRE,FEMM,D-CN;Attnang-Puchheim;9;5;1963;;;Vienna University of Economics and Business;phd;politician,manager
+197653;claudiu manda;Manda;Claudiu;RO;S&D;MALE;AFET,SEDE,DARP,INTA,BUDG,D-MX;Craiova;20;12;1975;;;;phd;politician,manager
+197654;ciarán cuffe;Cuffe;Ciarán;IE;Verts/ALE;MALE;ITRE,TRAN,D-AL,D-US,REGI,D-UK,D-CN;Dublin;3;4;1963;;;University College Dublin,University of Maine;university;politician,teacher
+197655;cristian terheş;Terheş;Cristian;RO;ECR;MALE;CONT,D-ZA,LIBE,PETI;Zalău;4;12;1978;;;;;politician,priest
+197657;tudor ciuhodaru;Ciuhodaru;Tudor;RO;NI;MALE;;Bacau;16;1;1969;;;;;doctor,politician
+197658;adrian-dragoş benea;Benea;Adrian-Dragoş;RO;S&D;MALE;REGI,D-MD,PETI,D-UA;Bacău;18;12;1975;;;;university;
+197662;vangelis meimarakis;Meimarakis;Vangelis;GR;PPE;MALE;AFET,SEDE,D-US,DANZ,DNAT;ATHINA;14;12;1953;;Ioannis Meimarakis;Panteion University,National and Kapodistrian University of Athens;;politician,lawyer
+197663;dragoş pîslaru;Pîslaru;Dragoş;RO;Renew;MALE;EMPL,FISC,D-JP,ECON,D-US;București;23;3;1976;;;;phd;researcher,teacher,manager
+197665;dragoş tudorache;Tudorache;Dragoş;RO;Renew;MALE;AFET,DSEE,D-US,LIBE,SEDE,D-CN;Bârlad;14;1;1975;;;;;
+197667;barbara thaler;Thaler;Barbara;AT;PPE;FEMALE;TRAN,D-IN,IMCO,DEEA;;16;2;1982;;;University of Innsbruck;;politician
+197668;vlad-marius botoş;Botoş;Vlad-Marius;RO;Renew;MALE;REGI,D-AL,IMCO,CULT,D-ME;Arad;15;6;1986;;;;;
+197670;andreas schieder;Schieder;Andreas;AT;S&D;MALE;D-MK,AFET,D-UK,DSEE,TRAN,D-US;Vienna;16;4;1969;;Peter Schieder;University of Vienna;university;politician
+197671;traian băsescu;Băsescu;Traian;RO;PPE;MALE;D-UA,AFET,ENVI,SEDE,D-US,DEPA;Basarabi;4;11;1951;;;Mircea cel Bătrân Naval Academy;university;sailor,ship captain,politician
+197672;eugen tomac;Tomac;Eugen;RO;PPE;MALE;EMPL,DROI,D-RS,DSCA,DEPA;Ismail;27;6;1981;;;University of Bucharest;phd;media,manager,researcher,official,politician
+197675;sarah wiener;Wiener;Sarah;AT;Verts/ALE;FEMALE;AGRI,DSCA,ENVI,IMCO;Halle;27;8;1962;;Oswald Wiener,Lore Heuermann;;secondary;cook,athlete,entrepreneur,actor,non-fiction writer,politician
+197677;günther sidl;Sidl;Günther;AT;S&D;MALE;ENVI,DCAS,ITRE,SANT,D-RU,DMED;St. Pölten;19;3;1975;;;University of Vienna;;politician
+197679;isabel benjumea benjumea;Benjumea Benjumea;Isabel;ES;PPE;FEMALE;REGI,ECON,DEPA,CULT,PETI,FISC,D-JP,DLAT;Madrid;5;9;1982;;;;university;consultant,teacher,manager
+197680;aurélia beigneux;Beigneux;Aurélia;FR;ID;FEMALE;ENVI,SANT,DEPA,DSCA,D-IN;Indre-et-Loire;2;6;1980;;;;;q63755179,politician
+197682;hannes heide;Heide;Hannes;AT;S&D;MALE;CULT,DACP,DCAB,CONT,REGI,DPAP;Bad Ischl;17;10;1966;;;;secondary;politician,media,manager
+197683;gilbert collard;Collard;Gilbert;FR;NI;MALE;TRAN,ENVI;Marseille;3;2;1948;;;Panthéon-Assas University,Aix-Marseille University;;politician,lawyer,writer
+197687;philippe olivier;Olivier;Philippe;FR;ID;MALE;TRAN,DPAP,DACP,DAFR,LIBE;Juvisy sur Orge;30;8;1961;;Pierrette Lalanne,Marine Le Pen,Yann Le Pen,Docteur Merlin,Marion Maréchal,Jean-Marie Le Pen;Paris 12 University;;politician,lawyer
+197690;andré rougé;Rougé;André;FR;ID;MALE;REGI,D-BR,DMER;Paris;23;12;1961;;;;;politician
+197691;mathilde androuët;Androuët;Mathilde;FR;ID;FEMALE;ENVI,DASE;Rueil Malmaison;3;7;1984;;;Sciences Po Aix-en-Provence;;politician
+197692;stelios kympouropoulos;Kympouropoulos;Stelios;GR;PPE;MALE;EMPL,PETI,SANT,DMAS,DMED,ENVI,REGI,DROI,D-IN;Athens;9;7;1985;True;;National and Kapodistrian University of Athens;;doctor,politician
+197694;raphaël glucksmann;Glucksmann;Raphaël;FR;S&D;MALE;DROI,AFET,INTA,SEDE,D-MD,DMED,DEPA;Boulogne-Billancourt;15;10;1979;;André Glucksmann,Françoise Villette;Sciences Po,Lycée Lamartine,Lycée Henri-IV;;media,documentalist,researcher,non-fiction writer,politician
+197695;anna-michelle asimakopoulou;Asimakopoulou;Anna-Michelle;GR;PPE;FEMALE;INTA,ECON,D-IL,AFET,BUDG,IMCO,DMED;New York;27;3;1967;;;Cornell University,Complutense University of Madrid,London School of Economics and Political Science,Bryn Mawr College;university;manager,researcher,consultant,lawyer,politician
+197697;aurore lalucq;Lalucq;Aurore;FR;S&D;FEMALE;ECON,FISC,D-US,EMPL;Longjumeau;17;4;1979;;;Paris Dauphine University,University of Paris 1 Pantheon-Sorbonne;;researcher,politician
+197698;pierre larrouturou;Larrouturou;Pierre;FR;S&D;MALE;BUDG,D-IL,DPAL,EMPL;Périgueux;19;10;1964;;;Sciences Po,Institut National Agronomique Paris-Grignon;;consultant,politician
+197699;elena kountoura;Kountoura;Elena;GR;The Left;FEMALE;TRAN,DKOR,DMED,ITRE,FEMM,DMAS,D-US;Athens;2;11;1962;;Alexandros Kountouras;National and Kapodistrian University of Athens;university;model,athlete,politician,manager
+197701;konstantinos arvanitis;Arvanitis;Konstantinos;GR;The Left;MALE;LIBE,D-RU,EMPL,D-TR,D-IQ;Athens;9;6;1964;;;;;
+197702;lina gálvez muñoz;Gálvez Muñoz;Lina;ES;S&D;FEMALE;ITRE,FEMM,D-US,EMPL,DASE;Sevilla;13;9;1969;;;Lumière University Lyon 2,University of Seville,European University Institute;phd;teacher,columnist,researcher,writer,politician
+197709;robert roos;Roos;Robert;NL;ECR;MALE;ITRE,D-RU,ENVI;Rotterdam;2;8;1966;;;;;
+197711;dolors montserrat;Montserrat;Dolors;ES;PPE;FEMALE;PETI,ENVI,SANT,DMER,D-CN,D-US,DLAT;Barcelona;18;9;1973;;;;phd;lawyer
+197717;ibán garcía del blanco;García Del Blanco;Ibán;ES;S&D;MALE;JURI,PETI,DAND,DLAT,CULT,D-CL;Leon;8;2;1977;;;;university;
+197718;nicolás gonzález casares;González Casares;Nicolás;ES;S&D;MALE;ITRE,SANT,DMED,ENVI,PECH,DMER,DLAT;A CORUNA;20;7;1972;;Nicolás González Aller;University of Santiago de Compostela;;doctor,politician
+197719;cristina maestre martín de almagro;Maestre Martín De Almagro;Cristina;ES;S&D;FEMALE;REGI,PETI,D-CN,INTA,AGRI;Ciudad Real;27;7;1975;;;;university;
+197720;frances fitzgerald;Fitzgerald;Frances;IE;PPE;FEMALE;ECON,FEMM,D-CN,DEVE,D-US;Croom;1;8;1950;;;University College Dublin,London School of Economics and Political Science;;politician
+197721;césar luena;Luena;César;ES;S&D;MALE;ENVI,DKOR,DPAL,TRAN,D-US,DLAT;Logrono;29;10;1980;;;;phd;researcher
+197722;nacho sánchez amor;Sánchez Amor;Nacho;ES;S&D;MALE;AFET,DROI,D-TR,DEPA,JURI,D-UK,DSCA,DLAT;Cáceres;15;5;1960;;;Complutense University of Madrid;university;manager,politician,lawyer,official
+197728;mónica silvana gonzález;González;Mónica Silvana;ES;S&D;FEMALE;DMER,DEVE,DLAT,REGI,DACP,DCAB;BUENOS AIRES;12;2;1976;;;National University of the Northeast;university;politician,media,manager
+197731;clare daly;Daly;Clare;IE;The Left;FEMALE;D-AF,LIBE,INTA,TRAN,SEDE,D-RU;Dublin;11;4;1968;;;Dublin City University;;politician,activist,war reporters
+197734;lefteris nikolaou-alavanos;Nikolaou-Alavanos;Lefteris;GR;NI;MALE;BUDG,ECON,D-MK,PETI,D-UK;Athens;7;2;1985;;;;;
+197737;ioannis lagos;Lagos;Ioannis;GR;NI;MALE;ECON,D-RU;Perama;7;9;1972;;;;;liberal profession,politician
+197738;lídia pereira;Pereira;Lídia;PT;PPE;FEMALE;ECON,FISC,D-CN,ENVI,D-US;Se Nova;26;7;1991;;;University of Coimbra,College of Europe;;designer,politician,artist
+197740;athanasios konstantinou;Konstantinou;Athanasios;GR;NI;MALE;ENVI,D-AL,AFET,SANT;Athènes;18;7;1959;;;;;military personnel,politician
+197742;isabel garcía muñoz;García Muñoz;Isabel;ES;S&D;FEMALE;CONT,TRAN,DMAS,D-JP,REGI,DEEA;Zaragoza;3;3;1977;;;University of Zaragoza;university;politician,manager,engineer
+197743;petros kokkalis;Kokkalis;Petros;GR;Verts/ALE;MALE;ENVI,FISC,D-IN,TRAN,D-CN;Athens;26;2;1970;;Sokratis Kokkalis;John F. Kennedy School of Government,Hampshire College;;politician,businessperson
+197754;sandra pereira;Pereira;Sandra;PT;The Left;FEMALE;DLAT,EMPL,FEMM,ITRE,AGRI,DMER;Alvoco da Serra;18;3;1977;;;University of Lisbon;;politician,linguist
+197756;vera tax;Tax;Vera;NL;S&D;FEMALE;TRAN,D-ZA,REGI,FEMM,DSAS;Venlo;8;2;1972;;;;;politician
+197763;milan uhrík;Uhrík;Milan;SK;NI;MALE;LIBE,D-TR,AFET,D-RU;Nové Zámky;21;12;1984;;;Slovak University of Technology in Bratislava;;politician
+197764;miroslav radačovský;Radačovský;Miroslav;SK;NI;MALE;IMCO,D-RU,DEPA,AFET,D-MD;Lutina;24;9;1953;;;Faculty of Law, Pavel Jozef Šafárik University in Košice;university;politician,teacher,lawyer
+197765;peter pollák;Pollák;Peter;SK;PPE;MALE;D-RU,CULT,REGI,LIBE,D-UA,D-IN,DEPA;Levoca;20;4;1973;;;University of Constantine the Philosopher;;researcher,politician
+197766;lucia ďuriš nicholsonová;Ďuriš Nicholsonová;Lucia;SK;Renew;FEMALE;EMPL,LIBE,DACP,DCAB,CULT;Bratislava;28;11;1976;;;Spojená škola (Bratislava, Metodova 2);;politician,media
+197767;eugen jurzyca;Jurzyca;Eugen;SK;ECR;MALE;IMCO,FISC,DCAS,ECON;Bratislava;8;2;1958;;;University of Economics in Bratislava,Walsh School of Foreign Service;university;researcher,consultant,politician,manager
+197769;michal wiezik;Wiezik;Michal;SK;Renew;MALE;ENVI,PETI,CONT;Martin;14;6;1979;;;Technical University in Zvolen;;researcher,politician
+197770;martin hojsík;Hojsík;Martin;SK;Renew;MALE;ENVI,FEMM,DASE,DEPA,BUDG,ITRE,LIBE,D-UA;Bratislava;27;1;1977;;;Comenius University;;politician
+197771;vladimír bilčík;Bilčík;Vladimír;SK;PPE;MALE;D-ME,LIBE,D-MK,AFET,AFCO,D-MD,DEPA;Bratislava;27;5;1975;;;University of Oxford;phd;politician,researcher,teacher,manager
+197772;tineke strik;Strik;Tineke;NL;Verts/ALE;FEMALE;AFET,LIBE,D-MK,D-BY,DACP,DAFR,DROI,D-TR,DMAG;Appeltern;28;9;1961;;;Radboud University Nijmegen;;social worker,politician
+197773;bert-jan ruissen;Ruissen;Bert-Jan;NL;ECR;MALE;D-IL,AGRI,PECH,DMED,AFET,D-IN;Reimerswaal;22;3;1972;;;Wageningen University & Research;;researcher,politician,media
+197776;rob rooken;Rooken;Rob;NL;ECR;MALE;D-CN,ITRE,CULT,LIBE;Groningen;5;10;1969;;;;;politician
+197777;leopoldo lópez gil;López Gil;Leopoldo;ES;PPE;MALE;D-CL,AFET,DROI,DLAT,LIBE,PETI,D-BR,DCAM,DMER,DACP,DPAC;Caracas;20;10;1944;;Lilian Tintori;Columbia University;;media,businessperson,activist,politician
+197778;tom berendsen;Berendsen;Tom;NL;PPE;MALE;ITRE,REGI,DPAP,TRAN,DCAR,DEEA;Breda;11;4;1983;;;Katholieke Universiteit Leuven,Tilburg University;;politician
+197779;josé ramón bauzá díaz;Bauzá Díaz;José Ramón;ES;Renew;MALE;TRAN,DARP,AFET,D-US;Madrid;16;11;1970;;;;university;
+197780;bart groothuis;Groothuis;Bart;NL;Renew;MALE;D-IR,ITRE,AFET,SEDE,DNAT;Reutum;1;1;1981;;;Radboud University Nijmegen;;politician
+197781;malik azmani;Azmani;Malik;NL;Renew;MALE;LIBE,DMAG,DMED,AFET;Heerenveen;20;1;1976;;;University of Groningen;university;politician,manager
+197782;mohammed chahim;Chahim;Mohammed;NL;S&D;MALE;ENVI,D-IN,ITRE,DARP;Fes;18;4;1985;;;;;politician
+197783;andris ameriks;Ameriks;Andris;LV;S&D;MALE;TRAN,DCAS,PETI,ITRE,D-RU;Riga;5;3;1961;;;University of Latvia,Riga Technical University;;researcher,politician
+197784;susana solís pérez;Solís Pérez;Susana;ES;Renew;FEMALE;DKOR,REGI,SANT,ENVI,ITRE,FEMM,D-US;Avilés;21;12;1971;;;University of Oviedo,IE Business School,Osnabrück University of Applied Sciences;;politician,engineer
+197785;eugenia rodríguez palop;Rodríguez Palop;Eugenia;ES;The Left;FEMALE;FEMM,AGRI,D-MX,D-CL,DLAT,EMPL;Llerena;9;3;1970;;;;;
+197786;susanna ceccardi;Ceccardi;Susanna;IT;ID;FEMALE;AFET,D-IL,DMED,LIBE,DROI,DARP,D-US;Pisa;19;3;1987;;;;;politician
+197787;antonio maria rinaldi;Rinaldi;Antonio Maria;IT;ID;MALE;ECON,EMPL,AFCO,FISC,DKOR,CONT,IMCO,D-US,DLAT;Roma;27;2;1955;;;Sapienza University of Rome;university;manager,teacher,researcher,official,politician
+197788;anna bonfrisco;Bonfrisco;Anna;IT;ID;FEMALE;AFET,D-IL,DSAS,DASE,DNAT,SEDE,D-US;Riva del Garda;12;10;1962;;;;;politician,businessperson
+197791;massimiliano smeriglio;Smeriglio;Massimiliano;IT;NI;MALE;;Roma;8;5;1966;;;Sapienza University of Rome;;politician
+197792;daniela rondinelli;Rondinelli;Daniela;IT;S&D;FEMALE;EMPL,AGRI,D-US,DLAT;Roma;19;8;1967;;;Libera Università Internazionale degli Studi Sociali Guido Carli;university;politician,teacher,lawyer
+197794;chiara gemma;Gemma;Chiara;IT;ECR;FEMALE;EMPL,D-MX,DLAT,CULT;Brindisi;20;9;1968;;;;;
+197795;mario furore;Furore;Mario;IT;NI;MALE;TRAN,D-CL,DACP,DPAC,PETI;FOGGIA;25;12;1988;;;Libera Università Internazionale degli Studi Sociali Guido Carli;;politician
+197796;massimo casanova;Casanova;Massimo;IT;ID;MALE;TRAN,PECH,D-MK,DLAT,DACP,DPAC;Bologna;31;8;1970;;;;;politician,businessperson
+197798;lucia vuolo;Vuolo;Lucia;IT;PPE;FEMALE;TRAN,PECH,DMED;Pagani;15;2;1963;;;;;politician
+197799;valentino grant;Grant;Valentino;IT;ID;MALE;BUDG,ECON,D-JP,DEVE,PECH,DACP,DPAC;Rome;21;4;1964;;;;;politician
+197800;eero heinäluoma;Heinäluoma;Eero;FI;S&D;MALE;BUDG,ECON,D-UK,D-RU,SEDE,D-TR;Kokkola;4;7;1955;;;;;politician
+197801;franco roberti;Roberti;Franco;IT;S&D;MALE;JURI,DMAS,DMED,LIBE,D-IR;Napoli;16;11;1947;;;University of Naples Federico II;;politician,lawyer,official
+197802;ville niinistö;Niinistö;Ville;FI;Verts/ALE;MALE;ENVI,ITRE,DASE,ECON,D-RU;Turku;30;7;1976;;Kari Niinistö,Sauli Niinistö;University of Turku;university;researcher,politician
+197804;dino giarrusso;Giarrusso;Dino;IT;NI;MALE;AGRI,D-BR,INTA,D-TR;Catania;11;9;1974;;;University of Siena;;screenwriter,television personality,actor,politician
+197805;silvia modig;Modig;Silvia;FI;The Left;FEMALE;BUDG,ENVI,DSAS,FEMM,DPAL,DMED;Helsingfors;8;7;1976;;;;;politician,media
+197806;annalisa tardino;Tardino;Annalisa;IT;ID;FEMALE;LIBE,D-CA,ENVI,TRAN,PECH,SANT,DLAT;Licata;30;4;1979;;;University of Palermo;phd;researcher,politician,lawyer,engineer
+197808;pietro bartolo;Bartolo;Pietro;IT;S&D;MALE;LIBE,BUDG,PECH,DMAS,DACP,DPAC,D-IQ;Lampedusa;10;2;1956;;;University of Catania;;doctor,politician
+197810;nils ušakovs;Ušakovs;Nils;LV;S&D;MALE;BUDG,D-US,DEPA,LIBE,DSCA;RIGA;8;6;1976;;;University of Latvia,University of Southern Denmark;university;politician
+197817;mick wallace;Wallace;Mick;IE;The Left;MALE;ENVI,SEDE,DARP,AFET,ECON,D-IR,D-AF;Wexford;9;11;1955;;;University College Dublin;;athlete,politician,activist
+197818;billy kelleher;Kelleher;Billy;IE;Renew;MALE;D-US,ECON,FISC,ENVI,SANT,DACP,DCAB;Cork;20;1;1968;;;Cork Institute of Technology;;politician,farmer
+197819;alexis georgoulis;Georgoulis;Alexis;GR;NI;MALE;PETI,ITRE;Larisa;6;10;1974;;;Iasmos Drama School,National Technical University of Athens;;film director,media,actor,politician
+197820;nicola procaccini;Procaccini;Nicola;IT;ECR;MALE;DSAS,ENVI,AGRI,DEEA;Roma;21;1;1976;;Maria Burani Procaccini;Sapienza University of Rome;university;politician,media,manager
+197822;francesca donato;Donato;Francesca;IT;NI;FEMALE;PETI,DKOR,ITRE;Ancona;25;8;1969;;;University of Modena and Reggio Emilia;;politician
+197824;giuseppe milazzo;Milazzo;Giuseppe;IT;ECR;MALE;REGI,DACP,DAFR,LIBE;Palermo;21;8;1977;;;Libera Università Maria SS. Assunta;;politician
+197825;raffaele stancanelli;Stancanelli;Raffaele;IT;ECR;MALE;JURI,D-CN,PECH,DASE;Regalbuto;30;6;1950;;;University of Catania;;politician
+197826;matteo adinolfi;Adinolfi;Matteo;IT;ID;MALE;CONT,ITRE,REGI,DARP,ENVI,DACP,DCAB;Latina;24;12;1963;;;Sapienza University of Rome;university;politician,teacher
+197827;idoia villanueva ruiz;Villanueva Ruiz;Idoia;ES;The Left;FEMALE;DACP,DAFR,AFET,D-CN,D-IN,ENVI,DCAM,DLAT;Pamplona;17;7;1980;;;Autonomous University of Madrid,University of the Basque Country;;politician
+197828;manu pineda;Pineda;Manu;ES;The Left;MALE;DPAL,AFET,DMAS,DLAT,DROI,SEDE,D-CL;Málaga;2;9;1965;;;;;politician,activist,trade unionist
+197829;jorge buxadé villalba;Buxadé Villalba;Jorge;ES;ECR;MALE;LIBE,DMAG,DMED,CONT,JURI,AFCO;BARCELONA;16;6;1975;;;Abat Oliba CEU University;university;teacher,politician,lawyer
+197831;hermann tertsch;Tertsch;Hermann;ES;ECR;MALE;DLAT,AFET,D-MX,ENVI,D-UK,D-RU;Madrid;9;4;1958;;Ekkehard Tertsch,Loyola de Palacio,Luisa Mariana del Valle-Lersundi y del Valle,Ana de Palacio y del Valle-Lersundi;;;comedian,media,writer,politician
+197832;diana riba i giner;Riba i Giner;Diana;ES;Verts/ALE;FEMALE;CULT,LIBE,FEMM,D-MX,DLAT;Barcelona;21;2;1975;;;University of Barcelona;;civil rights advocate,bookseller,researcher,politician
+197835;aušra seibutytė;Seibutytė;Aušra;LT;PPE;FEMALE;ECON,DSAS,BUDG,FEMM,FISC,D-IN;;4;6;1958;;;;;
+197836;alexander alexandrov yordanov;Alexandrov Yordanov;Alexander;BG;PPE;MALE;AFET,D-MK,EMPL,AFCO,D-MD,DEPA;Varna;13;2;1952;;;;;
+197837;stasys jakeliūnas;Jakeliūnas;Stasys;LT;Verts/ALE;MALE;ECON,D-US,DEEA,DCAS;Karaganda;2;10;1958;;;Vilnius University;;researcher,politician
+197838;juozas olekas;Olekas;Juozas;LT;S&D;MALE;D-BY,AGRI,DEPA,AFET,SEDE,DNAT,DACP,DPAC;Mazas Ungutas;30;10;1955;;;Vilnius University;;teacher,doctor,politician
+197839;radan kanev;Kanev;Radan;BG;PPE;MALE;EMPL,PETI,D-AL,ENVI,SANT,DSCA,DEPA;Sofia;30;9;1975;;;Sofia University,Alphonse-de-Lamartine High School;;politician,lawyer
+197840;rasa juknevičienė;Juknevičienė;Rasa;LT;PPE;FEMALE;SEDE,DSCA,DEVE,DEPA,AFET,LIBE;Panevėžys;26;1;1958;;;;;politician
+197841;liudas mažylis;Mažylis;Liudas;LT;PPE;MALE;ENVI,D-BY,DEPA,INTA,DEEA;Kaunas;19;5;1954;;;Vilnius University;;researcher,politician,media
+197842;elena yoncheva;Yoncheva;Elena;BG;NI;FEMALE;;Sofia;27;5;1964;;;Moscow State University;;politician,media
+197843;andrius kubilius;Kubilius;Andrius;LT;PPE;MALE;DEPA,AFET,ITRE,D-UA,D-RU,D-IL;Lietuva;8;12;1956;;Vytautas Kubilius,Janina Žėkaitė–Kubilienė;Vilnius University;;researcher,politician
+197844;petar vitanov;Vitanov;Petar;BG;S&D;MALE;ENVI,TRAN,DSCA,DEPA,LIBE,DSEE,D-RU;Sliven;18;4;1982;;;Sofia University;;politician
+197845;tsvetelina penkova;Penkova;Tsvetelina;BG;S&D;FEMALE;D-UK,ITRE,REGI,D-JP,CONT,IMCO,DASE;Sofia;19;2;1988;;;Central European University;university;politician
+197846;ivo hristov;Hristov;Ivo;BG;S&D;MALE;ITRE,DCAS,AGRI,PECH,D-UK,D-US;Istanbul;8;10;1970;;;Sofia University;;politician,media,translator
+197848;atidzhe alieva-veli;Alieva-Veli;Atidzhe;BG;Renew;FEMALE;DCAS,EMPL,AGRI,D-MK;Devin;18;9;1981;;;Sofia University,University of National and World Economy;university;researcher,politician,manager
+197849;andrey slabakov;Slabakov;Andrey;BG;ECR;MALE;CULT,D-AL,ENVI,PETI,D-TR;Sofia;13;8;1960;;;;;
+197863;maria walsh;Walsh;Maria;IE;PPE;FEMALE;EMPL,CULT,D-US,LIBE,DACP,DAFR;Boston;11;6;1987;;;Griffith College Dublin;;politician,businessperson
+197868;samira rafaela;Rafaela;Samira;NL;Renew;FEMALE;INTA,FEMM,D-CL,DLAT,EMPL,DROI,DCAR,DMER;ZOETERMEER;11;2;1989;;;Leiden University,Bonhoeffercollege;;politician
+197870;kim van sparrentak;Van Sparrentak;Kim;NL;Verts/ALE;FEMALE;IMCO,DANZ,EMPL;Vlissingen;16;10;1989;;;University of Amsterdam,Wageningen University & Research;;politician
+197889;grace o'sullivan;O'Sullivan;Grace;IE;Verts/ALE;FEMALE;ENVI,DPAL,PECH,DMER;Waterford;8;3;1962;;;Waterford Institute of Technology;;politician,activist
+197894;lászló trócsányi;Trócsányi;László;HU;NI;MALE;AFCO,DMAS,TRAN,D-TR;Budapest;6;3;1956;;;Eötvös Loránd University,University of Szeged;phd;media,manager,teacher,researcher,lawyer,official,politician
+197935;ivan vilibor sinčić;Sinčić;Ivan Vilibor;HR;NI;MALE;ENVI,D-IN,ITRE,AGRI,D-RU;KARLOVAC;28;8;1990;;;Faculty of Electrical Engineering and Computing, University of Zagreb;;politician,activist
+198063;márton gyöngyösi;Gyöngyösi;Márton;HU;NI;MALE;AFET,DACP,DAFR,INTA,DROI,D-US;Kecskemét;8;6;1977;;;Liceul Teoretic „Tamási Áron”,Trinity College Dublin;university;researcher,consultant,politician
+198096;mazaly aguilar;Aguilar;Mazaly;ES;ECR;FEMALE;AGRI,INTA,SEDE,D-US,DNAT;Cuenca;20;9;1949;;;Complutense University of Madrid,National University of Distance Education;;politician,communicator
+198176;roman haider;Haider;Roman;AT;ID;MALE;INTA,FISC,DSCA,D-ZA,DEPA,AFET,ECON,TRAN,D-UK,DEEA,D-US,DCAS;Grieskirchen;13;4;1967;;;Johannes Kepler University Linz;;politician
+198183;mihai tudose;Tudose;Mihai;RO;S&D;MALE;INTA,D-MD,ECON,ITRE,SEDE,FISC,D-MK;Braila;6;3;1967;;;Dimitrie Cantemir Christian University;phd;politician,lawyer,manager
+198329;estrella durá ferrandis;Durá Ferrandis;Estrella;ES;S&D;FEMALE;EMPL,DACP,DCAB,ENVI,DSAS;Puçol;22;9;1963;;;University of Valencia;;researcher,doctor,politician
+198490;emmanouil fragkos;Fragkos;Emmanouil;GR;ECR;MALE;DCAR,INTA,ENVI,PETI,AGRI,SANT,D-CN;Chios;27;6;1993;;;;;
+199941;marianne vind;Vind;Marianne;DK;S&D;FEMALE;DASE,EMPL,TRAN;Koge;3;12;1970;;;Roskilde University;university;trade unionist,politician,engineer
+199996;isabel carvalhais;Carvalhais;Isabel;PT;S&D;FEMALE;AGRI,PECH,D-US,REGI,D-CA,DLAT,DACP,DAFR;Negage;28;2;1973;;;University of Warwick;phd;politician,researcher,teacher
+202036;sunčana glavak;Glavak;Sunčana;HR;PPE;FEMALE;AFET,DSEE,ENVI,D-US;Čakovec;9;12;1968;;;University of Zagreb;phd;politician
+202073;marc angel;Angel;Marc;LU;S&D;MALE;EMPL,PETI,D-CL,DLAT,ECON,IMCO,D-CN;Luxembourg-Ville;12;3;1963;;;TU Wien,University of Vienna;university;politician,teacher,translator
+202112;gheorghe-vlad nistor;Nistor;Gheorghe-Vlad;RO;PPE;MALE;AFET,SEDE,D-MD,D-IN,DEPA,DROI,DSCA,D-US,DACP,DCAB;București;25;7;1954;;;;phd;manager,teacher,researcher,official,politician
+202351;carles puigdemont i casamajó;Puigdemont i Casamajó;Carles;ES;NI;MALE;INTA,D-ME,DPAP,LIBE;Amer;29;12;1962;;Xavier Puigdemont Oliveras,Núria Casamajó;;university;activist,politician,media,manager
+202352;antoni comín i oliveres;Comín i Oliveres;Antoni;ES;NI;MALE;DEVE,DANZ,ENVI,PETI,SANT,DAND,DACP,DAFR;Barcelona;7;3;1971;;;;;teacher
+204332;barry andrews;Andrews;Barry;IE;Renew;MALE;DEVE,INTA,D-UK,D-ZA,FEMM,D-TR;Dublin;16;5;1967;;David Andrews;University College Dublin;university;politician,teacher,lawyer
+204333;salvatore de meo;De Meo;Salvatore;IT;PPE;MALE;AFCO,AGRI,D-RS,D-IN,ITRE,IMCO,D-RU;Fondi;27;10;1971;;;Sapienza University of Rome;university;businessperson,politician,lawyer,manager
+204334;vincenzo sofo;Sofo;Vincenzo;IT;ECR;MALE;LIBE,D-AF,ENVI,DMED,DACP,DAFR;Milan;18;12;1986;;Yann Le Pen;Università Cattolica del Sacro Cuore;;politician
+204335;alviina alametsä;Alametsä;Alviina;FI;Verts/ALE;FEMALE;AFET,PETI,SEDE,D-US,D-IN,DPAP;;29;9;1992;;;University of Helsinki,Jokela High School;university;consultant,politician,manager
+204336;miriam lexmann;Lexmann;Miriam;SK;PPE;FEMALE;AFET,EMPL,D-BY,DEPA,SEDE;Bratislava;2;12;1972;;;Comenius University;;politician
+204346;dominik tarczyński;Tarczyński;Dominik;PL;ECR;MALE;AFET,INTA,DACP,DCAB,IMCO,D-US;Lublin;27;3;1979;;;John Paul II Catholic University of Lublin;;film director,politician
+204368;christian sagartz;Sagartz;Christian;AT;PPE;MALE;DROI,DEVE,AFET,D-AL,D-ME,DCAS,DACP,DAFR;;16;1;1981;;;;university;politician
+204400;adrián vázquez lázara;Vázquez Lázara;Adrián;ES;Renew;MALE;JURI,D-CN,AGRI,DSEE;Madrid;5;5;1982;;;University of Warwick,Complutense University of Madrid,Lindenwood University;;consultant,researcher,politician,manager
+204413;marcos ros sempere;Ros Sempere;Marcos;ES;S&D;MALE;REGI,CULT,D-CN,ENVI,ITRE,DCAM;Murcia;24;3;1974;;;Complutense University of Madrid,Technical University of Madrid;;politician
+204414;margarita de la pisa carrión;de la Pisa Carrión;Margarita;ES;ECR;FEMALE;EMPL,FEMM,DAND,DLAT,ENVI,ITRE;Madrid;19;9;1975;;;Complutense University of Madrid,International University of La Rioja;;doctor,politician
+204416;ilana cicurel;Cicurel;Ilana;FR;Renew;FEMALE;CONT,CULT,JURI,D-IL,EMPL,DMAG,DMED;Paris;8;2;1972;;Raymond Cicurel,Francine Cicurel;Sciences Po,Harvard Law School;phd;radio personality,media,manager,teacher,consultant,lawyer,politician
+204418;nora mebarek;Mebarek;Nora;FR;S&D;FEMALE;REGI,ITRE,TRAN,PECH,DCAR;Port-Saint-Louis-du-Rhône;22;7;1972;;;;;politician
+204419;sandro gozi;Gozi;Sandro;FR;Renew;MALE;IMCO,AFCO,DMAS,REGI,D-IN;Sogliano al Rubicone;25;3;1968;;;Sciences Po,University of Bologna,Free University of Brussels,Université Libre de Bruxelles;university;teacher,researcher,politician
+204420;claude gruffat;Gruffat;Claude;FR;Verts/ALE;MALE;ECON,DMER,DASE,IMCO,AGRI,FISC,DEEA;Rumilly;13;9;1957;;;;;researcher,politician,activist
+204421;jean-lin lacapelle;Lacapelle;Jean-Lin;FR;ID;MALE;AFET,IMCO,SEDE,D-RS,DACP,DCAB,INTA,D-RU,D-IR;Lyon;17;4;1967;;;;;politician,official
+204443;clara ponsatí obiols;Ponsatí Obiols;Clara;ES;NI;FEMALE;ITRE,FISC,D-CA,ECON,D-US,DACP;Barcelona;19;3;1957;;;;phd;doctor,researcher,manager
+204449;riho terras;Terras;Riho;EE;PPE;MALE;ITRE,D-UA,DEPA,AGRI,D-UK,D-US;Kohtla-Järve;17;4;1967;;;University of Tartu,Bundeswehr University Munich;;military personnel,politician
+204733;dorien rookmaker;Rookmaker;Dorien;NL;ECR;FEMALE;ECON,D-CA,TRAN,DACP,DPAC;Petten;30;7;1964;;;;;politician
+205452;chris macmanus;MacManus;Chris;IE;The Left;MALE;AGRI,D-UK,D-ZA,ECON,DPAL;London;13;3;1973;;Seán MacManus;Summerhill College;;politician
+206158;manuela ripa;Ripa;Manuela;DE;Verts/ALE;FEMALE;ITRE,INTA,ENVI,SANT,DCAR,DASE;Saarbrücken;1;1;1976;;;Saarland University,Gymnasium am Rotenbühl;university;manager,politician,lawyer,official
+208722;sara matthieu;Matthieu;Sara;BE;Verts/ALE;FEMALE;INTA,EMPL,DSAS,ENVI,D-UA,D-IN;Aalst;21;5;1981;;;;;
+209091;cyrus engerer;Engerer;Cyrus;MT;S&D;MALE;ENVI,DKOR,LIBE,AFCO,DMAS;Pietà;28;9;1981;;;College of Europe;university;politician,manager
+209140;vlad gheorghe;Gheorghe;Vlad;RO;Renew;MALE;BUDG,PETI,D-RS,TRAN,D-AL;București;22;2;1985;;;;university;politician,lawyer
+209896;colm markey;Markey;Colm;IE;PPE;MALE;AGRI,DEEA,TRAN,PECH,D-UK,DMER;Drogheda;3;1;1972;;;;;politician
+212855;alin mituța;Mituța;Alin;RO;Renew;MALE;CONT,REGI,D-MD,EMPL,ITRE,AGRI,AFCO,DEPA;Novaci;24;5;1984;;;Sciences Po;university;manager,politician,lawyer,official
+213330;ernő schaller-baross;Schaller-Baross;Ernő;HU;NI;MALE;INTA,D-IN,CONT,D-ZA;Budapest;30;1;1987;;;Károli Gáspár University of the Reformed Church in Hungary;university;manager,politician,lawyer,official
+214839;emma wiesner;Wiesner;Emma;SE;Renew;FEMALE;ENVI,PECH,DEEA,ITRE,AGRI,D-CN;Västerås;11;11;1992;;;Uppsala University;university;politician,manager
+218347;thijs reuten;Reuten;Thijs;NL;S&D;MALE;AFET,D-MK,D-UK,LIBE,D-TR,D-RS,DARP,DLAT;Bussum;1;1;1974;;Rosa Reuten,Geert Reuten;;;politician
+218349;michiel hoogeveen;Hoogeveen;Michiel;NL;ECR;MALE;ECON,D-US,INTA,FEMM,DKOR;Leiden;1;1;1989;;;Free University of Amsterdam;;politician
+221463;ladislav ilčić;Ilčić;Ladislav;HR;ECR;MALE;PECH,DSEE,ITRE,AGRI;Varaždin;4;8;1970;;;;;politician
+226260;karolin braunsberger-reinhold;Braunsberger-Reinhold;Karolin;DE;PPE;FEMALE;TRAN,LIBE,D-CN,DASE,REGI,PETI;Wolfen;3;11;1986;;;;university;politician,manager
+228286;karsten lucke;Lucke;Karsten;DE;S&D;MALE;DEVE,DSAS,DACP,DPAC,AFET,DROI,DCAR,DASE,DCAS;Kiel;29;12;1974;;;;university;teacher,politician,manager
+228604;ilan de basso;De Basso;Ilan;SE;S&D;MALE;EMPL,DPAP,DEVE,BUDG,D-TR,D-RU,DKOR;Turkey;1;10;1969;;;;;politician
+229519;catharina rinzema;Rinzema;Catharina;NL;Renew;FEMALE;INTA,D-UK,D-US,IMCO,JURI,D-JP;Soest;4;7;1985;;;Leiden University;;politician
+229839;rené repasi;Repasi;René;DE;S&D;MALE;D-CN,IMCO,ECON,JURI;Karlsruhe;8;11;1979;;;;phd;politician,researcher,teacher,manager
+230085;camilla laureti;Laureti;Camilla;IT;S&D;FEMALE;BUDG,AGRI,D-CA,REGI,D-MD,DEPA;Roma;20;5;1975;;;Sapienza University of Rome;university;politician,media
+232843;jan henrik ovelgönne;OVELGÖNNE;Jan Henrik;DE;Verts/ALE;MALE;AFET,ECON,IMCO;Volkach;30;6;1975;;;;university;politician,media,manager
+233862;matjaž nemec;Nemec;Matjaž;SI;S&D;MALE;DMAG,AFET,D-RS,LIBE,DACP,DAFR;Šempeter pri Gorici;10;4;1980;;Negovan Nemec,Nelida Nemec;;university;politician
+234344;max orville;Orville;Max;FR;Renew;MALE;DAFR,DACP,EMPL,AFCO,ENVI,DPAP;;19;6;1962;;Xavier Orville;;university;politician,teacher,lawyer
+236050;marie dauchy;Dauchy;Marie;FR;ID;FEMALE;ITRE,D-MX,AGRI,D-IL,DPAL;Calais;5;2;1987;;;;;politician,employee
+236051;eric minardi;Minardi;Eric;FR;ID;MALE;REGI,D-CA,BUDG;Toulon;18;3;1956;;;;;
+236052;patricia chagnon;Chagnon;Patricia;FR;ID;FEMALE;LIBE,DLAT,AFET,D-CL,DASE;Eindhoven;20;11;1963;;;;;politician,interpreter
+236053;marina mesure;Mesure;Marina;FR;The Left;FEMALE;ENVI,ITRE,DASE;Marseille;12;7;1989;;;;;politician
+237224;joão albuquerque;Albuquerque;João;PT;S&D;MALE;D-BR,EMPL,PECH,D-RU,ENVI,CULT,PETI,DMER,DLAT;Barreiro;25;12;1986;;;;;consultant,politician
+237320;eva maria poptcheva;Poptcheva;Eva Maria;ES;Renew;FEMALE;ECON,BUDG,DSAS;;17;10;1979;;;;;politician,lawyer,official
+237465;matthias ecke;Ecke;Matthias;DE;S&D;MALE;REGI,D-BY,ITRE,D-IL,DPAL,DEPA;Meerane;12;4;1983;;;Leipzig University,Charles University;university;politician
+237779;carina ohlsson;Ohlsson;Carina;SE;S&D;FEMALE;FEMM,DMED,AFET,EMPL,LIBE,D-US;Råda Lidköping;14;6;1957;;;;;politician
+238639;johan nissinen;Nissinen;Johan;SE;ECR;MALE;ITRE,FEMM,D-ME,ECON,SANT,D-CN;Värnamo parish;17;5;1989;;;;;politician
+238674;theresa bielowski;Bielowski;Theresa;AT;S&D;FEMALE;D-AL,LIBE,AGRI,DROI,DSEE,DMAS;Schwaz (In Tirol);15;6;1984;;;University of Innsbruck;;politician
+239255;matteo gazzini;Gazzini;Matteo;IT;PPE;MALE;DLAT,ENVI,TRAN,DPAL;Bolzano;9;7;1985;;;;;politician
+239256;paola ghidoni;Ghidoni;Paola;IT;ID;FEMALE;AGRI,D-ME,DANZ,EMPL;Montecchio Maggiore;8;7;1963;;;;;politician
+239257;achille variati;Variati;Achille;IT;S&D;MALE;ENVI,TRAN,D-AL,AGRI,DSEE,DLAT;Vicenza;19;1;1953;;;University of Padua;;politician
+239258;maria angela danzì;Danzì;Maria Angela;IT;NI;FEMALE;ENVI,SANT,BUDG,REGI,PETI;LIBRIZZI;5;7;1957;;;University of Messina;university;politician,manager
+239260;denis nesci;Nesci;Denis;IT;ECR;MALE;ECON,REGI;Polistena;25;7;1981;;;;;politician
+239262;elisabetta de blasis;De Blasis;Elisabetta;IT;ECR;FEMALE;REGI,ITRE,SANT;Avezzano;30;4;1974;;;University of L'Aquila;university;politician,manager
+239271;eleni stavrou;Stavrou;Eleni;CY;PPE;FEMALE;DEVE,BUDG,CONT,D-MX,DLAT,ECON,FEMM,D-BY;Nicosia;4;7;1975;;;King's College London,Bar-Ilan University,National and Kapodistrian University of Athens;phd;politician
+239972;erik poulsen;Poulsen;Erik;DK;Renew;MALE;ENVI,DACP,DAFR,ECON,SANT,D-JP;Holstebro;16;6;1967;;;Danish School of Journalism;;politician
+239973;bergur løkke rasmussen;Rasmussen;Bergur Løkke;DK;Renew;MALE;TRAN,D-CN,REGI,LIBE,D-IR;Gribskov;4;3;1990;;Lars Løkke Rasmussen,Sólrun Løkke Rasmussen;Copenhagen Business School;;politician
+240478;beatrice covassi;Covassi;Beatrice;IT;S&D;FEMALE;CONT,ITRE,D-UK,D-CN,DPAP,ENVI;Firenze;1;12;1968;;;University of Florence;university;researcher,politician,manager
+243912;maria veronica rossi;Rossi;Maria Veronica;IT;NI;FEMALE;;Ferentino;22;9;1988;;;;secondary;politician,manager
+243979;francesca peppucci;Peppucci;Francesca;IT;PPE;FEMALE;ENVI,DACP,DAFR,DROI,D-US;Todi;2;6;1993;;;;;politician
+244571;nikos papandreou;Papandreou;Nikos;GR;S&D;MALE;SEDE,DLAT,ENVI,DACP,DAFR,AFET,PECH,DMER;Alameda, California;29;9;1956;;;;phd;teacher
+245018;christophe clergeau;Clergeau;Christophe;FR;S&D;MALE;DACP,DAFR,DEVE,DMER,ENVI,AGRI,SANT,D-RU;Nantes;1;9;1968;;Marie-Françoise Clergeau;Sciences Po,Lycée Gabriel Guist'hau,University of Paris 1 Pantheon-Sorbonne,University of Nantes;phd;teacher,researcher,politician,manager
+245858;thomas rudner;Rudner;Thomas;DE;S&D;MALE;TRAN,D-CN,ITRE,DARP;Schwäbisch Gmünd;11;9;1961;;;;;politician
+247122;catherine amalric;Amalric;Catherine;FR;Renew;FEMALE;ENVI,SANT,D-CN,EMPL,D-RU;Aurillac;19;10;1964;;;;;
+247709;anja haga;Haga;Anja;NL;PPE;FEMALE;PECH,DROI,DSAS,AFET,DMAS;Drachten;25;12;1976;;;;;politician
+247735;laura ballarín cereza;Ballarín Cereza;Laura;ES;S&D;FEMALE;IMCO,DMAG,DMED,DACP,DAFR,ITRE,FEMM,D-US,D-IN;Barcelona;19;7;1984;;;;phd;researcher,politician,manager
+247737;ana collado jiménez;Collado Jiménez;Ana;ES;PPE;FEMALE;AFCO,D-BR,DLAT,BUDG;ÁVILA;8;2;1984;;;;phd;teacher,consultant,politician,manager
+249284;laurence sailliet;Sailliet;Laurence;FR;PPE;FEMALE;ENVI,PETI,DPAL,D-AF,DSAS,DMED,ECON;Thionville;1;3;1973;;;;;
+249285;lydie massard;Massard;Lydie;FR;Verts/ALE;FEMALE;ENVI,INTA;Saint- Brieuc;24;8;1978;;;;;
+249443;wolfram pirchner;Pirchner;Wolfram;AT;PPE;MALE;REGI,CONT,EMPL,CULT,D-BR,DMER,DLAT;Innsbruck;21;4;1958;;;;;politician,media,writer
+249603;martine kemp;Kemp;Martine;LU;PPE;FEMALE;INTA,FISC,DAND,DLAT,ECON,ENVI,D-MX;Luxembourg;8;7;1994;;;Technical University of Darmstadt,École privée Fieldgen,University of Vienna;university;politician,engineer
+249826;josef mihál;Mihál;Josef;SK;Renew;MALE;EMPL,D-UA,CONT;Nitra;18;3;1965;;;;;
+250235;witold pahl;Pahl;Witold;PL;PPE;MALE;REGI,DLAT,JURI,DCAS;Wrocław;7;12;1961;;;Faculty of Law and Administration of Adam Mickiewicz University in Poznań,Adam Mickiewicz University in Poznań,SWPS University;;politician
+250237;włodzimierz witold karpiński;Karpiński;Włodzimierz Witold;PL;PPE;MALE;IMCO,DACP,DAFR,INTA,DLAT;Puławy;16;11;1961;;;;;
+250538;rafał romanowski;Romanowski;Rafał;PL;ECR;MALE;BUDG,D-RU,AGRI,D-UA,DEPA;Ciechanów;15;2;1978;;;Pułtusk Academy of Humanities;;politician
+250572;patricia caro maya;Caro Maya;Patricia;ES;The Left;FEMALE;ITRE,D-UK,LIBE;Arles;1;1;1982;;;;;politician
+250918;françois thiollet;Thiollet;François;FR;Verts/ALE;MALE;DEVE,CONT,SANT,DACP,DAFR,ENVI;Châteaubriant;21;10;1975;;;;;politician
+251249;esther sanz selva;Sanz Selva;Esther;ES;The Left;FEMALE;PETI,DCAM,DLAT;Valencia;2;7;1985;;;;;politician
+251268;michael kauch;Kauch;Michael;DE;Renew;MALE;ITRE,D-IL,AFET,ECON,DACP,DAFR;;4;5;1967;;;;university;media,manager,consultant,politician
+251324;krzysztof brejza;Brejza;Krzysztof;PL;PPE;MALE;AFET,SEDE,LIBE;Bydgoszcz;16;5;1983;;Ryszard Brejza;University of Warsaw,Q65167632;phd;politician,lawyer
+251859;guy lavocat;Lavocat;Guy;FR;Renew;MALE;FEMM,DMER,DLAT,JURI,D-MX;Pondichery;14;2;1963;;;;university;consultant,politician,official,manager
+251874;niels geuking;Geuking;Niels;DE;PPE;MALE;EMPL,D-UA,DEPA;Coesfeld;17;11;1992;;Helmut Geuking;;;politician
+253008;linus glanzelius;Glanzelius;Linus;SE;S&D;MALE;TRAN,REGI,DEEA,ITRE,D-UK,D-CN;Gothenburg;28;12;1990;;;;;politician
+253043;henk jan ormel;Ormel;Henk Jan;NL;PPE;MALE;ENVI,D-CN,ECON,DKOR,DCAS,DNAT;Utrecht;15;12;1955;;;Utrecht University;;politician
+254718;anabela rodrigues;RODRIGUES;Anabela;PT;The Left;FEMALE;AFET,ITRE,DROI,SANT,DPAL,DMAS,DMED,ENVI;Lisboa;18;10;1976;;;;;politician
+254719;vasco becker-weinberg;BECKER-WEINBERG;VASCO;PT;PPE;MALE;LIBE,D-BR,DMER,DLAT,INTA,ENVI,IMCO,PECH,D-UK,D-US;Lisboa;21;9;1979;;;;;politician
+254720;ana miguel dos santos;DOS SANTOS;Ana Miguel;PT;PPE;FEMALE;LIBE,AFCO,D-ME,DSEE,AFET,D-IN;Coimbra;12;9;1981;;;;;politician
+254721;vânia neto;NETO;Vânia;PT;PPE;FEMALE;ITRE,PECH,D-US,IMCO,FEMM,DCAM,DCAS,DLAT;Santarém;25;4;1979;;;;;politician
+254722;teófilo santos;Santos;Teófilo;PT;PPE;MALE;BUDG,AGRI,D-BR,DMER,DLAT,EMPL,DMAG,DMED;Vila Franca (Viana do Castelo);12;2;1951;;;;;politician,lawyer
+254876;ricardo morgado;Morgado;Ricardo;PT;PPE;MALE;TRAN,D-ZA,PECH,D-CA,DACP,DAFR;Lamego;13;5;1987;;;;;politician

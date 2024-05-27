@@ -15,18 +15,16 @@ degree_dict = {
 
 career_dict = {
     "farmer": ["farmer"],
-    "lawyer": ["lawyer", "legal", "judge", "associate"],
-    "journalist": ["journalist", "reporter", "editor", "newsroom", "newspaper"],
+    "lawyer": ["lawyer", "legal", "judge"],
+    "media": ["journalist", "reporter", "editor", "newsroom", "newspaper", "press", "advertis", "public relations"],
     "politician": ["mep", "party", "parliament", "policy officer", "mayor", "minister", "councillor"],
-    "official": ["official", "ministry", "public service"],
-    "diplomat": ["diplomat"],
+    "official": ["official", "ministry", "public service", "diplomat"],
     "doctor": ["doctor"],
     "teacher": ["teacher", "instructor", "lecturer"],
     "engineer": ["engineer"],
     "researcher": ["researcher", "expert", "professor"],
     "manager": ["manager", "director", "chairman", "chairwoman", "chairperson", "head of", "member of the board", "board member", "chair of the"],
     "consultant": ["consultant"],
-    "marketeer": ["press", "advertis", "public relations"],
     "labourer": ["welder"]
 }
 
