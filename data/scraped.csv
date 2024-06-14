@@ -1,4 +1,5 @@
 identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupation
+197483;8;2;1966;Bayreuth;;;
 99945;30;4;1986;Dortmund;LIBE,D-ME,AGRI,FEMM,D-JP;university;media,politician,manager
 204333;27;10;1971;Fondi;AFCO,AGRI,D-RS,D-IN,ITRE,IMCO,D-RU;secondary,university;lawyer,manager
 124739;28;5;1959;Óbidos;DACP,ITRE,DAFR,DEVE,DMAS;university,phd;politician,official,researcher
@@ -41,7 +42,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 28298;7;10;1974;Baracaldo;ENVI;university;
 124875;12;11;1987;Viborg;AFET,ENVI,LIBE,D-US,EMPL,DANZ;university;manager
 125012;11;1;1970;Com. Românași;AGRI,DMER,DLAT,REGI,JURI;;
-197489;21;6;1953;Schnaittenbach;;;
 23768;12;9;1948;Sochaczew;TRAN,D-US,CONT,D-IL;university;politician,official,researcher
 125067;27;10;1971;Kavala;;;
 197494;1;6;1964;Neuilly-sur-Seine;SEDE,D-UK,DNAT,AFET,DMAG,LIBE,D-CN;;official,manager
@@ -80,6 +80,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197567;15;10;1980;Gentofte;JURI,FEMM,DSCA,DEPA,IMCO,DASE;;
 197679;5;9;1982;Madrid;REGI,ECON,DEPA,CULT,PETI,FISC,D-JP,DLAT;university;teacher,manager,consultant
 124934;;;;;REGI,BUDG,FEMM,D-US,DANZ;secondary,university,phd;politician,official,teacher,manager
+197550;29;1;1976;Skarzysko Kamienna;;;
 125005;19;8;1947;Laredo;DCAM,AFET,SEDE,DLAT,DACP,DPAC,D-RU,DMAG;;
 197650;12;2;1968;Gondomar;DMAS,AFET,LIBE,DROI,DLAT,DAND,DMED;;politician
 209091;28;9;1981;Pietà;ENVI,DKOR,LIBE,AFCO,DMAS;university;politician,manager
@@ -117,7 +118,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197538;;;;;DLAT,IMCO,D-BR,DMER,TRAN,DACP,DCAB;;
 124735;19;5;1972;Vaasa;D-US,INTA,ITRE,AFCO,D-JP;;
 1992;13;8;1944;Madrid;DLAT,ECON,FISC,D-MX,DCAR,INTA,D-TR;;
-197550;29;1;1976;Skarzysko Kamienna;FEMM,LIBE;;
 228604;;;;;EMPL,DPAP,DEVE,BUDG,D-TR,D-RU,DKOR;;
 232843;30;6;1975;Volkach;AFET,ECON,IMCO;university;media,politician,manager
 197623;8;8;1958;;AFET,INTA,ITRE,DROI,DCAR,D-IN,DCAS,DEPA,DACP,DAFR,D-BY,DSCA,D-IR,DKOR,DMED;;politician
@@ -127,6 +127,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197414;21;8;1969;Lemesos;EMPL,D-TR,AFET,CULT,LIBE,DCAM,DLAT;university;media
 197702;13;9;1969;Sevilla;ITRE,FEMM,D-US,EMPL,DASE;university,phd;teacher,researcher
 28399;1;4;1970;Pamplona;D-IL,AFET,DARP,DMED,SEDE,D-US;university,phd;
+125068;;;;;D-AL,REGI,D-TR,DARP,AFET,AGRI,D-UK;;
 197663;23;3;1976;București;EMPL,FISC,D-JP,ECON,D-US;university,phd;teacher,researcher,manager
 197585;19;10;1979;;PECH,JURI,DAND,DLAT,TRAN,D-MX,D-BR;;
 197680;2;6;1980;;ENVI,SANT,DEPA,DSCA,D-IN;;
@@ -153,16 +154,19 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 4560;14;3;1956;Stiphout;IMCO,DACP,DPAC,EMPL,JURI,D-CN;;
 198329;22;9;1963;Puçol;EMPL,DACP,DCAB,ENVI,DSAS;;
 250237;16;11;1961;Puławy;IMCO,DACP,DAFR,INTA,DLAT;;
+197489;21;6;1953;Schnaittenbach;;;
 199996;;;;;AGRI,PECH,D-US,REGI,D-CA,DLAT,DACP,DAFR;university,phd;teacher,researcher
 96761;7;4;1963;Hameln;DANZ,JURI,LIBE,DSAS;;lawyer,teacher
 197780;1;1;1981;;D-IR,ITRE,AFET,SEDE,DNAT;;
-197483;8;2;1966;Bayreuth;;;
+197488;19;1;1970;GELSENKIRCHEN;;;
 197791;8;5;1966;Roma;;;
 197824;21;8;1977;Palermo;REGI,DACP,DAFR,LIBE;;
 124850;26;5;1971;Varna;LIBE,PETI,DACP,DAFR,JURI,DKOR,DEPA;;
 197417;20;9;1982;Zagreb;IMCO,SANT,D-TR,ENVI,REGI,D-ME,DMED;;
 197453;5;6;1976;Berlin;DEEA,TRAN,DMER,ENVI,REGI,AGRI,DLAT;university;
+197699;;;;;TRAN,DKOR,DMED,ITRE,FEMM,DMAS,D-US;university;manager
 96756;24;10;1964;;CULT,DPAP,DEVE,D-ZA,DACP,DAFR;university;
+197734;7;2;1985;Athens;BUDG,ECON,D-MK,PETI,D-UK;;
 124722;4;12;1975;Csorna;ECON,DASE,ITRE,D-US;university;lawyer,researcher
 28619;8;5;1950;Rīga;PETI,D-AF,D-IN;university,phd;politician,teacher,researcher,manager
 29579;11;3;1963;Ougrée;PECH,CULT,PETI;university;politician
@@ -170,7 +174,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 5565;11;5;1958;;AFCO,DMAG,DMED,TRAN,LIBE;university;politician,manager
 197400;18;5;1976;Basra;D-IQ,LIBE,EMPL,FEMM,DSEE;university;politician,manager
 197844;18;4;1982;Sliven;ENVI,TRAN,DSCA,DEPA,LIBE,DSEE,D-RU;;
-237465;12;4;1983;Meerane;REGI,D-BY,ITRE,D-IL,DPAL,DEPA;secondary,university;politician
+237465;12;4;1983;Meerane;REGI,D-BY,ITRE,D-IL,DPAL,DEPA;secondary,university;politician,official,researcher,manager
 197533;22;12;1989;Frejus;ECON,JURI,FISC,DCAR,DEVE;university;teacher
 197552;8;9;1965;České Budějovice;AGRI,DAND,DLAT,EMPL,D-US;;
 24922;25;9;1974;Malmedy;REGI,JURI,DANZ,ITRE,D-ZA;secondary,university;lawyer,politician
@@ -185,7 +189,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 124844;22;5;1969;Benevento;ECON,D-MD,DEPA,ENVI,DACP,DCAB;university;official,researcher,manager
 197843;8;12;1956;Lietuva;DEPA,AFET,ITRE,D-UA,D-RU,D-IL;;
 197419;15;8;1972;Koper;D-ME,ITRE,TRAN,D-RS;;
-197662;14;12;1953;ATHINA;AFET,SEDE,D-US,DANZ,DNAT;;
 197546;29;6;1980;Moravská Třebová;IMCO,D-US,CULT,D-IN;;
 28390;31;7;1952;Nador (Marruecos);DAND,ITRE,DLAT,IMCO,D-UK,DSAS,DASE;university,phd;media,official,teacher,researcher,manager
 58766;3;1;1982;RASINARI;BUDG,SANT,D-US,ENVI,TRAN,D-MD,DNAT;university;politician,official
@@ -207,7 +210,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 96796;24;12;1949;Kraków;D-CL,CULT,DANZ,DLAT;university,phd;teacher
 197495;8;4;1973;Czestochowa;ENVI,DASE,ITRE;;
 124771;1;8;1953;Nancy;DEVE,CONT,EMPL,D-AL,D-ME,DACP,DAFR,D-MK,D-RS,DSEE;secondary;
-197480;1;7;1962;Berlin;;;
 96779;8;4;1948;Nisko;D-US,INTA,ECON,D-MX,D-UK,DLAT,AFCO,FISC;university,phd;politician,official,researcher,manager
 125046;8;1;1979;Oviedo;ECON,FISC,D-ME,BUDG,D-CN;university;researcher,manager
 197445;3;8;1990;Wiesbaden;BUDG,LIBE,D-CN,D-IN;university;
@@ -229,10 +231,8 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197457;4;9;1970;Munchen;ITRE,D-US,D-CN,BUDG,ECON;;
 197425;10;11;1972;DERNBACH;ECON,D-IN,DCAS,INTA,EMPL,D-RU;university,phd;
 124708;;;;;IMCO,D-US,INTA,DMER,DLAT;university,phd;politician,official,researcher,manager
-197699;;;;;TRAN,DKOR,DMED,ITRE,FEMM,DMAS,D-US;university;manager
 204346;;;;;AFET,INTA,DACP,DCAB,IMCO,D-US;;
 239257;19;1;1953;;ENVI,TRAN,D-AL,AGRI,DSEE,DLAT;;
-197475;;;;;;;
 125001;22;7;1966;;AFET,D-US,LIBE;;
 96771;12;4;1962;Wyszków;AGRI,D-RS,PECH,DSEE;;
 124877;;;;;DCAB,DACP,LIBE,ENVI,FEMM,D-CA;;
@@ -259,11 +259,11 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197825;30;6;1950;Regalbuto;JURI,D-CN,PECH,DASE;;
 197433;19;11;1968;Köln;LIBE,D-CL,D-UK,D-IN,AFET;;
 197648;18;5;1992;;ENVI,PETI,DSCA,DEPA,AGRI,D-MD;secondary,university;farmer,politician,manager
+125093;18;4;1975;Athina;AFET,DROI,D-TR,LIBE,D-AL;university;
 197646;26;12;1956;Oradea;D-CA,REGI,BUDG,D-CL;;
 204332;16;5;1967;Dublin;DEVE,INTA,D-UK,D-ZA,FEMM,D-TR;;
 218347;;;;;AFET,D-MK,D-UK,LIBE,D-TR,D-RS,DARP,DLAT;;
 197826;24;12;1963;Latina;CONT,ITRE,REGI,DARP,ENVI,DACP,DCAB;university;teacher
-244571;29;9;1956;Alameda, California;SEDE,DLAT,ENVI,DACP,DAFR,AFET,PECH,DMER;university,phd;teacher
 197391;29;9;1960;Kristianstad;ENVI,SANT,CULT,FEMM,D-ZA;;
 197738;26;7;1991;Se Nova;ECON,FISC,D-CN,ENVI,D-US;;
 124873;21;3;1979;;JURI,D-MK,AFET,TRAN,AFCO,PETI,DSEE,D-US;;
@@ -299,7 +299,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 125004;2;2;1963;Senovo;D-RS,AGRI,ITRE,REGI,D-CN,DACP,DAFR;secondary,university;politician,official,manager
 247735;19;7;1984;Barcelona;IMCO,DMAG,DMED,DACP,DAFR,ITRE,FEMM,D-US,D-IN;university,phd;politician,researcher,manager
 197765;20;4;1973;Levoca;D-RU,CULT,REGI,LIBE,D-UA,D-IN,DEPA;;
-40599;19;4;1959;Parikkala;ECON,FEMM,DPAL,DMED,ENVI,FISC,DPAP;secondary,university;teacher
+40599;19;4;1959;Parikkala;ECON,FEMM,DPAL,DMED,BUDG,ENVI,FISC,DPAP;secondary,university;teacher
 1892;20;5;1960;Lisboa;CONT,DACP,DAFR,REGI,D-ZA;;
 96776;13;4;1954;Kraków;IMCO,DCAS,ENVI,LIBE;university;politician,official,manager
 197448;20;2;1986;Essen;BUDG,ECON,FISC,D-CA,ITRE,D-US;;
@@ -312,6 +312,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 28340;17;3;1950;;ITRE,DEEA,DAND,DEVE,TRAN,DLAT;;
 197504;1;7;1984;Saint-Remy;AGRI,D-BR,INTA,DPAP;secondary;farmer
 197527;5;2;1976;Besançon;IMCO,D-JP,DASE,TRAN,LIBE,PETI,DANZ;;
+197701;9;6;1964;Athens;LIBE,D-RU,EMPL,D-TR,D-IQ;;
 124713;2;11;1979;Havlíčkův Brod;DCAS,AFET,EMPL,D-JP,DSAS,LIBE,DACP,DAFR;university;media,manager
 197731;11;4;1968;Dublin;D-AF,LIBE,INTA,TRAN,SEDE,D-RU;;
 28229;14;7;1972;Niederhatzkofen;;secondary,university;politician
@@ -324,6 +325,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197539;18;6;1986;Praha;ITRE,D-UA,CONT,ECON,FISC;;
 197595;6;4;1987;Magyarország;LIBE,D-AL,EMPL,D-TR,D-RU;;
 122978;15;10;1993;;EMPL,DCAM,DLAT,ITRE,DMAG;university;politician,official
+197480;1;7;1962;Berlin;;;
 254722;12;2;1951;Vila Franca (Viana do Castelo);BUDG,AGRI,D-BR,DMER,DLAT,EMPL,DMAG,DMED;;
 124973;8;11;1958;Antwerpen;ECON,AFCO,D-US;university;
 254718;18;10;1976;Lisboa;AFET,ITRE,DROI,SANT,DPAL,DMAS,DMED,ENVI;;
@@ -362,7 +364,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197772;28;9;1961;Appeltern;AFET,LIBE,D-MK,D-BY,DACP,DAFR,DROI,D-TR,DMAG;;
 197773;22;3;1972;Reimerswaal;D-IL,AGRI,PECH,DMED,AFET,D-IN;;
 124770;23;5;1957;Tournan-en-Brie;D-CN,CONT;university;media
-112611;15;9;1960;;CONT,AGRI,BUDG,D-RU,D-US;university;media,manager
 236052;20;11;1963;Eindhoven;LIBE,DLAT,AFET,D-CL,DASE;;
 197505;29;11;1962;Bron;DEVE,DPAL,DMED,ENVI,PECH,DACP,DAFR;;
 124726;4;6;1972;Joutsa;ITRE,TRAN,DARP,DACP,DAFR;university;media,teacher
@@ -378,7 +379,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 28122;16;11;1968;Valletta;EMPL,D-UK,DARP,ECON,D-TR,DMED;;
 189065;5;2;1961;Paris;ECON,PECH,D-UK,D-IN,DMED,INTA,D-ME,DMAG,D-JP,DEPA;;
 124785;7;11;1954;Berești - Galați;IMCO,CONT,LIBE,DEPA,TRAN,D-MD,D-JP;secondary;politician,engineer,manager,consultant
-197734;7;2;1985;Athens;BUDG,ECON,D-MK,PETI,D-UK;;
 124866;16;9;1985;Sevlievo;D-TR,AFET,TRAN,JURI,DARP;university;politician
 28346;12;7;1944;Sanremo (IM);DEVE,D-TR,DMED,AFET,ENVI,AFCO,DROI;;
 197586;;;;;ENVI,DCAS;;
@@ -391,12 +391,14 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197641;23;3;1989;;ENVI,SANT,D-ZA,DLAT,TRAN,DCAM;university,phd;doctor,manager
 197792;19;8;1967;Roma;EMPL,AGRI,D-US,DLAT;university;lawyer,teacher
 185771;27;10;1978;Leuven;LIBE,DASE,IMCO,DCAR,D-JP,D-ZA;;
+132191;;;;;;;
 209896;3;1;1972;Drogheda;AGRI,DEEA,TRAN,PECH,D-UK,DMER;;
 251249;2;7;1985;Valencia;PETI,DCAM,DLAT;;
 197464;3;4;1984;Speyer;DARP,DROI,SEDE,D-IR,AFET,D-IQ;university,phd;teacher,manager,consultant
 124862;7;12;1962;Augsburg;DANZ,AGRI,PETI,DSAS,ENVI,D-UK,DACP,DPAC;secondary,university;farmer
 197543;;;;;DROI,AFET,D-RU,DMAS,DMED;;
 2323;19;2;1957;Stuttgart - Bad Cannstatt;BUDG,AFCO,DACP,DPAC,PETI,DSEE;;
+197475;;;;;;;
 197818;20;1;1968;Cork;D-US,ECON,FISC,ENVI,SANT,DACP,DCAB;;
 197804;11;9;1974;;AGRI,D-BR,INTA,D-TR;;
 197849;13;8;1960;Sofia;CULT,D-AL,ENVI,PETI,D-TR;;
@@ -427,7 +429,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 230085;20;5;1975;Roma;BUDG,AGRI,D-CA,REGI,D-MD,DEPA;secondary,university;media,politician
 202112;25;7;1954;București;AFET,SEDE,D-MD,D-IN,DEPA,DROI,DSCA,D-US,DACP,DCAB;secondary,university,phd;politician,official,teacher,researcher,manager
 197800;4;7;1955;Kokkola;BUDG,ECON,D-UK,D-RU,SEDE,D-TR;;
-125093;18;4;1975;Athina;AFET,DROI,D-TR,LIBE,D-AL;university;
 197571;28;2;1983;Aarhus;EMPL,ENVI,D-UA,AFCO,D-TR,DPAL,DMAS,DMED;;
 204418;22;7;1972;Port-Saint-Louis-du-Rhône;REGI,ITRE,TRAN,PECH,DCAR;;
 197513;16;8;1974;Białystok;CULT,D-BY,DEPA,TRAN;university;
@@ -455,25 +456,27 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 96998;24;1;1966;Wien;DSAS,ECON,FEMM,D-BR,DLAT,EMPL,FISC,D-MX;university;manager
 197518;18;11;1953;Ogrodniki;AGRI,D-TR,REGI,D-IQ;;
 198063;8;6;1977;Kecskemét;AFET,DACP,DAFR,INTA,DROI,D-US;university;consultant
+96933;25;5;1962;Ljubljana;DSAS,CULT,AFET,DCAM,DLAT;;
 124887;13;5;1966;Warszawa;DACP,DPAC,AFET,DROI,SANT,ENVI,D-UA,DEPA;;
 28226;17;8;1963;München;ITRE,D-US,CULT,D-UK,D-IL,DMED;phd;manager
 28615;20;6;1958;Rīga;ECON,TRAN,FISC,D-CN,BUDG,D-MX,D-UK,D-JP,DLAT;;
 197722;15;5;1960;Cáceres;AFET,DROI,D-TR,DEPA,JURI,D-UK,DSCA,DLAT;university;lawyer,politician,official,manager
+198490;27;6;1993;Chios;DCAR,INTA,ENVI,PETI,AGRI,SANT,D-CN;;
 197608;6;9;1953;Cappella Maggiore;CULT,D-RU,ENVI,DEPA;;
 197412;28;2;1973;Ratzeburg;BUDG,PECH,DACP,DAFR,CONT,D-IL,D-IR;secondary,university;politician,manager,consultant
 197421;29;12;1961;Odivelas-Loures;AFET,DROI,D-TR,ITRE,LIBE,D-CN;university;teacher
 30482;30;9;1969;Saint-Denis (Réunion);REGI,CONT,D-RU,BUDG,DARP,D-US;university;politician,official
 197418;15;6;1984;;EMPL,CULT,DACP,DAFR,ECON,FISC;;
 135511;6;4;1986;Château-Gontier;DASE,BUDG,ITRE,D-CL,DLAT,DACP,DPAC;;
-197482;25;6;1956;Schonach;;;
 202036;9;12;1968;Čakovec;AFET,DSEE,ENVI,D-US;university,phd;politician
 197544;22;6;1955;Wschowa;EMPL,D-BR,DMER,DLAT,CONT,PECH,D-MD,DEPA;;
 197506;10;11;1968;Oostende;REGI,PECH,DACP,DCAB,DEVE,D-UK;;
 197618;17;5;1968;Modena;EMPL,D-RU,BUDG,ECON,D-ZA;university,phd;media,researcher,manager
-125068;;;;;D-AL,REGI,D-TR,DARP,AFET,AGRI,D-UK;;
 38595;22;6;1960;Bucureşti;TRAN,D-CN,ENVI,REGI;university,phd;politician,engineer,manager
 96750;14;9;1953;Ajaccio;AFET,REGI,D-UK,DMED,DACP,DPAC,AFCO,DMAS;;teacher,engineer
 243912;22;9;1988;Ferentino;;secondary;manager
+128483;11;8;1983;;;;
+197481;28;1;1977;Dresden;;university,phd;lawyer,manager
 96648;14;3;1963;Bruxelles;ECON;;
 39725;14;3;1964;Hunedoara;INTA,D-CN,CULT,DANZ;university,phd;engineer,manager
 96852;;;;;D-IR,LIBE,ITRE,D-UA;;
@@ -491,6 +494,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 124799;24;6;1973;Vicenza;D-RS,AFET,ENVI,SANT,FEMM,DCAS;;
 28400;8;3;1955;Pontevedra;PECH,AFET,D-UK,DCAS,D-CN;university;politician,official,teacher,manager
 101585;29;6;1985;Kobenhavn;DARP,ITRE,D-CN,ECON,FISC,D-TR;university,phd;politician,official,teacher,researcher,manager,consultant
+256134;24;3;1975;Riga;;;
 28429;30;12;1962;Roma;INTA,DPAP,LIBE,DMAS;university;
 124784;2;7;1960;Panciu;DPAC,D-JP,DACP,ITRE,D-US,ENVI,IMCO,D-UK;university,phd;politician,official,researcher,manager
 190518;;;;;EMPL;university,phd;politician,official,researcher
@@ -514,7 +518,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 124691;27;5;1962;Kato Dhikomo;ECON,D-TR,DMED,INTA,SEDE,D-IL;university,phd;official
 124884;14;1;1964;Bydgoszcz;DSCA,TRAN,PETI,DEPA,IMCO,JURI,DANZ,DACP,DAFR;university;media,politician,official,manager
 125104;2;11;1965;;EMPL,DEEA,IMCO,LIBE,DCAS;;
-96933;25;5;1962;Ljubljana;DSAS,CULT,AFET,DCAM,DLAT;;
 96837;1;6;1966;Duisburg;D-ME,CULT,IMCO,D-AL;secondary,university;politician,official,manager
 28141;6;10;1974;Tata;FEMM,D-ZA,EMPL,DKOR;;
 28353;12;1;1957;Lębork;AFET,SEDE,D-UK,DSCA,DEPA,DNAT;university;politician,official,manager
@@ -532,9 +535,8 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197545;1;2;1961;Zarzecze;BUDG,DSEE,ECON,D-MK;;
 197563;6;10;1947;Kinnula;ITRE,D-JP,BUDG,REGI,DEEA,DCAS;secondary,university;politician,researcher,manager
 96922;27;3;1961;Bermeo;DAND,TRAN,PECH,DLAT,ITRE,D-US;university;
-198490;27;6;1993;Chios;DCAR,INTA,ENVI,PETI,AGRI,SANT,D-CN;;
+197482;25;6;1956;Schonach;;;
 124766;16;5;1963;Vilnius;D-AF,AFET,SEDE,D-UA,DEPA,DNAT,DEVE,DROI,D-BY;university,phd;official,teacher,manager
-197488;19;1;1970;GELSENKIRCHEN;;;
 197507;13;9;1950;Warszawa;AFET,AFCO,DCAS,D-US;;
 214839;11;11;1992;Västerås;ENVI,PECH,DEEA,ITRE,AGRI,D-CN;university;manager
 239972;16;6;1967;Holstebro;ENVI,DACP,DAFR,ECON,SANT,D-JP;;
@@ -562,6 +564,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 197624;17;11;1972;Riga;ITRE,D-US,ECON,IMCO,DAND,DASE,DLAT;;
 205452;13;3;1973;London;AGRI,D-UK,D-ZA,ECON,DPAL;;
 197515;12;3;1968;Middelfart;D-CN,ENVI,ITRE,DACP,DAFR,FEMM,SANT,DMAG,DMED;;
+4260;15;6;1959;Lahti;;;
 96826;27;7;1966;Budapest;PETI,D-IQ,ECON,DKOR;university;lawyer
 253043;15;12;1955;Utrecht;ENVI,D-CN,ECON,DKOR,DCAS,DNAT;;
 197805;8;7;1976;Helsingfors;BUDG,ENVI,DSAS,FEMM,DPAL,DMED;;
@@ -584,6 +587,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 114268;7;8;1945;Ekenäs;BUDG,ENVI,D-RU,ITRE,D-US;university;media,politician,manager
 197737;;;;;ECON,D-RU;;
 96952;;;;;CULT,LIBE,PETI;university;politician
+244571;29;9;1956;Alameda, California;SEDE,DLAT,ENVI,DACP,DAFR,AFET,PECH,DMER;university,phd;teacher
 136236;12;4;1980;Campo Grande;TRAN,PECH,DPAL,DCAS,DACP,DCAB,ENVI,AFCO,SANT;;
 249826;18;3;1965;Nitra;EMPL,D-UA,CONT;;
 197728;12;2;1976;BUENOS AIRES;DMER,DEVE,DLAT,REGI,DACP,DCAB;university;media,manager
@@ -608,7 +612,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 240478;1;12;1968;Firenze;CONT,ITRE,D-UK,D-CN,DPAP,ENVI;university;politician,researcher,manager
 254720;12;9;1981;Coimbra;LIBE,AFCO,D-ME,DSEE,AFET,D-IN;;
 197579;2;2;1972;Sofia;EMPL,D-UA,LIBE,D-RS,DEPA;;
-197701;9;6;1964;Athens;LIBE,D-RU,EMPL,D-TR,D-IQ;;
 124846;10;5;1981;S. Maria Capua Vetere (CE);LIBE,FEMM,D-IL,AFET,AGRI,CULT,PETI,D-MK;;
 245858;11;9;1961;Schwäbisch Gmünd;TRAN,D-CN,ITRE,DARP;;
 124867;1;1;1986;La Spezia;IMCO,DMAS,D-BR,DLAT,EMPL,JURI,AFCO,D-UK,DMAG,D-US,DMER,DMED;;
@@ -630,7 +633,6 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 96880;3;8;1962;Napoli;REGI;;
 197468;10;3;1984;Malatya;SEDE,D-TR,EMPL,AFET;;
 124985;22;1;1972;Roscommon;CONT,AGRI,PECH,D-UK;;
-132191;;;;;;;
 229519;4;7;1985;Soest;INTA,D-UK,D-US,IMCO,JURI,D-JP;;
 1927;20;5;1965;Meschede;ENVI,DCAM,DLAT,BUDG,SANT,DAND;university,phd;doctor
 197645;12;9;1984;Santiago do Cacém;AGRI,PECH,D-JP,BUDG,IMCO,DKOR;;
@@ -671,9 +673,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 28219;4;4;1976;Karlsruhe;DASE,INTA,AFET,D-UA,DACP,DAFR;secondary,university;
 124988;1;6;1959;Cork;IMCO,DCAM,DLAT,ENVI,DROI,SANT,DACP,DAFR;;
 197510;29;4;1964;Wroclaw;EMPL,D-UA,DEPA,PETI,D-ME;;
-128483;11;8;1983;;;;
 5729;18;11;1969;Wilrijk;INTA,DMAG,DMER,TRAN,D-BR;university;researcher
-197481;28;1;1977;Dresden;;university,phd;lawyer,manager
 125023;21;1;1968;Vlagtwedde;ENVI,PECH,AGRI,SANT,D-JP,DSAS;secondary,university,phd;politician,official,researcher
 124802;20;9;1981;Hunedoara;D-MD,BUDG,ECON,DEPA,D-US;;
 199941;3;12;1970;Koge;DASE,EMPL,TRAN;secondary,university;engineer
@@ -681,6 +681,7 @@ identifier;born_day;born_month;born_year;born_place;memberships;degrees;occupati
 23699;20;1;1981;Nový Jičín;IMCO,TRAN,SANT,DSCA,DEPA,ENVI,D-RS;university;politician,official
 124808;22;12;1977;Ravensburg;AGRI,DEEA,ENVI,D-MX,DLAT;university;politician,official,teacher,manager
 125030;17;2;1953;Diepenheim;AGRI,PECH,DACP,DPAC,INTA,D-RU;secondary,university;farmer
+197662;14;12;1953;ATHINA;AFET,SEDE,D-US,DANZ,DNAT;;
 197405;23;1;1969;Varberg;INTA,DMER,DLAT,BUDG,TRAN,D-UK,D-CN;university;manager
 94649;20;8;1972;;ENVI,CULT,DACP,DPAC,DMED;;
 197536;5;5;1965;Ollioules;ENVI,SANT,D-IL,DMED,LIBE,AFCO;;

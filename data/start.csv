@@ -1,4 +1,5 @@
 id;type;identifier;name;familyName;givenName;sortLabel;country;group;officialFamilyName;officialGivenName
+person/197483;Person;197483;Sylvia LIMMER;Limmer;Sylvia;LIMMER;DE;NI;;
 person/99945;Person;99945;Lena DÜPONT;Düpont;Lena;DUPONTL;DE;PPE;;
 person/204333;Person;204333;Salvatore DE MEO;De Meo;Salvatore;DEMEO;IT;PPE;;
 person/124739;Person;124739;Carlos ZORRINHO;Zorrinho;Carlos;ZORRINHO;PT;S&D;;
@@ -41,7 +42,6 @@ person/28617;Person;28617;Inese VAIDERE;Vaidere;Inese;VAIDERE;LV;PPE;;
 person/28298;Person;28298;Iratxe GARCÍA PÉREZ;García Pérez;Iratxe;GARCIAPEREZ;ES;S&D;;
 person/124875;Person;124875;Anders Primdahl VISTISEN;Vistisen;Anders Primdahl;VISTISEN;DK;ID;;
 person/125012;Person;125012;Daniel BUDA;Buda;Daniel;BUDA;RO;PPE;;
-person/197489;Person;197489;Bernhard ZIMNIOK;Zimniok;Bernhard;ZIMNIOK;DE;ID;;
 person/23768;Person;23768;Bogusław LIBERADZKI;Liberadzki;Bogusław;LIBERADZKI;PL;S&D;;
 person/125067;Person;125067;Theodoros ZAGORAKIS;Zagorakis;Theodoros;ZAGORAKIS;GR;S&D;Ζαγοράκης;Θεόδωρος
 person/197494;Person;197494;Nathalie LOISEAU;Loiseau;Nathalie;LOISEAUN;FR;Renew;;
@@ -80,6 +80,7 @@ person/197427;Person;197427;Marlene MORTLER;Mortler;Marlene;MORTLER;DE;PPE;;
 person/197567;Person;197567;Karen MELCHIOR;Melchior;Karen;MELCHIORK;DK;Renew;;
 person/197679;Person;197679;Isabel BENJUMEA BENJUMEA;Benjumea Benjumea;Isabel;BENJUMEABENJUMEA;ES;PPE;;
 person/124934;Person;124934;Monika VANA;Vana;Monika;VANA;AT;Verts/ALE;;
+person/197550;Person;197550;Sylwia SPUREK;Spurek;Sylwia;SPUREK;PL;NI;;
 person/125005;Person;125005;Javier NART;Nart;Javier;NART;ES;Renew;;
 person/197650;Person;197650;Isabel SANTOS;Santos;Isabel;SANTOSI;PT;S&D;;
 person/209091;Person;209091;Cyrus ENGERER;Engerer;Cyrus;ENGERER;MT;S&D;;
@@ -117,7 +118,6 @@ person/250918;Person;250918;François THIOLLET;Thiollet;François;THIOLLETF;FR;V
 person/197538;Person;197538;Beata MAZUREK;Mazurek;Beata;MAZUREK;PL;ECR;;
 person/124735;Person;124735;Miapetra KUMPULA-NATRI;Kumpula-Natri;Miapetra;KUMPULA-NATRI;FI;S&D;;
 person/1992;Person;1992;José Manuel GARCÍA-MARGALLO Y MARFIL;García-Margallo y Marfil;José Manuel;GARCIAMAR;ES;PPE;;
-person/197550;Person;197550;Sylwia SPUREK;Spurek;Sylwia;SPUREK;PL;Verts/ALE;;
 person/228604;Person;228604;Ilan DE BASSO;De Basso;Ilan;DEBASSO;SE;S&D;;
 person/232843;Person;232843;Jan Henrik OVELGÖNNE;OVELGÖNNE;Jan Henrik;OVELGÖNNEJ;DE;Verts/ALE;;
 person/197623;Person;197623;Thierry MARIANI;Mariani;Thierry;MARIANI;FR;ID;;
@@ -127,6 +127,7 @@ person/124704;Person;124704;Stanislav POLČÁK;Polčák;Stanislav;POLCAK;CZ;PPE;
 person/197414;Person;197414;Loucas FOURLAS;Fourlas;Loucas;FOURLAS;CY;PPE;Φουρλάς;Λουκάς
 person/197702;Person;197702;Lina GÁLVEZ MUÑOZ;Gálvez Muñoz;Lina;GALVEZMUNOZ;ES;S&D;;
 person/28399;Person;28399;Antonio LÓPEZ-ISTÚRIZ WHITE;López-Istúriz White;Antonio;LOPEZISTURIZ;ES;PPE;;
+person/125068;Person;125068;Manolis KEFALOGIANNIS;KEFALOGIANNIS;Manolis;KEFALOGIANNIS;GR;PPE;Κεφαλογιάννης;Μανώλης
 person/197663;Person;197663;Dragoş PÎSLARU;Pîslaru;Dragoş;PISLARU;RO;Renew;;
 person/197585;Person;197585;Pierre KARLESKIND;Karleskind;Pierre;KARLESKIND;FR;Renew;;
 person/197680;Person;197680;Aurélia BEIGNEUX;Beigneux;Aurélia;BEIGNEUX;FR;ID;;
@@ -153,16 +154,19 @@ person/124715;Person;124715;György HÖLVÉNYI;Hölvényi;György;HOLVENYI;HU;PP
 person/4560;Person;4560;Antonius MANDERS;Manders;Antonius;MANDERS;NL;PPE;;
 person/198329;Person;198329;Estrella DURÁ FERRANDIS;Durá Ferrandis;Estrella;DURAFERRANDIS;ES;S&D;;
 person/250237;Person;250237;Włodzimierz Witold KARPIŃSKI;Karpiński;Włodzimierz Witold;KARPIŃSKIW;PL;PPE;;
+person/197489;Person;197489;Bernhard ZIMNIOK;Zimniok;Bernhard;ZIMNIOK;DE;NI;;
 person/199996;Person;199996;Isabel CARVALHAIS;Carvalhais;Isabel;CARVALHAIS;PT;S&D;;
 person/96761;Person;96761;Axel VOSS;Voss;Axel;VOSS;DE;PPE;;
 person/197780;Person;197780;Bart GROOTHUIS;Groothuis;Bart;GROOTHUIS;NL;Renew;;
-person/197483;Person;197483;Sylvia LIMMER;Limmer;Sylvia;LIMMER;DE;ID;;
+person/197488;Person;197488;Guido REIL;Reil;Guido;REIL;DE;NI;;
 person/197791;Person;197791;Massimiliano SMERIGLIO;Smeriglio;Massimiliano;SMERIGLIO;IT;NI;;
 person/197824;Person;197824;Giuseppe MILAZZO;Milazzo;Giuseppe;MILAZZO;IT;ECR;;
 person/124850;Person;124850;Emil RADEV;Radev;Emil;RADEV;BG;PPE;Радев;Емил
 person/197417;Person;197417;Tomislav SOKOL;Sokol;Tomislav;SOKOL;HR;PPE;;
 person/197453;Person;197453;Anna DEPARNAY-GRUNENBERG;Deparnay-Grunenberg;Anna;DEPARNAY-GRUNENBERG;DE;Verts/ALE;;
+person/197699;Person;197699;Elena KOUNTOURA;KOUNTOURA;Elena;KOUNTOURA;GR;The Left;Κουντουρά;Έλενα
 person/96756;Person;96756;Sabine VERHEYEN;Verheyen;Sabine;VERHEYEN;DE;PPE;;
+person/197734;Person;197734;Lefteris NIKOLAOU-ALAVANOS;NIKOLAOU-ALAVANOS;Lefteris;NIKOLAOU-ALAVANOS;GR;NI;Νικολάου-Αλαβάνος;Λευτέρης
 person/124722;Person;124722;Csaba MOLNÁR;Molnár;Csaba;MOLNAR;HU;S&D;;
 person/28619;Person;28619;Tatjana ŽDANOKA;Ždanoka;Tatjana;ZZDANOKA;LV;NI;;
 person/29579;Person;29579;Marc TARABELLA;Tarabella;Marc;TARABELLA;BE;NI;;
@@ -185,7 +189,6 @@ person/125038;Person;125038;Maite PAGAZAURTUNDÚA;Pagazaurtundúa;Maite;PAGAZAUR
 person/124844;Person;124844;Piernicola PEDICINI;Pedicini;Piernicola;PEDICINI;IT;Verts/ALE;;
 person/197843;Person;197843;Andrius KUBILIUS;Kubilius;Andrius;KUBILIUS;LT;PPE;;
 person/197419;Person;197419;Valter FLEGO;Flego;Valter;FLEGO;HR;Renew;;
-person/197662;Person;197662;Vangelis MEIMARAKIS;Meimarakis;Vangelis;MEIMARAKIS;GR;PPE;Μεϊμαράκης;Βαγγέλης
 person/197546;Person;197546;Marcel KOLAJA;Kolaja;Marcel;KOLAJA;CZ;Verts/ALE;;
 person/28390;Person;28390;Pilar DEL CASTILLO VERA;del Castillo Vera;Pilar;CASTILLOVERA;ES;PPE;;
 person/58766;Person;58766;Nicolae ŞTEFĂNUȚĂ;Ştefănuță;Nicolae;STEFANUTA;RO;Verts/ALE;;
@@ -207,7 +210,6 @@ person/197655;Person;197655;Cristian TERHEŞ;Terheş;Cristian;TERHES;RO;ECR;;
 person/96796;Person;96796;Ryszard Antoni LEGUTKO;Legutko;Ryszard Antoni;LEGUTKO;PL;ECR;;
 person/197495;Person;197495;Marek Paweł BALT;Balt;Marek Paweł;BALT;PL;S&D;;
 person/124771;Person;124771;Dominique BILDE;Bilde;Dominique;BILDE;FR;ID;;
-person/197480;Person;197480;Nicolaus FEST;Fest;Nicolaus;FEST;DE;ID;;
 person/96779;Person;96779;Danuta Maria HÜBNER;Hübner;Danuta Maria;HUBNER;PL;PPE;;
 person/125046;Person;125046;Jonás FERNÁNDEZ;Fernández;Jonás;FERNANDEZ JONAS;ES;S&D;;
 person/197445;Person;197445;Moritz KÖRNER;Körner;Moritz;KORNER;DE;Renew;;
@@ -229,10 +231,8 @@ person/124806;Person;124806;David MCALLISTER;McAllister;David;MACALLISTER;DE;PPE
 person/197457;Person;197457;Henrike HAHN;Hahn;Henrike;HAHNH;DE;Verts/ALE;;
 person/197425;Person;197425;Ralf SEEKATZ;Seekatz;Ralf;SEEKATZ;DE;PPE;;
 person/124708;Person;124708;Dita CHARANZOVÁ;Charanzová;Dita;CHARANZOVA;CZ;Renew;;
-person/197699;Person;197699;Elena KOUNTOURA;Kountoura;Elena;KOUNTOURA;GR;The Left;Κουντουρά;Έλενα
 person/204346;Person;204346;Dominik TARCZYŃSKI;Tarczyński;Dominik;TARCZYŃSKI;PL;ECR;;
 person/239257;Person;239257;Achille VARIATI;Variati;Achille;VARIATI;IT;S&D;;
-person/197475;Person;197475;Christine ANDERSON;Anderson;Christine;ANDERSON;DE;ID;;
 person/125001;Person;125001;Harald VILIMSKY;Vilimsky;Harald;VILIMSKY;AT;ID;;
 person/96771;Person;96771;Jarosław KALINOWSKI;Kalinowski;Jarosław;KALINOWSKI;PL;PPE;;
 person/124877;Person;124877;Jadwiga WIŚNIEWSKA;Wiśniewska;Jadwiga;WISNIEWSKA;PL;ECR;;
@@ -259,11 +259,11 @@ person/197493;Person;197493;Jaak MADISON;Madison;Jaak;MADISON;EE;ID;;
 person/197825;Person;197825;Raffaele STANCANELLI;Stancanelli;Raffaele;STANCANELLI;IT;ECR;;
 person/197433;Person;197433;Katarina BARLEY;Barley;Katarina;BARLEY;DE;S&D;;
 person/197648;Person;197648;Alexander BERNHUBER;Bernhuber;Alexander;BERNHUBER;AT;PPE;;
+person/125093;Person;125093;Kostas PAPADAKIS;PAPADAKIS;Kostas;PAPADAKIS KONSTANTINOS;GR;NI;Παπαδάκης;Κώστας
 person/197646;Person;197646;Mircea-Gheorghe HAVA;Hava;Mircea-Gheorghe;HAVA;RO;PPE;;
 person/204332;Person;204332;Barry ANDREWS;Andrews;Barry;ANDREWSB;IE;Renew;;
 person/218347;Person;218347;Thijs REUTEN;Reuten;Thijs;REUTEN;NL;S&D;;
 person/197826;Person;197826;Matteo ADINOLFI;Adinolfi;Matteo;ADINOLFIM;IT;ID;;
-person/244571;Person;244571;Nikos PAPANDREOU;Papandreou;Nikos;PAPANDREOUNIKOS;GR;S&D;Παπανδρέου;Νίκος
 person/197391;Person;197391;Heléne FRITZON;Fritzon;Heléne;FRITZON;SE;S&D;;
 person/197738;Person;197738;Lídia PEREIRA;Pereira;Lídia;PEREIRALIDIA;PT;PPE;;
 person/124873;Person;124873;Angel DZHAMBAZKI;Dzhambazki;Angel;DZHAMBAZKI;BG;ECR;Джамбазки;Ангел
@@ -312,6 +312,7 @@ person/124760;Person;124760;Nicolas BAY;Bay;Nicolas;BAY;FR;ECR;;
 person/28340;Person;28340;Patrizia TOIA;Toia;Patrizia;TOIA;IT;S&D;;
 person/197504;Person;197504;Jérémy DECERLE;Decerle;Jérémy;DECERLE;FR;Renew;;
 person/197527;Person;197527;Anne-Sophie PELLETIER;Pelletier;Anne-Sophie;PELLETIER;FR;The Left;;
+person/197701;Person;197701;Konstantinos ARVANITIS;ARVANITIS;Konstantinos;ARVANITIS;GR;The Left;Αρβανίτης;Κωνσταντίνος
 person/124713;Person;124713;Tomáš ZDECHOVSKÝ;Zdechovský;Tomáš;ZDECHOVSKY;CZ;PPE;;
 person/197731;Person;197731;Clare DALY;Daly;Clare;DALYC;IE;The Left;;
 person/28229;Person;28229;Manfred WEBER;Weber;Manfred;WEBERM;DE;PPE;;
@@ -324,6 +325,7 @@ person/249284;Person;249284;Laurence SAILLIET;Sailliet;Laurence;SAILLIETL;FR;PPE
 person/197539;Person;197539;Mikuláš PEKSA;Peksa;Mikuláš;PEKSA;CZ;Verts/ALE;;
 person/197595;Person;197595;Anna Júlia DONÁTH;Donáth;Anna Júlia;DONATH;HU;Renew;;
 person/122978;Person;122978;Alicia HOMS GINEL;Homs Ginel;Alicia;HOMSGINEL;ES;S&D;;
+person/197480;Person;197480;Nicolaus FEST;Fest;Nicolaus;FEST;DE;NI;;
 person/254722;Person;254722;Teófilo SANTOS;Santos;Teófilo;SANTOST;PT;PPE;;
 person/124973;Person;124973;Gerolf ANNEMANS;Annemans;Gerolf;ANNEMANS;BE;ID;;
 person/254718;Person;254718;Anabela RODRIGUES;RODRIGUES;Anabela;RODRIGUESA;PT;The Left;;
@@ -362,7 +364,6 @@ person/197611;Person;197611;Elena LIZZI;Lizzi;Elena;LIZZI;IT;ID;;
 person/197772;Person;197772;Tineke STRIK;Strik;Tineke;STRIK;NL;Verts/ALE;;
 person/197773;Person;197773;Bert-Jan RUISSEN;Ruissen;Bert-Jan;RUISSEN;NL;ECR;;
 person/124770;Person;124770;Jean-François JALKH;Jalkh;Jean-François;JALKH;FR;ID;;
-person/112611;Person;112611;Petri SARVAMAA;Sarvamaa;Petri;SARVAMAA;FI;PPE;;
 person/236052;Person;236052;Patricia CHAGNON;Chagnon;Patricia;CHAGNON;FR;ID;;
 person/197505;Person;197505;Catherine CHABAUD;Chabaud;Catherine;CHABAUD;FR;Renew;;
 person/124726;Person;124726;Henna VIRKKUNEN;Virkkunen;Henna;VIRKKUNEN;FI;PPE;;
@@ -378,7 +379,6 @@ person/233862;Person;233862;Matjaž NEMEC;Nemec;Matjaž;NEMECM;SI;S&D;;
 person/28122;Person;28122;David CASA;Casa;David;CASA;MT;PPE;;
 person/189065;Person;189065;France JAMET;Jamet;France;JAMET;FR;ID;;
 person/124785;Person;124785;Maria GRAPINI;Grapini;Maria;GRAPINI;RO;S&D;;
-person/197734;Person;197734;Lefteris NIKOLAOU-ALAVANOS;Nikolaou-Alavanos;Lefteris;NIKOLAOU-ALAVANOS;GR;NI;Νικολάου-Αλαβάνος;Λευτέρης
 person/124866;Person;124866;Ilhan KYUCHYUK;Kyuchyuk;Ilhan;KYUCHYUK;BG;Renew;Кючюк;Илхан
 person/28346;Person;28346;Mercedes BRESSO;Bresso;Mercedes;BRESSO;IT;S&D;;
 person/197586;Person;197586;Stefania ZAMBELLI;Zambelli;Stefania;ZAMBELLI;IT;PPE;;
@@ -391,12 +391,14 @@ person/197711;Person;197711;Dolors MONTSERRAT;Montserrat;Dolors;MONTSERRAT;ES;PP
 person/197641;Person;197641;Sara CERDAS;Cerdas;Sara;CERDAS;PT;S&D;;
 person/197792;Person;197792;Daniela RONDINELLI;Rondinelli;Daniela;RONDINELLI;IT;S&D;;
 person/185771;Person;185771;Tom VANDENDRIESSCHE;Vandendriessche;Tom;VANDENDRIESSCHE;BE;ID;;
+person/132191;Person;132191;Gunnar BECK;Beck;Gunnar;BECK;DE;NI;;
 person/209896;Person;209896;Colm MARKEY;Markey;Colm;MARKEY;IE;PPE;;
 person/251249;Person;251249;Esther SANZ SELVA;Sanz Selva;Esther;SANZSELVAE;ES;The Left;;
 person/197464;Person;197464;Hannah NEUMANN;Neumann;Hannah;NEUMANN;DE;Verts/ALE;;
 person/124862;Person;124862;Ulrike MÜLLER;Müller;Ulrike;MULLERU;DE;Renew;;
 person/197543;Person;197543;Bernard GUETTA;Guetta;Bernard;GUETTA;FR;Renew;;
 person/2323;Person;2323;Rainer WIELAND;Wieland;Rainer;WIELAND;DE;PPE;;
+person/197475;Person;197475;Christine ANDERSON;Anderson;Christine;ANDERSON;DE;NI;;
 person/197818;Person;197818;Billy KELLEHER;Kelleher;Billy;KELLEHER;IE;Renew;;
 person/197804;Person;197804;Dino GIARRUSSO;Giarrusso;Dino;GIARRUSSO;IT;NI;;
 person/197849;Person;197849;Andrey SLABAKOV;Slabakov;Andrey;SLABAKOV;BG;ECR;Слабаков;Андрей
@@ -427,7 +429,6 @@ person/124856;Person;124856;Ignazio CORRAO;Corrao;Ignazio;CORRAO;IT;Verts/ALE;;
 person/230085;Person;230085;Camilla LAURETI;Laureti;Camilla;LAURETI;IT;S&D;;
 person/202112;Person;202112;Gheorghe-Vlad NISTOR;Nistor;Gheorghe-Vlad;NISTOR;RO;PPE;;
 person/197800;Person;197800;Eero HEINÄLUOMA;Heinäluoma;Eero;HEINALUOMA;FI;S&D;;
-person/125093;Person;125093;Kostas PAPADAKIS;Papadakis;Kostas;PAPADAKIS KONSTANTINOS;GR;NI;Παπαδάκης;Κωνσταντίνος
 person/197571;Person;197571;Nikolaj VILLUMSEN;Villumsen;Nikolaj;VILLUMSEN;DK;The Left;;
 person/204418;Person;204418;Nora MEBAREK;Mebarek;Nora;MEBAREK;FR;S&D;;
 person/197513;Person;197513;Tomasz FRANKOWSKI;Frankowski;Tomasz;FRANKOWSKI;PL;PPE;;
@@ -455,25 +456,27 @@ person/247737;Person;247737;Ana COLLADO JIMÉNEZ;Collado Jiménez;Ana;COLLADOJIM
 person/96998;Person;96998;Evelyn REGNER;Regner;Evelyn;REGNER;AT;S&D;;
 person/197518;Person;197518;Krzysztof JURGIEL;Jurgiel;Krzysztof;JURGIEL;PL;ECR;;
 person/198063;Person;198063;Márton GYÖNGYÖSI;Gyöngyösi;Márton;GYONGYOSI;HU;NI;;
+person/96933;Person;96933;Milan ZVER;ZVER;Milan;ZVER;SI;PPE;;
 person/124887;Person;124887;Karol KARSKI;Karski;Karol;KARSKI;PL;ECR;;
 person/28226;Person;28226;Christian EHLER;Ehler;Christian;EHLER;DE;PPE;;
 person/28615;Person;28615;Roberts ZĪLE;Zīle;Roberts;ZILE;LV;ECR;;
 person/197722;Person;197722;Nacho SÁNCHEZ AMOR;Sánchez Amor;Nacho;SANCHEZAMOR;ES;S&D;;
+person/198490;Person;198490;Emmanouil FRAGKOS;FRAGKOS;Emmanouil;FRAGKOS;GR;ECR;Φράγκος;Εμμανουήλ
 person/197608;Person;197608;Gianantonio DA RE;Da Re;Gianantonio;DARE;IT;ID;;
 person/197412;Person;197412;Niclas HERBST;Herbst;Niclas;HERBST;DE;PPE;;
 person/197421;Person;197421;Isabel WISELER-LIMA;Wiseler-Lima;Isabel;WISELER-LIMA;LU;PPE;;
 person/30482;Person;30482;Younous OMARJEE;Omarjee;Younous;OMARJEE;FR;The Left;;
 person/197418;Person;197418;Monica SEMEDO;Semedo;Monica;SEMEDO;LU;Renew;;
 person/135511;Person;135511;Valérie HAYER;Hayer;Valérie;HAYER;FR;Renew;;
-person/197482;Person;197482;Joachim KUHS;Kuhs;Joachim;KUHS;DE;ID;;
 person/202036;Person;202036;Sunčana GLAVAK;Glavak;Sunčana;GLAVAK;HR;PPE;;
 person/197544;Person;197544;Elżbieta RAFALSKA;Rafalska;Elżbieta;RAFALSKA;PL;ECR;;
 person/197506;Person;197506;Caroline ROOSE;Roose;Caroline;ROOSE;FR;Verts/ALE;;
 person/197618;Person;197618;Elisabetta GUALMINI;Gualmini;Elisabetta;GUALMINI;IT;S&D;;
-person/125068;Person;125068;Manolis KEFALOGIANNIS;Kefalogiannis;Manolis;KEFALOGIANNIS;GR;PPE;Κεφαλογιάννης;Μανώλης
 person/38595;Person;38595;Rovana PLUMB;Plumb;Rovana;PLUMBR;RO;S&D;;
 person/96750;Person;96750;François ALFONSI;Alfonsi;François;ALFONSI FRANÇOIS;FR;Verts/ALE;;
 person/243912;Person;243912;Maria Veronica ROSSI;Rossi;Maria Veronica;ROSSIMARIAVERONICA;IT;NI;;
+person/128483;Person;128483;Markus BUCHHEIT;Buchheit;Markus;BUCHHEIT;DE;NI;;
+person/197481;Person;197481;Maximilian KRAH;Krah;Maximilian;KRAH;DE;NI;;
 person/96648;Person;96648;Philippe LAMBERTS;Lamberts;Philippe;LAMBERTS PHILIPPE;BE;Verts/ALE;;
 person/39725;Person;39725;Iuliu WINKLER;Winkler;Iuliu;WINKLERIULIU;RO;PPE;;
 person/96852;Person;96852;Cornelia ERNST;Ernst;Cornelia;ERNST;DE;The Left;;
@@ -491,6 +494,7 @@ person/34578;Person;34578;Robert HAJŠEL;Hajšel;Robert;HAJSEL;SK;S&D;;
 person/124799;Person;124799;Alessandra MORETTI;Moretti;Alessandra;MORETTIA;IT;S&D;;
 person/28400;Person;28400;Francisco José MILLÁN MON;Millán Mon;Francisco José;MILLANMON;ES;PPE;;
 person/101585;Person;101585;Niels FUGLSANG;Fuglsang;Niels;FUGLSANG;DK;S&D;;
+person/256134;Person;256134;Ansis PŪPOLS;Pūpols;Ansis;PŪPOLSA;LV;ECR;;
 person/28429;Person;28429;Alessandra MUSSOLINI;Mussolini;Alessandra;MUSSOLINI;IT;PPE;;
 person/124784;Person;124784;Dan NICA;Nica;Dan;NICA;RO;S&D;;
 person/190518;Person;190518;Jörg MEUTHEN;Meuthen;Jörg;MEUTHEN;DE;NI;;
@@ -514,7 +518,6 @@ person/197619;Person;197619;Sabrina PIGNEDOLI;Pignedoli;Sabrina;PIGNEDOLI;IT;NI;
 person/124691;Person;124691;Costas MAVRIDES;Mavrides;Costas;MAVRIDES;CY;S&D;Μαυρίδης;Κώστας
 person/124884;Person;124884;Kosma ZŁOTOWSKI;Złotowski;Kosma;ZLOTOWSKI;PL;ECR;;
 person/125104;Person;125104;Romana TOMC;Tomc;Romana;TOMC;SI;PPE;;
-person/96933;Person;96933;Milan ZVER;Zver;Milan;ZVER;SI;PPE;;
 person/96837;Person;96837;Petra KAMMEREVERT;Kammerevert;Petra;KAMMEREVERT;DE;S&D;;
 person/28141;Person;28141;Lívia JÁRÓKA;Járóka;Lívia;JAROKA;HU;NI;;
 person/28353;Person;28353;Anna FOTYGA;Fotyga;Anna;FOTYGA;PL;ECR;;
@@ -532,9 +535,8 @@ person/238674;Person;238674;Theresa BIELOWSKI;Bielowski;Theresa;MUIGG;AT;S&D;;
 person/197545;Person;197545;Bogdan RZOŃCA;Rzońca;Bogdan;RZONCA;PL;ECR;;
 person/197563;Person;197563;Mauri PEKKARINEN;Pekkarinen;Mauri;PEKKARINEN;FI;Renew;;
 person/96922;Person;96922;Izaskun BILBAO BARANDICA;Bilbao Barandica;Izaskun;BILBAOBARANDICA;ES;Renew;;
-person/198490;Person;198490;Emmanouil FRAGKOS;Fragkos;Emmanouil;FRAGKOS;GR;ECR;Φράγκος;Εμμανουήλ
+person/197482;Person;197482;Joachim KUHS;Kuhs;Joachim;KUHS;DE;NI;;
 person/124766;Person;124766;Petras AUŠTREVIČIUS;Auštrevičius;Petras;AUSTREVICIUS;LT;Renew;;
-person/197488;Person;197488;Guido REIL;Reil;Guido;REIL;DE;ID;;
 person/197507;Person;197507;Włodzimierz CIMOSZEWICZ;Cimoszewicz;Włodzimierz;CIMOSZEWICZ;PL;S&D;;
 person/214839;Person;214839;Emma WIESNER;Wiesner;Emma;WIESNER;SE;Renew;;
 person/239972;Person;239972;Erik POULSEN;Poulsen;Erik;POULSENE;DK;Renew;;
@@ -562,6 +564,7 @@ person/28347;Person;28347;Javier MORENO SÁNCHEZ;Moreno Sánchez;Javier;MORENOSA
 person/197624;Person;197624;Ivars IJABS;Ijabs;Ivars;IJABS;LV;Renew;;
 person/205452;Person;205452;Chris MACMANUS;MacManus;Chris;MACMANUS;IE;The Left;;
 person/197515;Person;197515;Pernille WEISS;Weiss;Pernille;WEISSP;DK;PPE;;
+person/4260;Person;4260;Eija-Riitta KORHOLA;Korhola;Eija-Riitta;KORHOLA;FI;PPE;;
 person/96826;Person;96826;Tamás DEUTSCH;Deutsch;Tamás;DEUTSCH;HU;NI;;
 person/253043;Person;253043;Henk Jan ORMEL;Ormel;Henk Jan;ORMELHJ;NL;PPE;;
 person/197805;Person;197805;Silvia MODIG;Modig;Silvia;MODIG;FI;The Left;;
@@ -584,6 +587,7 @@ person/197607;Person;197607;Pietro FIOCCHI;Fiocchi;Pietro;FIOCCHI;IT;ECR;;
 person/114268;Person;114268;Nils TORVALDS;Torvalds;Nils;TORVALDS;FI;Renew;;
 person/197737;Person;197737;Ioannis LAGOS;Lagos;Ioannis;LAGOS;GR;NI;Λαγός;Ιωάννης
 person/96952;Person;96952;Sylvie GUILLAUME;Guillaume;Sylvie;GUILLAUME SYLVIE;FR;S&D;;
+person/244571;Person;244571;Nikos PAPANDREOU;PAPANDREOU;Nikos;PAPANDREOUNIKOS;GR;S&D;Παπανδρέου;Νίκος
 person/136236;Person;136236;João PIMENTA LOPES;Pimenta Lopes;João;PIMENTALOPES;PT;The Left;;
 person/249826;Person;249826;Josef MIHÁL;Mihál;Josef;MIHALJ;SK;Renew;;
 person/197728;Person;197728;Mónica Silvana GONZÁLEZ;González;Mónica Silvana;GONZALEZ;ES;S&D;;
@@ -608,7 +612,6 @@ person/197610;Person;197610;Alessandra BASSO;Basso;Alessandra;BASSO;IT;ID;;
 person/240478;Person;240478;Beatrice COVASSI;Covassi;Beatrice;COVASSIB;IT;S&D;;
 person/254720;Person;254720;Ana Miguel DOS SANTOS;DOS SANTOS;Ana Miguel;DOSSANTOSANAMIGUEL;PT;PPE;;
 person/197579;Person;197579;Klára DOBREV;Dobrev;Klára;DOBREV;HU;S&D;;
-person/197701;Person;197701;Konstantinos ARVANITIS;Arvanitis;Konstantinos;ARVANITIS;GR;The Left;Αρβανίτης;Κωνσταντίνος
 person/124846;Person;124846;Pina PICIERNO;Picierno;Pina;PICIERNO;IT;S&D;;
 person/245858;Person;245858;Thomas RUDNER;Rudner;Thomas;RUDNERT;DE;S&D;;
 person/124867;Person;124867;Brando BENIFEI;Benifei;Brando;BENIFEI;IT;S&D;;
@@ -630,7 +633,6 @@ person/197460;Person;197460;Sergey LAGODINSKY;Lagodinsky;Sergey;LAGODINSKY;DE;Ve
 person/96880;Person;96880;Andrea COZZOLINO;Cozzolino;Andrea;COZZOLINO;IT;NI;;
 person/197468;Person;197468;Özlem DEMIREL;Demirel;Özlem;DEMIREL;DE;The Left;;
 person/124985;Person;124985;Luke Ming FLANAGAN;Flanagan;Luke Ming;FLANAGAN LUKE;IE;The Left;;
-person/132191;Person;132191;Gunnar BECK;Beck;Gunnar;BECK;DE;ID;;
 person/229519;Person;229519;Catharina RINZEMA;Rinzema;Catharina;RINZEMA;NL;Renew;;
 person/1927;Person;1927;Peter LIESE;Liese;Peter;LIESE;DE;PPE;;
 person/197645;Person;197645;Francisco GUERREIRO;Guerreiro;Francisco;GUERREIROF;PT;Verts/ALE;;
@@ -671,9 +673,7 @@ person/191693;Person;191693;Elsi KATAINEN;Katainen;Elsi;KATAINEN;FI;Renew;;
 person/28219;Person;28219;Daniel CASPARY;Caspary;Daniel;CASPARY;DE;PPE;;
 person/124988;Person;124988;Deirdre CLUNE;Clune;Deirdre;CLUNE;IE;PPE;;
 person/197510;Person;197510;Jarosław DUDA;Duda;Jarosław;DUDAJ;PL;PPE;;
-person/128483;Person;128483;Markus BUCHHEIT;Buchheit;Markus;BUCHHEIT;DE;ID;;
 person/5729;Person;5729;Kathleen VAN BREMPT;Van Brempt;Kathleen;VANBREMPT;BE;S&D;;
-person/197481;Person;197481;Maximilian KRAH;Krah;Maximilian;KRAH;DE;ID;;
 person/125023;Person;125023;Anja HAZEKAMP;Hazekamp;Anja;HAZEKAMP;NL;The Left;;
 person/124802;Person;124802;Siegfried MUREŞAN;Mureşan;Siegfried;MURESAN;RO;PPE;;
 person/199941;Person;199941;Marianne VIND;Vind;Marianne;VIND;DK;S&D;;
@@ -681,6 +681,7 @@ person/197529;Person;197529;Leila CHAIBI;Chaibi;Leila;CHAIBI;FR;The Left;;
 person/23699;Person;23699;Kateřina KONEČNÁ;Konečná;Kateřina;KONECNA;CZ;The Left;;
 person/124808;Person;124808;Norbert LINS;Lins;Norbert;LINS;DE;PPE;;
 person/125030;Person;125030;Annie SCHREIJER-PIERIK;Schreijer-Pierik;Annie;SCHREIJER-PIERIK;NL;PPE;;
+person/197662;Person;197662;Vangelis MEIMARAKIS;MEIMARAKIS;Vangelis;MEIMARAKIS;GR;PPE;Μεϊμαράκης;Βαγγέλης
 person/197405;Person;197405;Jörgen WARBORN;Warborn;Jörgen;WARBORN;SE;PPE;;
 person/94649;Person;94649;Catherine GRISET;Griset;Catherine;GRISET;FR;ID;;
 person/197536;Person;197536;Nathalie COLIN-OESTERLÉ;Colin-Oesterlé;Nathalie;COLIN-OESTERLE;FR;PPE;;
