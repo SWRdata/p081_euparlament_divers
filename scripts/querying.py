@@ -11,12 +11,11 @@ def querying(identifier):
     mep_df = pd.json_normalize(mep_dict["@graph"])
     mep_df = mep_df.rename(columns = {"label": "name"})
     gender = str(mep_df["hasGender"].dropna().values[0]).split("/")[-1]
-    citizenship = str(mep_df["citizenship"].dropna().values[0]).split("/")[-1]
-    return pd.Series([gender, citizenship])
+    return gender
 
 meps_df = pd.read_csv(path.join(dir, "..", "data/start.csv"), sep =  ";")
 mep_identifiers = meps_df["identifier"].tolist()
 mep_details_df = pd.DataFrame(mep_identifiers)
 mep_details_df = mep_details_df.rename(columns = {0: "identifier"})
-mep_details_df[["gender", "citizenship"]] = mep_details_df["identifier"].apply(querying)
+mep_details_df["gender"] = mep_details_df["identifier"].apply(querying)
 mep_details_df.to_csv(path.join(dir, "..", "data", "details" + ".csv"), sep =  ";", encoding = "utf-8", index = False)
